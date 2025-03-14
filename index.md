@@ -30,3 +30,10 @@ This area covers how you communicate with those around you, in both technical an
 ## Leadership
 
 Leadership is how one can provide impact within your sphere of influence without releasing code. Whether it’s actively looking to mentor other engineers or using your expertise in a particular area to provide support or training across teams.
+
+## Roles
+
+- [Software Engineer I](./software_engineer_I)
+- [Software Engineer II](./software_engineer_II)
+- [Software Engineer III](./software_engineer_III)
+- [Software Engineer IV](./software_engineer_IV)
