@@ -3,8 +3,8 @@ As a Software Engineer III, you are capable of leading the design and implementa
 
 ## Impact
 
-- [Software Engineering I Impact](./software_engineer_I#Impact)
-- [Software Engineering II Impact](./software_engineer_II#Impact)
+- [Software Engineering I Impact](./software_engineer_I#impact)
+- [Software Engineering II Impact](./software_engineer_II#impact)
 
 - Lead technical implementations of projects to help your team deliver high quality work on time.
 
@@ -20,8 +20,8 @@ As a Software Engineer III, you are capable of leading the design and implementa
 
 ## Knowledge
 
-- [Software Engineering I Knowledge](./software_engineer_I#Knowledge)
-- [Software Engineering II Knowledge](./software_engineer_II#Knowledge)
+- [Software Engineering I Knowledge](./software_engineer_I#knowledge)
+- [Software Engineering II Knowledge](./software_engineer_II#knowledge)
 
 - Understand the implications of work being done and adjust approach based on impact and risk
 
@@ -33,8 +33,8 @@ As a Software Engineer III, you are capable of leading the design and implementa
 
 ## Communication
 
-- [Software Engineering I Communication](./software_engineer_I#Communication)
-- [Software Engineering II Communication](./software_engineer_II#Communication)
+- [Software Engineering I Communication](./software_engineer_I#communication)
+- [Software Engineering II Communication](./software_engineer_II#communication)
 
 - Gather input and ask clarifying questions to make informed and timely decisions
 
@@ -50,8 +50,8 @@ As a Software Engineer III, you are capable of leading the design and implementa
 
 ### Leadership
 
-- [Software Engineering I Leadership](./software_engineer_I#Leadership)
-- [Software Engineering II Leadership](./software_engineer_II#Leadership)
+- [Software Engineering I Leadership](./software_engineer_I#leadership)
+- [Software Engineering II Leadership](./software_engineer_II#leadership)
 
 - Mentor more junior engineers where possible, such as helping find suitable tasks, pairing with them on tickets, or providing context and guidance.
 

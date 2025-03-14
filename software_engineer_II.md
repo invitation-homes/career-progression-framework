@@ -4,6 +4,7 @@ As a Software Engineer II, you are expected to have acquired the foundational kn
 
 ## Impact
 
+- [Software Engineering I Impact](./software_engineer_I#impact)
 - Work independently on well-scoped features, tasks and bugs to help achieve team-level goals.
 
 - Look for the best way to solve problems, not just a way. Talk through options, offer ideas.
@@ -22,6 +23,7 @@ As a Software Engineer II, you are expected to have acquired the foundational kn
 
 ## Knowledge
 
+- [Software Engineering I Knowledge](./software_engineer_I#knowledge)
 - Understand where your project fits in terms of our Business.
 
 - Execute your work in a way that exemplifies comfort and confidence with the tools of your team.
@@ -34,6 +36,7 @@ As a Software Engineer II, you are expected to have acquired the foundational kn
 
 ## Communication
 
+- [Software Engineering I Communication](./software_engineer_I#communication)
 - Review the work of other engineers using agreed upon processes
   - Ex: Reviewing a Pull Request
 
@@ -47,6 +50,7 @@ As a Software Engineer II, you are expected to have acquired the foundational kn
 
 ## Leadership
 
+- [Software Engineering I Leadership](./software_engineer_I#leadership)
 - Be a model engineer for those who are looking up to you.
 
 - Take time to help others, especially more junior roles.

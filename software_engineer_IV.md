@@ -4,9 +4,9 @@ As a Software Engineer IV, you are the premier team role model. Your leadership,
 
 ## Impact
 
-- [Software Engineering I Impact](./software_engineer_I#Impact)
-- [Software Engineering II Impact](./software_engineer_II#Impact)
-- [Software Engineering III Impact](./software_engineer_III#Impact)
+- [Software Engineering I Impact](./software_engineer_I#impact)
+- [Software Engineering II Impact](./software_engineer_II#impact)
+- [Software Engineering III Impact](./software_engineer_III#impact)
 
 - Use your domain expertise to architect solutions, especially for more ambiguous and challenging problems the team faces
 
@@ -22,9 +22,9 @@ As a Software Engineer IV, you are the premier team role model. Your leadership,
 
 ## Knowledge
 
-- [Software Engineering I Knowledge](./software_engineer_I#Knowledge)
-- [Software Engineering II Knowledge](./software_engineer_II#Knowledge)
-- [Software Engineering III Knowledge](./software_engineer_III#Knowledge)
+- [Software Engineering I Knowledge](./software_engineer_I#knowledge)
+- [Software Engineering II Knowledge](./software_engineer_II#knowledge)
+- [Software Engineering III Knowledge](./software_engineer_III#knowledge)
 
 - Viewed as an authority in your technical domain or on your team’s systems
 
@@ -38,9 +38,9 @@ As a Software Engineer IV, you are the premier team role model. Your leadership,
 
 ## Communication
 
-- [Software Engineering I Communication](./software_engineer_I#Communication)
-- [Software Engineering II Communication](./software_engineer_II#Communication)
-- [Software Engineering III Communication](./software_engineer_III#Communication)
+- [Software Engineering I Communication](./software_engineer_I#communication)
+- [Software Engineering II Communication](./software_engineer_II#communication)
+- [Software Engineering III Communication](./software_engineer_III#communication)
 
 - Effectively communicate technical concepts to non-technical stakeholders
 
@@ -56,9 +56,9 @@ As a Software Engineer IV, you are the premier team role model. Your leadership,
 
 ## Leadership
 
-- [Software Engineering I Leadership](./software_engineer_I#Leadership)
-- [Software Engineering II Leadership](./software_engineer_II#Leadership)
-- [Software Engineering III Leadership](./software_engineer_III#Leadership)
+- [Software Engineering I Leadership](./software_engineer_I#leadership)
+- [Software Engineering II Leadership](./software_engineer_II#leadership)
+- [Software Engineering III Leadership](./software_engineer_III#eadership)
 
 - Advocate for and nuture empathy, psychological safety, and a blameless culture on your team and within our Technology group as a whole.
 
