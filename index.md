@@ -21,8 +21,9 @@ Reach is _where_ you have impact. It could also be considered your “sphere of 
 
 ## Knowledge
 
-Knowledge is one of the three factors of how you work. This covers both technical skills, such as the language your team works with, as well as domain and business-specific context. The more knowledge you gain, the more tools and insight you have to impact code, projects, architectural designs, etc…
-Communication
+Knowledge is one of the three factors of _how_ you work. This covers both technical skills, such as the language your team works with, as well as domain and business-specific context. The more knowledge you gain, the more tools and insight you have to impact code, projects, architectural designs, etc…
+
+## Communication
 
 This area covers how you communicate with those around you, in both technical and non-technical situations; this includes understanding how context, your tone and the method you choose to communicate can impact those situations.
 
