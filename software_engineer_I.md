@@ -1,3 +1,5 @@
+description: 
+---
 # Software Engineer I
 
 As a Software Engineer I, you are expected to learn the processes, practices, and technology that your team uses. Your work will consist of small, well-defined tasks to help you gain confidence. This role is intended to provide a learning platform where individuals can acquire the necessary skills and knowledge to contribute more value in the future.
