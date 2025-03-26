@@ -10,14 +10,8 @@ As a Software Engineer IV, you are the premier team role model. Your leadership,
 
 ## Impact
 
-- [Software Engineering I Impact](./software_engineer_I#impact)
-- [Software Engineering II Impact](./software_engineer_II#impact)
-- [Software Engineering III Impact](./software_engineer_III#impact)
-
 - Use your domain expertise to architect solutions, especially for more ambiguous and challenging problems the team faces
-
 - Shape the technical direction and vision for your team’s systems
-
 - Improve team efficiency and effectiveness by understanding pain points and working to resolve them through means such as:
   - Tackling tech debt
   - Automating toil
@@ -28,54 +22,28 @@ As a Software Engineer IV, you are the premier team role model. Your leadership,
 
 ## Knowledge
 
-- [Software Engineering I Knowledge](./software_engineer_I#knowledge)
-- [Software Engineering II Knowledge](./software_engineer_II#knowledge)
-- [Software Engineering III Knowledge](./software_engineer_III#knowledge)
-
 - Viewed as an authority in your technical domain or on your team’s systems
-
 - Balance both current and future needs by understanding bigger picture elements for your team and others impacted by your team’s work.
-
 - Ensure your team understands the standard engineering practices and why they exist. Refer them to decision records, QRGs, etc.
-
     - Understand when work has evolved and these decisions are no longer applicable, and provide updates to documentation with new guidance.
-
 - Share your knowledge in Special Interest Groups (SIGs) to improve the knowledge and skills of others across Engineering
 
 ## Communication
 
-- [Software Engineering I Communication](./software_engineer_I#communication)
-- [Software Engineering II Communication](./software_engineer_II#communication)
-- [Software Engineering III Communication](./software_engineer_III#communication)
-
 - Effectively communicate technical concepts to non-technical stakeholders
-
 - Collaborate and coordinate across teams
-
 - Encourage transparent communication within and outside of your team
-
 - Advocate and get buy-in for technical solutions
-
 - Provide opinions and thoughts in a way that is conducive to collaboration and invites participation from others.
-
 - Capability to help arbitrate and de-escalate technical disagreements 
 
 ## Leadership
 
-- [Software Engineering I Leadership](./software_engineer_I#leadership)
-- [Software Engineering II Leadership](./software_engineer_II#leadership)
-- [Software Engineering III Leadership](./software_engineer_III#eadership)
-
 - Advocate for and nuture empathy, psychological safety, and a blameless culture on your team and within our Technology group as a whole.
-
 - Help improve the processes for engineers on your team, especially in ways that could also be beneficial to other teams.
-
 - Improve the candidate experience for hiring new team members
-
 - Work with your manager to find mentoring opportunities that will allow you to help other engineers perform and grow
-
 - Delegate low-risk technical decisions and own high-risk technical decisions
-
 - Your attitude and energy will be felt and responded to by those around you, whether you realize it or not. Be a force for positivity and excitement – be representative of the kind of environment you want to work in!
 
  
