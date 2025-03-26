@@ -1,3 +1,9 @@
+---
+id: software-engineer-iv
+title: Software Engineer IV
+---
+
+
 # Software Engineer IV
 
 As a Software Engineer IV, you are the premier team role model. Your leadership, technology, and communication skills have a substantial impact on those around you. While you primarily work at the team level, you may also work across teams when collaboration and coordination are required. You have gained the knowledge and confidence to make recommendations and decisions. It is expected, at this point, that you will be an active agent of change and improvement. 

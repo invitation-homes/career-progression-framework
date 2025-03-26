@@ -1,1 +1,9 @@
 title: Invitation Homes Engineering Progression Framework
+remote_theme: invitation-homes/career-progression-framework-theme@main
+search_enabled: true
+sidebar:
+  - overview
+  - software-engineer-i
+  - software-engineer-ii
+  - software-engineer-iii
+  - software-engineer-iv

@@ -1,3 +1,9 @@
+---
+id: software-engineer-ii
+title: Software Engineer II
+---
+
+
 # Software Engineer II
 
 As a Software Engineer II, you are expected to have acquired the foundational knowledge and skills of your craft, as well as the confidence to take on more responsibilities and independent work. You seek out opportunities to broaden and/or deepen both your technical and non-technical skills in an effort to fill the gaps in your knowledge. You will participate on larger scopes of work in well-defined projects to contribute value to your team. It is still expected that this role will need some support and supervision from other members the team.
