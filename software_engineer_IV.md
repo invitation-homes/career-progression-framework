@@ -6,7 +6,11 @@ title: Software Engineer IV
 
 # Software Engineer IV
 
-As a Software Engineer IV, you are the premier team role model. Your leadership, technology, and communication skills have a substantial impact on those around you. While you primarily work at the team level, you may also work across teams when collaboration and coordination are required. You have gained the knowledge and confidence to make recommendations and decisions. It is expected, at this point, that you will be an active agent of change and improvement. 
+As a Software Engineer IV, you are the premier team role model. Your leadership, technology, and communication skills 
+have a substantial impact on those around you. While you primarily work at the team level, you may also work across 
+teams when collaboration and coordination are required. You have gained the knowledge and confidence to make 
+recommendations and decisions. It is expected, at this point, that you will be an active agent of change and 
+improvement. 
 
 ## Impact
 
@@ -23,9 +27,12 @@ As a Software Engineer IV, you are the premier team role model. Your leadership,
 ## Knowledge
 
 - Viewed as an authority in your technical domain or on your team’s systems
-- Balance both current and future needs by understanding bigger picture elements for your team and others impacted by your team’s work.
-- Ensure your team understands the standard engineering practices and why they exist. Refer them to decision records, QRGs, etc.
-    - Understand when work has evolved and these decisions are no longer applicable, and provide updates to documentation with new guidance.
+- Balance both current and future needs by understanding bigger picture elements for your team and others impacted by 
+your team’s work.
+- Ensure your team understands the standard engineering practices and why they exist. Refer them to decision records, 
+QRGs, etc.
+    - Understand when work has evolved and these decisions are no longer applicable, and provide updates to 
+    documentation with new guidance.
 - Share your knowledge in Special Interest Groups (SIGs) to improve the knowledge and skills of others across Engineering
 
 ## Communication
@@ -39,11 +46,13 @@ As a Software Engineer IV, you are the premier team role model. Your leadership,
 
 ## Leadership
 
-- Advocate for and nuture empathy, psychological safety, and a blameless culture on your team and within our Technology group as a whole.
+- Advocate for and nuture empathy, psychological safety, and a blameless culture on your team and within our Technology 
+group as a whole.
 - Help improve the processes for engineers on your team, especially in ways that could also be beneficial to other teams.
 - Improve the candidate experience for hiring new team members
 - Work with your manager to find mentoring opportunities that will allow you to help other engineers perform and grow
 - Delegate low-risk technical decisions and own high-risk technical decisions
-- Your attitude and energy will be felt and responded to by those around you, whether you realize it or not. Be a force for positivity and excitement – be representative of the kind of environment you want to work in!
+- Your attitude and energy will be felt and responded to by those around you, whether you realize it or not. Be a force 
+for positivity and excitement – be representative of the kind of environment you want to work in!
 
  
