@@ -40,7 +40,7 @@ not only building something right, but that we’re also building the right thin
 - Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend 
 your own. 
 
-### Leadership
+## Leadership
 
 - Mentor more junior engineers where possible, such as helping find suitable tasks, pairing with them on tickets, or 
 providing context and guidance.
