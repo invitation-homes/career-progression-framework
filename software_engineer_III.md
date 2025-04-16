@@ -3,8 +3,6 @@ id: software-engineer-iii
 title: Software Engineer III
 ---
 
-
-# Software Engineer III
 As a Software Engineer III, you are capable of leading the design and implementation of a typical solution. 
 It’s expected, not that you have all the answers, but that you have the aptitude and experience to solve the problems 
 laid out before you effectively. Your work is high quality – You deliver what is needed in a timely manner and with 
