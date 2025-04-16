@@ -1,14 +1,21 @@
 ---
 id: overview
-title: Overview
+title: Engineering Career Progression Framework
 ---
 
-Our Engineering Progression Framework is a reference for you to understand the expectations of the roles at 
+This framework is a reference for you to understand the expectations of the roles at 
 Invitation Homes. It should be used as a guide for behaviors we want to recognize, improve, or hold individuals 
 accountable for. It should not be used as a definitive checklist for promotion. You should be meeting with your manager 
 and creating a development plan, which may contain expectations and goals that are not explicitly defined here.
 
-Each role has a short description 5 key areas of focus: 
+Our culture is driven by a few guiding principles. These principles are meant to be shared amongst all Engineers, regardless of role.
+
+- Give feedback that is clear, kind, and actionable
+- Provide opinions and thoughts in a way that is conducive to collaboration and invites participation from others.
+- Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your 
+own.
+
+Our roles have five areas of focus: 
 
 ## Impact
 
@@ -49,12 +56,3 @@ includes understanding how context, your tone and the method you choose to commu
 Leadership is how one can provide impact within your sphere of influence without releasing code. Whether it’s actively 
 looking to mentor other engineers or using your expertise in a particular area to provide support or training across 
 teams.
-
-## Culture
-
-Culture is everyone’s responsibility. These principles are meant to be shared amongst all Engineers, regardless of role.
-
-- Give feedback that is clear, kind, and actionable
-- Provide opinions and thoughts in a way that is conducive to collaboration and invites participation from others.
-- Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your 
-own.
