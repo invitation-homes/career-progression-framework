@@ -2,11 +2,11 @@ title: Invitation Homes
 remote_theme: invitation-homes/career-progression-framework-theme@simple-jekyll
 search_enabled: false
 sidebar:
-  - url_slug: software_engineer_i
+  - url_slug: software_engineer_I
     title: Software Engineer I
-  - url_slug: software_engineer_ii
+  - url_slug: software_engineer_II
     title: Software Engineer II
-  - url_slug: software_engineer_iii
+  - url_slug: software_engineer_III
     title: Software Engineer III
-  - url_slug: software_engineer_iv
+  - url_slug: software_engineer_IV
     title: Software Engineer IV
