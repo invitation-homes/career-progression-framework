@@ -1,9 +1,12 @@
-title: Engineering Progression
+title: Invitation Homes
 remote_theme: invitation-homes/career-progression-framework-theme@simple-jekyll
 search_enabled: false
 sidebar:
-  - overview
-  - software-engineer-i
-  - software-engineer-ii
-  - software-engineer-iii
-  - software-engineer-iv
+  - url_slug: software_engineer_i
+    title: Software Engineer I
+  - url_slug: software_engineer_ii
+    title: Software Engineer II
+  - url_slug: software_engineer_iii
+    title: Software Engineer III
+  - url_slug: software_engineer_iv
+    title: Software Engineer IV
