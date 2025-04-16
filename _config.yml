@@ -1,5 +1,5 @@
 title: Engineering Progression
-remote_theme: invitation-homes/career-progression-framework-theme@main
+remote_theme: invitation-homes/career-progression-framework-theme@simple-jekyll
 search_enabled: false
 sidebar:
   - overview
