@@ -15,7 +15,74 @@ Our culture is driven by a few guiding principles. These principles are shared a
 - Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your 
 own.
 
-Our roles have five areas of focus: 
+# Career Progression Tracks
+
+Engineers at Invitation Homes can take a individual contributed focused track, our Professional Track, or a people management focused track, the Management Track.
+
+{% raw %}
+<div class="mermaid" style="text-align: center;">
+---
+config:
+  theme: neutral
+  flowchart:
+    curve: monotoneY
+    nodeSpacing: 20
+    rankSpacing: 25
+  layout: fixed
+---
+flowchart TD
+    SE1["Software Engineer 1"] --> SE2["Software Engineer 2"]
+    SE2 --> SE3["Software Engineer 3"]
+    SE3 --> SE4["Software Engineer 4"]
+    SE4 -- Professional Track --> Staff["Staff Engineer"]
+    SE4 -- Management Track --> EM["Engineering Manager"]
+    Staff --> Principal["Principal Engineer"]
+    EM --> SEM["Senior Engineering Manager"]
+    SEM --> ED["Engineering Director"]
+    ED --> SED["Sr. Engineering Director"]
+    SED --> VP["VP of Engineering"]
+    SE1@{ shape: rounded}
+    SE2@{ shape: rounded}
+    SE3@{ shape: rounded}
+    SE4@{ shape: rounded}
+    Staff@{ shape: rounded}
+    EM@{ shape: rounded}
+    SEM@{ shape: rounded}
+    Principal@{ shape: rounded}
+    ED@{ shape: rounded}
+    SED@{ shape: rounded}
+    VP@{ shape: rounded}
+     SE1:::normNode
+     SE2:::normNode
+     SE3:::normNode
+     SE4:::normNode
+     Staff:::eng
+     EM:::mgr
+     SEM:::mgr
+     Principal:::eng
+     ED:::mgr
+     SED:::exec
+     VP:::exec
+    classDef eng fill:#f7f7fa,stroke:#bbb,stroke-width:2px,color:#343a40
+    classDef mgr fill:#f7f7fa,stroke:#bbb,stroke-width:2px,color:#343a40
+    classDef exec fill:#f7f7fa,stroke:#bbb,stroke-width:2px,color:#343a40
+    classDef normNode fill:#f7f7fa,stroke:#bbb,stroke-width:1.5px,color:#343a40
+    click SE1 "./software_engineer_I" _blank
+    click SE2 "./software_engineer_II" _blank
+    click SE3 "./software_engineer_III" _blank
+    click SE4 "./software_engineer_IV" _blank
+    click Staff "./staff_engineer" _blank
+    click Principal "./principal_engineer" _blank
+    click EM "./engineering_manager" _blank
+    click SEM "./senior_engineering_manager" _blank
+    click ED "./director_of_engineering" _blank
+
+</div>
+{% endraw %}
+
+# Our Expectations
+
+Our roles have five areas of focus: Impact, Reach, Knowledge, Communication and Leadership.
 
 ## Impact
 
