@@ -36,7 +36,8 @@ flowchart TD
     SE3 --> SE4["Software Engineer 4"]
     SE4 -- Professional Track --> Staff["Staff Engineer"]
     SE4 -- Management Track --> EM["Engineering Manager"]
-    Staff --> Principal["Principal Engineer"]
+    Staff --- Dummy[ ]
+    Dummy --> Principal["Principal Engineer"]
     EM --> SEM["Senior Engineering Manager"]
     SEM --> ED["Engineering Director"]
     ED --> SED["Sr. Engineering Director"]
@@ -63,10 +64,12 @@ flowchart TD
      ED:::mgr
      SED:::exec
      VP:::exec
+     Dummy:::dummy
     classDef eng fill:#f7f7fa,stroke:#bbb,stroke-width:2px,color:#343a40
     classDef mgr fill:#f7f7fa,stroke:#bbb,stroke-width:2px,color:#343a40
     classDef exec fill:#f7f7fa,stroke:#bbb,stroke-width:2px,color:#343a40
     classDef normNode fill:#f7f7fa,stroke:#bbb,stroke-width:1.5px,color:#343a40
+    classDef dummy style X width:1px,height:1px,fill:transparent,stroke:transparent 
     click SE1 "./software_engineer_I" _blank
     click SE2 "./software_engineer_II" _blank
     click SE3 "./software_engineer_III" _blank
