@@ -10,3 +10,13 @@ sidebar:
     title: Software Engineer III
   - url_slug: software_engineer_IV
     title: Software Engineer IV
+  - url_slug: staff_engineer
+    title: Staff Engineer
+  - url_slug: principal_engineer
+    title: Principal Engineer
+  - url_slug: engineering_manager
+    title: Engineering Manager
+  - url_slug: senior_engineering_manager
+    title: Senior Engineering Manager
+  - url_slug: director_of_engineering
+    title: Director of Engineering
