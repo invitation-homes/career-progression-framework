@@ -17,7 +17,7 @@ own.
 
 # Career Progression Tracks
 
-Engineers at Invitation Homes can take a individual contributed focused track, our Professional Track, or a people management focused track, the Management Track.
+Engineers can take an individual contributor focused track, the Professional Track, or a people management focused track, the Management Track, as they navigate their career here at Invitation Homes.
 
 {% raw %}
 <div class="mermaid" style="text-align: center;">
