@@ -15,7 +15,15 @@ Our culture is driven by a few guiding principles. These principles are shared a
 - Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your 
 own.
 
-Our roles have five areas of focus: 
+# Career Progression Tracks
+
+Engineers at Invitation Homes can take a individual contributed focused track, our Professional Track, or a people management focused track, the Management Track.
+
+![progression track](career_progression_visualization.png)
+
+# Our Expectations
+
+Our roles have five areas of focus: Impact, Reach, Knowledge, Communication and Leadership.
 
 ## Impact
 
