@@ -32,8 +32,8 @@ config:
 ---
 flowchart TD
     SE1["Software Engineer 1"] --> SE2["Software Engineer 2"]
-    SE2 --> SE3["Software Engineer 3"]
-    SE3 --> SE4["Software Engineer 4"]
+    SE2 --> SE3["Software Engineer 3 / Salesforce Admin"]
+    SE3 --> SE4["Software Engineer 4 / Salesforce Platform Manager"]
     SE4 -- Professional Track --> Staff["Staff Engineer"]
     SE4 -- Management Track --> EM["Engineering Manager"]
     Staff --- Dummy[ ]
