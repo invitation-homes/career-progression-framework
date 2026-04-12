@@ -80,6 +80,7 @@ flowchart TD
     click SEM "./senior_engineering_manager" _blank
     click ED "./director_of_engineering" _blank
     click SED "./sr_director_of_engineering" _blank
+    click VP "./vp_of_engineering" _blank
 
 </div>
 {% endraw %}
