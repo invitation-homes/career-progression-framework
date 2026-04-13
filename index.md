@@ -15,6 +15,8 @@ Our culture is driven by a few guiding principles. These principles are shared a
 - Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your 
 own.
 
+For our broader engineering vision, mission, and principles, see [Engineering Vision, Mission, and Principles](./engineering_principles).
+
 # Career Progression Tracks
 
 Engineers can take an individual contributor focused track, the Professional Track, or a people management focused track, the Management Track, as they navigate their career here at Invitation Homes.
