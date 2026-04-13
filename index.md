@@ -39,6 +39,7 @@ flowchart TD
     Staff --- Dummy[ ]
     Dummy --> Principal["Principal Engineer"]
     Principal --> SrPrincipal["Sr. Principal Engineer"]
+    SrPrincipal --> TF["Tech Fellow"]
     EM --> SEM["Senior Engineering Manager"]
     SEM --> ED["Engineering Director"]
     ED --> SED["Sr. Engineering Director"]
@@ -52,6 +53,7 @@ flowchart TD
     SEM@{ shape: rounded}
     Principal@{ shape: rounded}
     SrPrincipal@{ shape: rounded}
+    TF@{ shape: rounded}
     ED@{ shape: rounded}
     SED@{ shape: rounded}
     VP@{ shape: rounded}
@@ -64,6 +66,7 @@ flowchart TD
      SEM:::mgr
      Principal:::eng
      SrPrincipal:::exec
+     TF:::exec
      ED:::mgr
      SED:::exec
      VP:::exec
@@ -80,6 +83,7 @@ flowchart TD
     click Staff "./staff_engineer" _blank
     click Principal "./principal_engineer" _blank
     click SrPrincipal "./sr_principal_engineer" _blank
+    click TF "./tech_fellow" _blank
     click EM "./engineering_manager" _blank
     click SEM "./senior_engineering_manager" _blank
     click ED "./director_of_engineering" _blank

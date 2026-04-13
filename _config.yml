@@ -16,6 +16,8 @@ sidebar:
     title: Principal Engineer
   - url_slug: sr_principal_engineer
     title: Sr. Principal Engineer
+  - url_slug: tech_fellow
+    title: Tech Fellow
   - url_slug: engineering_manager
     title: Engineering Manager
   - url_slug: senior_engineering_manager
