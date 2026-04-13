@@ -7,9 +7,9 @@ As an Engineering Manager, you are a technical and people leader responsible for
 
 ## Impact
 
-- Cultivate teams through relationships, culture, recruiting, and growth within Engineering pod.
+- Cultivate teams through relationships, culture, recruiting, and growth within your Engineering pod.
 - Use domain knowledge to plan and drive delivery of solutions aligned with business goals.
-- Facilitate team’s execution by identifying and removing obstacles, improving processes, collaboration, and prioritization.
+- Facilitate the team’s execution by identifying and removing obstacles, improving processes, collaboration, and prioritization.
 - Shape technical vision by advocating and prioritizing for quality, reliability, maintainability, and performance of the systems your team builds.
 
 ## Reach
@@ -17,7 +17,7 @@ As an Engineering Manager, you are a technical and people leader responsible for
 - Leadership Reach
   - Team
 
-- Engineering Reach
+- Technical Reach
   - Cross-Team
 
 While your focus is your team, you actively collaborate with other teams, product partners, and stakeholders to align on vision and coordinate delivery. You share knowledge, influence culture, and support consistency across the broader engineering organization.

@@ -7,7 +7,7 @@ As VP of Engineering, you own the technical vision for the organization and are 
 
 ## Impact
 
-- Own the technical vision and define how engineering investments translate into product outcomes across all audiences — residents, associates, and investors.
+- Own the technical vision and define how engineering investments translate into product outcomes across all audiences: residents, associates, and investors.
 - Make high-stakes build, buy, and partner decisions that determine how the company develops and maintains its technology capabilities.
 - Set the standard for engineering execution — quality, delivery, and operational excellence — across the entire organization.
 - Drive accountability for engineering outcomes at the executive level, including delivery, budget, and resource planning.
@@ -26,7 +26,7 @@ Your influence extends beyond the company. You build and maintain a reputation �
 ## Knowledge
 
 - Maintain the technical depth to engage credibly in architecture, code quality, and design decisions while knowing when to lead and when to empower.
-- Stay ahead of emerging trends — including AI, IoT, cloud architecture, and security — and apply them strategically to keep the organization competitive.
+- Stay ahead of emerging trends, including AI, IoT, cloud architecture, and security, and apply them strategically to keep the organization competitive.
 - Understand the financial dimensions of engineering: forecasting, resource planning, and managing a budget in alignment with business outcomes.
 - Develop a broad awareness of the vendor landscape and the trade-offs between building, buying, and partnering.
 

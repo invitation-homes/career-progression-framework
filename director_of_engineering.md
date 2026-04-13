@@ -7,9 +7,9 @@ As a Director of Engineering, you are responsible for shaping the strategic tech
 
 ## Impact
 
-- Deliver strategic impact by shaping  technical strategy and executing initiatives that advance organizational priorities.
+- Deliver strategic impact by shaping technical strategy and executing initiatives that advance organizational priorities.
 - Surface and manage organizational risks.
-- Establish organization wide culture of engineering excellence.
+- Establish an organization-wide culture of engineering excellence.
 - Guide vendor relationships and system integrations.
 - Manage organizational spend in alignment with strategic goals.
 
@@ -34,13 +34,15 @@ Your influence spans multiple engineering teams, touching wide areas of the tech
 
 - Create alignment through transparent, strategic communication, connecting technical decisions to business outcomes.
 - Communicate priorities, trade-offs, progress, risks, and results across the organization.
+- Build and maintain trust with executive and cross-functional leadership through consistent, well-reasoned communication.
+- Represent engineering's perspective in company-level conversations, helping the broader organization understand and value the work of your teams.
 
 ## Leadership
 
 - Foster a generative, high-performing culture where individuals and teams are empowered to innovate and succeed.
 - Guide, coach, and inspire engineering managers, growing the next generation of technical and organizational leaders.
 - Build and nurture cross-functional collaboration.
-- Maintains accountability across the organization.
+- Maintain accountability across the organization.
 - Model strategic thinking, empathy, and continuous improvement at every level of engagement.
 - Serve as a steady decision-maker and mediator, providing clarity, resolving conflicts, and enabling teams to move forward with confidence and focus.
 

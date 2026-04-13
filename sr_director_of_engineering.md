@@ -3,7 +3,7 @@ id: sr-director-of-engineering
 title: Sr. Director of Engineering
 ---
 
-As a Sr. Director of Engineering, you set the strategic direction for engineering at the company level and ensure that technology and organizational decisions are deeply aligned with long-term business outcomes. You are a senior leader who partners with the VP of Engineering and executive stakeholders to shape the culture, capability, and trajectory of the engineering organization. Your focus shifts from managing within a department to influencing the company — designing the systems, structures, and people strategies that allow engineering to scale and thrive.
+As a Sr. Director of Engineering, you set the strategic direction for engineering at the company level and ensure that technology and organizational decisions are deeply aligned with long-term business outcomes. You are a senior leader who partners with the VP of Engineering and executive stakeholders to shape the culture, capability, and trajectory of the engineering organization. Your focus shifts from managing within a department to influencing the company by designing the systems, structures, and people strategies that allow engineering to scale and thrive.
 
 ## Impact
 
@@ -25,7 +25,7 @@ Your influence extends across the entire company. You shape how engineering is p
 
 ## Knowledge
 
-- Maintain deep technical credibility — understanding architectural trade-offs, emerging technology trends, and how to evaluate them against business context.
+- Maintain deep technical credibility by understanding architectural trade-offs, emerging technology trends, and how to evaluate them against business context.
 - Develop and apply knowledge of organizational design, talent strategy, and team dynamics to build structures that scale effectively.
 - Understand the business deeply enough to translate company goals into engineering strategy, and engineering constraints into language executives can act on.
 - Stay connected to the external engineering community and industry trends to ensure the organization remains competitive and informed.
@@ -40,7 +40,7 @@ Your influence extends across the entire company. You shape how engineering is p
 ## Leadership
 
 - Develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across the company.
-- Own the talent strategy for engineering — hiring, developing, and retaining high-performing leaders and teams.
+- Own the talent strategy for engineering, including hiring, developing, and retaining high-performing leaders and teams.
 - Set the cultural tone for engineering at the company level, modeling strategic thinking, accountability, empathy, and continuous improvement.
 - Partner with the VP of Engineering and CIO to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.
-- Serve as a steady, decisive leader in complex situations — resolving organizational conflicts, navigating ambiguity, and enabling teams to move forward with clarity and confidence.
+- Serve as a steady, decisive leader in complex situations, resolving organizational conflicts, navigating ambiguity, and enabling teams to move forward with clarity and confidence.
