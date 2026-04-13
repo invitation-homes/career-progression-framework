@@ -9,9 +9,7 @@ The content represents Invitation Homes' career progression framework for softwa
 
 ## Structure
 
-- One Markdown file per role, plus [index.md](index.md) for the overview and career ladder diagram
 - [_config.yml](_config.yml) — must be updated whenever a role file is added or a title changes (controls sidebar navigation)
-- [decision-records/](decision-records/) — ADRs documenting content and formatting decisions
 
 ## Content Conventions
 
