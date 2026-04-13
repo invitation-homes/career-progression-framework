@@ -14,6 +14,8 @@ sidebar:
     title: Staff Engineer
   - url_slug: principal_engineer
     title: Principal Engineer
+  - url_slug: sr_principal_engineer
+    title: Sr. Principal Engineer
   - url_slug: engineering_manager
     title: Engineering Manager
   - url_slug: senior_engineering_manager
