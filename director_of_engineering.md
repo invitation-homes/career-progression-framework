@@ -3,7 +3,9 @@ id: director-of-engineering
 title: Director of Engineering
 ---
 
-As a Director of Engineering, you are responsible for shaping the strategic technical vision, aligning engineering execution with business goals, and building an environment where managers and teams thrive. Your focus is on driving architecture direction, managing organizational risk, scaling technical systems, fostering innovation, and ensuring delivery of high-impact results. You play a pivotal role in influencing not just engineering, but the broader organization’s culture, priorities, and success.
+As a Director of Engineering, you are responsible for shaping the strategic technical vision, aligning engineering execution with business goals, and building an environment where managers and teams thrive.
+Your focus is on driving architecture direction, managing organizational risk, scaling technical systems, fostering innovation, and ensuring delivery of high-impact results.
+You play a pivotal role in influencing not just engineering, but the broader organization’s culture, priorities, and success.
 
 ## Impact
 
@@ -21,7 +23,8 @@ As a Director of Engineering, you are responsible for shaping the strategic tech
 - Technical Reach
   - Company
 
-Your influence spans multiple engineering teams, touching wide areas of the technical and business ecosystem. You partner closely with leadership across Product, Design, Business Operations, and Vendor Management to ensure technology and strategy are deeply integrated.
+Your influence spans multiple engineering teams, touching wide areas of the technical and business ecosystem.
+You partner closely with leadership across Product, Design, Business Operations, and Vendor Management to ensure technology and strategy are deeply integrated.
 
 ## Knowledge
 

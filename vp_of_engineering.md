@@ -3,7 +3,10 @@ id: vp-of-engineering
 title: VP of Engineering
 ---
 
-As VP of Engineering, you own the technical vision for the organization and are accountable for the outcomes of engineering at the highest level. You set the direction for how we build, what we invest in, and how engineering operates as a business function. You are a senior executive who partners across the company and with external stakeholders to ensure that our technology strategy drives long-term competitive advantage. Your leadership shapes not just the engineering organization, but the company's ability to grow, innovate, and deliver an exceptional experience for residents, associates, and investors.
+As VP of Engineering, you own the technical vision for the organization and are accountable for the outcomes of engineering at the highest level.
+You set the direction for how we build, what we invest in, and how engineering operates as a business function.
+You are a senior executive who partners across the company and with external stakeholders to ensure that our technology strategy drives long-term competitive advantage.
+Your leadership shapes not just the engineering organization, but the company's ability to grow, innovate, and deliver an exceptional experience for residents, associates, and investors.
 
 ## Impact
 
@@ -21,7 +24,9 @@ As VP of Engineering, you own the technical vision for the organization and are 
 - Technical Reach
   - Industry
 
-Your influence extends beyond the company. You build and maintain a reputation in the single-family home rental space and the broader software development community that attracts talent, earns trust from partners, and positions Invitation Homes as a technology leader. Internally, you are a trusted executive partner across Product, Finance, and Business Operations.
+Your influence extends beyond the company.
+You build and maintain a reputation in the single-family home rental space and the broader software development community that attracts talent, earns trust from partners, and positions Invitation Homes as a technology leader.
+Internally, you are a trusted executive partner across Product, Finance, and Business Operations.
 
 ## Knowledge
 

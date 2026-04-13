@@ -3,7 +3,10 @@ id: sr-principal-engineer
 title: Sr. Principal Engineer
 ---
 
-As a Sr. Principal Engineer, you operate at the company level as one of the most senior technical individual contributors. You are a peer to executive engineering leadership, shaping the company's long-term technical trajectory. Your influence is earned entirely through expertise, judgment, and the trust you've built across the organization. You tackle the most complex, highest-stakes technical challenges, set the standard for how engineering thinks and works at scale, and ensure that our technology decisions serve the company's ambitions for years to come.
+As a Sr. Principal Engineer, you operate at the company level as one of the most senior technical individual contributors.
+You are a peer to executive engineering leadership, shaping the company's long-term technical trajectory.
+Your influence is earned entirely through expertise, judgment, and the trust you've built across the organization.
+You tackle the most complex, highest-stakes technical challenges, set the standard for how engineering thinks and works at scale, and ensure that our technology decisions serve the company's ambitions for years to come.
 
 ## Impact
 
@@ -17,7 +20,9 @@ As a Sr. Principal Engineer, you operate at the company level as one of the most
 
 - Company
 
-Your influence spans the entire engineering organization and extends into the executive layer. You are a trusted technical advisor to the VP of Engineering and senior leadership, with the credibility and depth to shape decisions at the company level. You lead through expertise and relationships, not authority.
+Your influence spans the entire engineering organization and extends into the executive layer.
+You are a trusted technical advisor to the VP of Engineering and senior leadership, with the credibility and depth to shape decisions at the company level.
+You lead through expertise and relationships, not authority.
 
 ## Knowledge
 

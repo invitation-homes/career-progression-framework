@@ -3,7 +3,10 @@ id: tech-fellow
 title: Tech Fellow
 ---
 
-As a Tech Fellow, you represent the highest level of technical distinction at Invitation Homes. You are an executive-level individual contributor whose expertise and influence extend beyond the company into the broader industry. You combine the strategic perspective of an executive with the technical depth of the organization's foremost practitioner, working directly with executive leadership to define technical vision and investment priorities while embedding with teams to design and deliver the company's most critical and complex initiatives. You are a force multiplier at the highest level, shaping how technology evolves at Invitation Homes and how Invitation Homes is perceived as a technology organization in the world.
+As a Tech Fellow, you represent the highest level of technical distinction at Invitation Homes.
+You are an executive-level individual contributor whose expertise and influence extend beyond the company into the broader industry.
+You combine the strategic perspective of an executive with the technical depth of the organization's foremost practitioner, working directly with executive leadership to define technical vision and investment priorities while embedding with teams to design and deliver the company's most critical and complex initiatives.
+You are a force multiplier at the highest level, shaping how technology evolves at Invitation Homes and how Invitation Homes is perceived as a technology organization in the world.
 
 ## Impact
 
@@ -17,7 +20,9 @@ As a Tech Fellow, you represent the highest level of technical distinction at In
 
 - Industry
 
-Your influence extends beyond Invitation Homes into the broader industry. You are a recognized technical leader both within the single-family home rental space and the wider software engineering community. Internally, you are the definitive technical voice at the executive level and a trusted advisor across every corner of the organization.
+Your influence extends beyond Invitation Homes into the broader industry.
+You are a recognized technical leader both within the single-family home rental space and the wider software engineering community.
+Internally, you are the definitive technical voice at the executive level and a trusted advisor across every corner of the organization.
 
 ## Knowledge
 
