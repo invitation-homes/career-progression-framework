@@ -11,6 +11,7 @@ As a Senior Engineering Manager, you lead a multi-team organization through a la
 - Align roadmaps with company priorities and ensure timely, quality outcomes. 
 - Accelerate delivery of high-impact, cross-team initiatives.
 - Surface high-impact project opportunities and ensure risks and scope are well understood and managed
+- Ground delivery and quality decisions in data, using metrics and team health signals to drive continuous improvement.
 
 ## Reach
 

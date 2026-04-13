@@ -14,7 +14,9 @@ juniors, and our Engineering community.
 - Lead technical implementations of projects to help your team deliver high quality work on time.
 - Support your team by helping to break down and coordinate work.
 - Proactively identify new opportunities and implement improvements to current products
-- Able to work independently and partner with other engineering teams to unblock code reviews and engineering designs. 
+- Able to work independently and partner with other engineering teams to unblock code reviews and engineering designs.
+- Proactively identify and remove obstacles that slow down your team's ability to deliver.
+- Look for opportunities to eliminate repetitive manual work through automation, even in small ways.
 
 ## Reach
 
@@ -27,7 +29,8 @@ juniors, and our Engineering community.
 and work with them.
 - The depth and breadth of your knowledge in good engineering practices and non-functional principles should be 
 sufficient to solve problems at a more complex or abstract level.
-- Keep up to date with best practices and recent technology changes in your domain 
+- Keep up to date with best practices and recent technology changes in your domain
+- Use data and metrics to validate assumptions and inform the decisions you make about your work.
 
 ## Communication
 
@@ -37,8 +40,9 @@ not only building something right, but that we’re also building the right thin
 - Create diagrams and learning materials for your team’s products
 - Share what you’ve learned in SIGs, TAG, or our Monthly Learnings
 - Set up postmortems and identify actions to avoid repeating problems
-- Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend 
-your own. 
+- Lead structured meetings that run to time and produce tangible outputs.
+- Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your own.
+- Voice disagreement clearly and early. Once a decision is made, commit to it fully.
 
 ## Leadership
 
@@ -50,4 +54,4 @@ providing context and guidance.
   - Bringing up important issues
   - Encouraging others
 - Ask “why” even in challenging situations, and recognize and call out assumptions and risks
-- Lead structured meetings that run to time and have tangible outputs 
+- Begin to shape team culture by modeling the behaviors and standards you want to see: quality, curiosity, and accountability. 

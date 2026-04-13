@@ -28,6 +28,7 @@ that this role will need some support and supervision from other members of the 
 
 - Understand where your project fits in terms of our Business.
 - Execute your work in a way that exemplifies comfort and confidence with the tools of your team.
+- Approach unfamiliar problems with curiosity before defaulting to familiar solutions.
 - Understand how to test and validate your work
 - Understand our incident management and change management processes
 - Protect data integrity and security by understanding the use of different environments (dev, qa, etc) within your area. 
@@ -47,4 +48,5 @@ that this role will need some support and supervision from other members of the 
 - Take time to help others, especially more junior roles.
 - Participate in our Engineering community (SIGs, TAG, etc)
   - Support and encourage others to do the same.
-- Champion our decisions and best practices 
+- Champion our decisions and best practices
+- Maintain a bias to action: keep things moving, remove small blockers yourself where you can, and avoid letting work stall waiting on others. 

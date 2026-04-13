@@ -39,7 +39,8 @@ QRGs, etc.
 - Encourage transparent communication within and outside of your team
 - Advocate and get buy-in for technical solutions
 - Provide opinions and thoughts in a way that is conducive to collaboration and invites participation from others.
-- Capability to help arbitrate and de-escalate technical disagreements 
+- Arbitrate and de-escalate technical disagreements
+- Model the behavior of advocating strongly for your position, then committing fully once a decision is reached.
 
 ## Leadership
 
@@ -49,6 +50,7 @@ group as a whole.
 - Improve the candidate experience for hiring new team members
 - Work with your manager to find mentoring opportunities that will allow you to help other engineers perform and grow
 - Delegate low-risk technical decisions and own high-risk technical decisions
+- Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias toward shipping working software over debating it.
 - Your attitude and energy will be felt and responded to by those around you, whether you realize it or not. Be a force 
 for positivity and excitement – be representative of the kind of environment you want to work in!
 

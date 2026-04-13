@@ -9,7 +9,7 @@ As a Staff Engineer you lead through technical expertise, cross-team collaborati
 
 - Step into teams as a “traveling craftsman” to provide focused technical support, whether by accelerating delivery, addressing deep technical challenges, or mentoring team members. Transition out once the team is unblocked and empowered.
 - Leave behind clear, valuable artifacts such as documentation, diagrams, utilities, or design patterns that continue to support the team after you’ve moved on.
-- Identify patterns and common needs across multiple teams, and proactively create scalable tools, frameworks, or guidance that help solve shared problems efficiently.
+- Identify patterns and common needs across multiple teams, and proactively create scalable tools, frameworks, automations, or guidance that help solve shared problems efficiently.
 - Set and drive engineering standards that elevate code quality, reliability, and maintainability across systems.
 
 ## Reach

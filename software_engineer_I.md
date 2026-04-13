@@ -14,7 +14,7 @@ future.
 work on time.
 - Understand and participate in core team processes, such as stand-up meetings, on-call rotations, retrospectives, etc.
 - Spend time improving knowledge and skills around your team’s core technologies
-- Be curious – Ask questions – Learn!
+- Complete assigned tasks on time, ask for help early when blocked, and avoid letting work stall.
 
 ## Reach
 
@@ -29,6 +29,7 @@ work on time.
 - Follow recorded decisions (ADRs) and agreed upon styles and conventions where applicable
 - Join and listen to the Technical Architecture Guild (TAG) meeting, Solution Architecture meetings, and applicable 
 Special Interest Group (SIG) meetings to better understand your craft and how others are applying it.
+- Be curious: ask questions, and treat every interaction and task as an opportunity to learn.
 
 ## Communication
 

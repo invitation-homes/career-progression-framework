@@ -34,6 +34,7 @@ You build strong relationships with stakeholders across departments, helping the
 - Distill technical concepts and emerging topics into clear, actionable communication that helps teams anticipate change and adapt with confidence.
 - Facilitate key communication forums, such as architecture guilds or executive reviews, with clarity, confidence, and empathy.
 - Build and maintain an evergreen knowledge base of architectural patterns and reference implementations to promote long-term technical clarity across the organization.
+- Establish shared language and frameworks that help teams across the department discuss and reason about technical problems consistently.
 
 ## Leadership
 

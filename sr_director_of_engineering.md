@@ -32,7 +32,7 @@ Your influence extends across the entire company. You shape how engineering is p
 
 ## Communication
 
-- Operate as a clear, trusted voice at the executive level — communicating strategy, trade-offs, risks, and results with confidence and precision.
+- Operate as a clear, trusted voice at the executive level, communicating strategy, trade-offs, risks, and results with confidence and precision.
 - Connect technical decisions to business impact in ways that build credibility and earn organizational trust.
 - Create alignment across leadership and engineering through transparent, consistent, and timely communication.
 - Champion a communication culture within engineering that cascades clarity from strategy to execution.

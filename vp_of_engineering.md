@@ -9,7 +9,7 @@ As VP of Engineering, you own the technical vision for the organization and are 
 
 - Own the technical vision and define how engineering investments translate into product outcomes across all audiences: residents, associates, and investors.
 - Make high-stakes build, buy, and partner decisions that determine how the company develops and maintains its technology capabilities.
-- Set the standard for engineering execution — quality, delivery, and operational excellence — across the entire organization.
+- Set the standard for engineering execution across the entire organization: quality, delivery, and operational excellence.
 - Drive accountability for engineering outcomes at the executive level, including delivery, budget, and resource planning.
 - Select and negotiate with strategic vendors, ensuring technology partnerships deliver high business value and appropriate technical assurances.
 
@@ -21,7 +21,7 @@ As VP of Engineering, you own the technical vision for the organization and are 
 - Technical Reach
   - Industry
 
-Your influence extends beyond the company. You build and maintain a reputation — in the single-family home rental space and the broader software development community — that attracts talent, earns trust from partners, and positions Invitation Homes as a technology leader. Internally, you are a trusted executive partner across Product, Finance, and Business Operations.
+Your influence extends beyond the company. You build and maintain a reputation in the single-family home rental space and the broader software development community that attracts talent, earns trust from partners, and positions Invitation Homes as a technology leader. Internally, you are a trusted executive partner across Product, Finance, and Business Operations.
 
 ## Knowledge
 
@@ -33,7 +33,7 @@ Your influence extends beyond the company. You build and maintain a reputation �
 ## Communication
 
 - Communicate the engineering vision and strategy with clarity and confidence at the executive level, translating technical complexity into business impact.
-- Build alignment across differing perspectives — within engineering, across the business, and with external partners — through high emotional intelligence and strong interpersonal skills.
+- Bring engineering, business, and external partners into alignment through high emotional intelligence and strong interpersonal skills.
 - Represent engineering externally, contributing to the company's reputation in the industry through thought leadership, recruiting presence, and community engagement.
 
 ## Leadership
