@@ -8,14 +8,11 @@ Invitation Homes. It should be used as a guide for behaviors we want to recogniz
 accountable for. It should not be used as a definitive checklist for promotion. You should be meeting with your manager 
 and creating a development plan, which may contain expectations and goals that are not explicitly defined here.
 
-Our culture is driven by a few guiding principles. These principles are shared amongst all Engineers, regardless of role.
+The expectations in this framework are grounded in our [Engineering Vision, Mission, and Principles](./engineering_principles). Regardless of role or track, a few behaviors reflect those principles and apply to everyone:
 
 - Give feedback that is clear, kind, and actionable
 - Provide opinions and thoughts in a way that is conducive to collaboration and invites participation from others.
-- Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your 
-own.
-
-For our broader engineering vision, mission, and principles, see [Engineering Vision, Mission, and Principles](./engineering_principles).
+- Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your own.
 
 # Career Progression Tracks
 

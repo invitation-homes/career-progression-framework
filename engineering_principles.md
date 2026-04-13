@@ -48,6 +48,7 @@ Principles are meant to be lived. Here are some ways we integrate them into our 
 - **Decision-Making:** Refer to them when evaluating decisions. They are especially helpful in moments of ambiguity or disagreement, offering a shared language and framework to move forward with clarity and unity.
 - **Recognition:** Recognize and celebrate when someone embodies a principle.
 - **Performance Conversations:** Use the principles as a lens to reflect on growth, impact, and areas for improvement.
+- **Career Development:** The expectations in our [Career Progression Framework](./index) reflect these principles in action. Use them as a lens when reviewing your own growth across roles.
 
 ## Anti-Patterns
 
