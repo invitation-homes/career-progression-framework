@@ -3,6 +3,8 @@ id: senior-engineering-manager
 title: Senior Engineering Manager
 ---
 
+[Job Description](job_descriptions/sr_engineering_manager.md)
+
 As a Senior Engineering Manager, you lead a multi-team organization through a layer of engineering managers.
 You translate company and department strategy into clear direction for your teams, while building the leadership capability, culture, and operational health that enables sustained high performance.
 You are accountable for both what your organization delivers and how it grows.

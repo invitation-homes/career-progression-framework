@@ -71,3 +71,7 @@ We practice CI/CD, favor infrastructure as code, and build on REST APIs and even
 Salesforce is a significant part of our technology landscape — some teams build directly on the platform, while others integrate with Salesforce-managed APIs.
 Experience with these is a strong plus — though we care more about depth of thinking, adaptability, and the drive to keep learning than familiarity with any specific tool.
 
+---
+
+[Progression Document](../software_engineer_IV.md)
+

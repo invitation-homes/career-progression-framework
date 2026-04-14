@@ -3,6 +3,8 @@ id: sr-principal-engineer
 title: Sr. Principal Engineer
 ---
 
+[Job Description](job_descriptions/sr_principal_engineer.md)
+
 As a Sr. Principal Engineer, you operate at the company level as one of the most senior technical individual contributors.
 You are a peer to executive engineering leadership, shaping the company's long-term technical trajectory.
 Your influence is earned entirely through expertise, judgment, and the trust you've built across the organization.

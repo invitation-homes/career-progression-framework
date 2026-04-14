@@ -3,6 +3,8 @@ id: staff-engineer
 title: Staff Engineer
 ---
 
+[Job Description](job_descriptions/staff_engineer.md)
+
 As a Staff Engineer you lead through technical expertise, cross-team collaboration, and technical influence.
 You shape architectural direction and mentor others helping teams deliver scalable solutions.
 

@@ -66,3 +66,7 @@ Our engineering teams work with TypeScript, Node.js, React, PostgreSQL, and AWS 
 We practice CI/CD, favor infrastructure as code, and build on REST APIs and event-driven architectures.
 Salesforce is a significant part of our technology landscape — some teams build directly on the platform, while others integrate with Salesforce-managed APIs.
 Experience with these is a strong plus — though we care more about depth of thinking, adaptability, and the drive to keep learning than familiarity with any specific tool.
+
+---
+
+[Progression Document](../sr_principal_engineer.md)
