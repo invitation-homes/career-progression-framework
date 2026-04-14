@@ -11,12 +11,12 @@
 #   bin/export-jd software_engineer_I ~/Desktop
 #   bin/export-jd all                 # exports every job description
 #
-# Roles correspond to filenames in job_descriptions/ without the .md extension.
+# Roles correspond to filenames in job-descriptions/ without the .md extension.
 
 set -euo pipefail
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-JD_DIR="$REPO_ROOT/job_descriptions"
+JD_DIR="$REPO_ROOT/job-descriptions"
 
 if ! command -v pandoc &>/dev/null; then
   echo "error: pandoc is required but not installed." >&2

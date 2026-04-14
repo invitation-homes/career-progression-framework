@@ -34,7 +34,7 @@ Loses the practical requirements and day-to-day framing that candidates and recr
 Each role is represented by two documents:
 
 - A **progression document** at the repository root (`<role>.md`), structured around the five sections (Impact, Reach, Knowledge, Communication, Leadership), written for internal career conversations.
-- A **job description** in the `job_descriptions/` subdirectory (`job_descriptions/<role>.md`), structured for hiring and written for candidates.
+- A **job description** in the `job-descriptions/` subdirectory (`job-descriptions/<role>.md`), structured for hiring and written for candidates.
 
 The two documents are linked bidirectionally: the progression document links to its corresponding JD, and the JD links back to the progression document.
 

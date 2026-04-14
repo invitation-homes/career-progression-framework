@@ -13,7 +13,7 @@ When adding or removing a role, three things must be updated:
 
 - [_config.yml](_config.yml) — sidebar navigation
 - [index.md](index.md) — Mermaid diagram nodes and `click` directives
-- Two files per role: a progression document at the root (`<role>.md`) and a job description in `job_descriptions/<role>.md`
+- Two files per role: a progression document at the root (`<role>.md`) and a job description in `job-descriptions/<role>.md`
 
 See [ADR-0002](decision-records/0002-one-file-per-role.md), [ADR-0003](decision-records/0003-mermaid-career-ladder.md), and [ADR-0005](decision-records/0005-dual-document-structure.md).
 

@@ -3,7 +3,7 @@ id: tech-fellow
 title: Tech Fellow
 ---
 
-[Job Description](job_descriptions/tech_fellow)
+[Job Description](job-descriptions/tech_fellow)
 
 As a Tech Fellow, you represent the highest level of technical distinction at Invitation Homes.
 You are an executive-level individual contributor whose expertise and influence extend beyond the company into the broader industry.
