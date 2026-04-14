@@ -1,3 +1,8 @@
+---
+id: sr-engineering-manager-jd
+title: Sr. Engineering Manager
+---
+
 # Sr. Engineering Manager
 
 

@@ -47,14 +47,19 @@ export_role() {
 
   local out="$OUTPUT_DIR/${role}.docx"
 
-  # Strip the trailing "---\n\n[Progression Document]" section before converting.
-  # The separator is the only horizontal rule in these files, so we take
-  # everything above the last "---" line.
-  local last_hr
+  # Extract only the content body — strip Jekyll front matter at the top
+  # (between the first and second "---") and the trailing "---\n\n[Progression
+  # Document]" section at the bottom.
+  local fm_end last_hr
+  fm_end=$(grep -n "^---$" "$src" | sed -n '2p' | cut -d: -f1)
   last_hr=$(grep -n "^---$" "$src" | tail -1 | cut -d: -f1)
 
-  if [ -n "$last_hr" ]; then
-    head -n $((last_hr - 1)) "$src" | pandoc --from markdown --to docx --output "$out"
+  if [ -n "$fm_end" ] && [ "$fm_end" != "$last_hr" ]; then
+    sed -n "$((fm_end + 1)),$((last_hr - 1))p" "$src" | pandoc --from markdown --to docx --output "$out"
+  elif [ -n "$fm_end" ]; then
+    tail -n +"$((fm_end + 1))" "$src" | pandoc --from markdown --to docx --output "$out"
+  elif [ -n "$last_hr" ]; then
+    head -n "$((last_hr - 1))" "$src" | pandoc --from markdown --to docx --output "$out"
   else
     pandoc "$src" --from markdown --to docx --output "$out"
   fi

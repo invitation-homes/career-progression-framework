@@ -1,3 +1,8 @@
+---
+id: sr-director-of-engineering-jd
+title: Sr. Director of Engineering
+---
+
 # Sr. Director of Engineering
 
 

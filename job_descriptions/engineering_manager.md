@@ -1,3 +1,8 @@
+---
+id: engineering-manager-jd
+title: Engineering Manager
+---
+
 # Engineering Manager
 
 
