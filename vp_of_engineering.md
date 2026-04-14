@@ -3,7 +3,7 @@ id: vp-of-engineering
 title: VP of Engineering
 ---
 
-[Job Description](job_descriptions/vp_of_engineering.md)
+[Job Description](job_descriptions/vp_of_engineering)
 
 As VP of Engineering, you own the technical vision for the organization and are accountable for the outcomes of engineering at the highest level.
 You set the direction for how we build, what we invest in, and how engineering operates as a business function.

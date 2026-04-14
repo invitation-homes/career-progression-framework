@@ -69,4 +69,4 @@ Experience with these is a strong plus — though we care more about depth of th
 
 ---
 
-[Progression Document](../sr_principal_engineer.md)
+[Progression Document](../sr_principal_engineer)

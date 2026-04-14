@@ -67,4 +67,4 @@ Experience with these is a strong plus — though we care more about depth of th
 
 ---
 
-[Progression Document](../tech_fellow.md)
+[Progression Document](../tech_fellow)

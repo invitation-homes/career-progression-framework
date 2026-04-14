@@ -3,7 +3,7 @@ id: sr-director-of-engineering
 title: Sr. Director of Engineering
 ---
 
-[Job Description](job_descriptions/sr_director_of_engineering.md)
+[Job Description](job_descriptions/sr_director_of_engineering)
 
 As a Sr. Director of Engineering, you set the strategic direction for engineering at the company level and ensure that technology and organizational decisions are deeply aligned with long-term business outcomes.
 You are a senior leader who partners with the VP of Engineering and executive stakeholders to shape the culture, capability, and trajectory of the engineering organization.

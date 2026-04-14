@@ -3,7 +3,7 @@ id: software-engineer-i
 title: Software Engineer I
 ---
 
-[Job Description](job_descriptions/software_engineer_I.md)
+[Job Description](job_descriptions/software_engineer_I)
 
 As a Software Engineer I, you are expected to learn the processes, practices, and technology that your team uses.
 Your work will consist of small, well-defined tasks to help you gain confidence.
