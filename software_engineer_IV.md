@@ -29,7 +29,7 @@ It is expected, at this point, that you will be an active agent of change and im
 - Viewed as an authority in your technical domain or on your team’s systems.
 - Balance both current and future needs by understanding bigger picture elements for your team and others impacted by your team’s work.
 - Ensure your team understands the standard engineering practices and why they exist.
-  Refer them to decision records, QRGs, etc.
+  Refer them to decision records, Quick Reference Guides (QRGs), etc.
     - Understand when work has evolved and these decisions are no longer applicable, and provide updates to documentation with new guidance.
 - Share your knowledge in Special Interest Groups (SIGs) to improve the knowledge and skills of others across Engineering.
 

@@ -46,7 +46,7 @@ It is still expected that this role will need some support and supervision from 
 
 - Be a model engineer for those who are looking up to you.
 - Take time to help others, especially more junior roles.
-- Participate in our Engineering community (SIGs, TAG, etc.).
+- Participate in our Engineering community — Special Interest Groups (SIGs), the Technical Architecture Guild (TAG), and similar forums.
   - Support and encourage others to do the same.
 - Champion our decisions and best practices.
 - Maintain a bias to action: keep things moving, remove small blockers yourself where you can, and avoid letting work stall waiting on others. 

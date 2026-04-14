@@ -36,7 +36,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Serve as an authority across core technologies and architectural patterns used throughout the organization.
 - Shape architectural decisions with a long-term, strategic mindset — optimizing for scalability, maintainability, and alignment with business goals.
 - Apply core engineering principles to navigate unfamiliar technologies with confidence; adapt and operate effectively across varied tech stacks.
-- Maintain a broad understanding of engineering workflows, standards, ADRs, and the system landscape to provide relevant context and promote alignment across teams.
+- Maintain a broad understanding of engineering workflows, standards, architectural decision records (ADRs), and the system landscape to provide relevant context and promote alignment across teams.
 
 **Communication & Collaboration**
 

@@ -33,7 +33,7 @@ From here, you'll have a clear path to Software Engineer II, where you'll move b
 - Learn your team's core tools and technologies — what they are, why they're used, and how to use them effectively.
 - Be curious: treat every task and interaction as an opportunity to learn.
 - Follow recorded decisions and agreed-upon styles and conventions across your team's codebase.
-- Join TAG, SIG, and other community forums as a learner — broaden your understanding of engineering at Invitation Homes.
+- Join the Technical Architecture Guild (TAG), Special Interest Groups (SIGs), and other community forums as a learner — broaden your understanding of engineering at Invitation Homes.
 - Begin connecting your work to the broader goals of your team and product.
 
 **Communication & Collaboration**

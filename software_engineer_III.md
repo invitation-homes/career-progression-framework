@@ -37,7 +37,7 @@ You share what you have learned with your peers, juniors, and our Engineering co
 - Highlight any potential pitfalls or decisions that have complex technical consequences early.
   Help ensure that we are not only building something right, but that we’re also building the right thing.
 - Create diagrams and documentation for your team’s products — write things down so the whole team can move independently.
-- Share what you’ve learned in SIGs, TAG, or our Monthly Learnings.
+- Share what you’ve learned in Special Interest Groups (SIGs), the Technical Architecture Guild (TAG), or our Monthly Learnings.
 - Set up postmortems and identify actions to avoid repeating problems.
 - Lead structured meetings that run to time and produce tangible outputs.
 - Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your own.

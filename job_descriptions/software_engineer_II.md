@@ -51,7 +51,7 @@ From here, you'll have a clear path to Software Engineer III, where you'll step 
 
 - Be a model engineer for those who are newer to the role or looking up to you.
 - Take time to help others, especially more junior engineers.
-- Participate in the Engineering community — SIGs, TAG, and other forums — and encourage others to do the same.
+- Participate in the Engineering community — Special Interest Groups (SIGs), the Technical Architecture Guild (TAG), and other forums — and encourage others to do the same.
 - Champion agreed-upon decisions and best practices, even when a different approach might feel tempting.
 - Maintain a bias to action — keep things moving, remove small blockers yourself where you can, and avoid letting work stall waiting on others.
 
