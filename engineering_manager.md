@@ -31,10 +31,10 @@ You share knowledge, influence culture, and support consistency across the broad
 
 ## Knowledge
 
-- Deep understanding of your team's systems and the technical stack they use.
+- Maintain deep understanding of your team's systems and the technical stack they use.
   You are capable of diving deep to help unblock, troubleshoot, or guide.
 - Anticipate future technical and organizational challenges, and steer the team toward scalable and sustainable approaches.
-- Deep understanding of tools and processes both for Engineering and Management practices.
+- Maintain deep understanding of the tools and processes across both engineering and management practices.
 - Understand how your team’s work connects to company strategy, customer experience, and business metrics.
 
 ## Communication
@@ -42,7 +42,7 @@ You share knowledge, influence culture, and support consistency across the broad
 - Communicate clearly, proactively, and transparently with your team, stakeholders, and partners.
 - Translate technical concepts for non-technical audiences and vice versa.
 - Provide thoughtful feedback that promotes alignment and action.
-- Resolve ambiguity and conflict constructively and encourage healthy team discussions and decision-making
+- Resolve ambiguity and conflict constructively and encourage healthy team discussions and decision-making.
 
 ## Leadership
 
@@ -51,5 +51,4 @@ You share knowledge, influence culture, and support consistency across the broad
 - Manage performance with clarity and care — address gaps early and invest in growth before it becomes a problem.
 - Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new hire experience.
 - Delegate effectively, trust your team, and hold them accountable for their outcomes.
-- Model the values and behaviors you want to see across the organization.
-  Humility, curiosity, bias to action, and care for others.
+- Model the values and behaviors you want to see across the organization: humility, curiosity, bias to action, and care for others.

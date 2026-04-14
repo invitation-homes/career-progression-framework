@@ -30,7 +30,7 @@ Internally, you are the definitive technical voice at the executive level and a 
 
 - Maintain the deepest technical expertise in the organization, with mastery across systems, architecture, and the emerging technology paradigms most relevant to the business.
 - Shape the company's long-term technology strategy by evaluating new tools, platforms, and architectural approaches against business context, risk, and strategic goals.
-- Go beyond consuming industry trends by actively contributing to them through recognized expertise, published thinking, or community leadership that shapes how the broader engineering world thinks about problems Invitation Homes faces.
+- Go beyond consuming industry trends by actively contributing to them through recognized expertise, published thinking, or community leadership that shapes how the broader engineering world thinks about problems that Invitation Homes faces.
 - Translate the most complex technical concepts and trade-offs into clear strategic recommendations that resonate at the executive level.
 
 ## Communication

@@ -5,8 +5,8 @@ title: Staff Engineer
 
 [Job Description](job_descriptions/staff_engineer)
 
-As a Staff Engineer you lead through technical expertise, cross-team collaboration, and technical influence.
-You shape architectural direction and mentor others helping teams deliver scalable solutions.
+As a Staff Engineer, you lead through technical expertise, cross-team collaboration, and technical influence.
+You shape architectural direction and mentor others, helping teams deliver scalable solutions.
 
 ## Impact
 
@@ -36,7 +36,7 @@ You lead through influence and expertise, not just authority.
 - Write and present proposals that influence technical direction across multiple teams.
 - Facilitate architectural reviews and technical deep dives with empathy and clarity.
 - Coach others in how to document, diagram, and communicate their own thinking effectively.
-- Translate abstract or technical risk into understandable tradeoffs
+- Translate abstract or technical risk into understandable tradeoffs.
 - Drive conversations toward clarity by reducing complexity and identifying actionable next steps.
 
 ## Leadership
@@ -48,4 +48,4 @@ You lead through influence and expertise, not just authority.
 - Own and improve engineering processes, standards, and tools that support a healthy, inclusive, and effective engineering culture.
 - Maintain a bias to action across the teams you support — keep work moving, surface and resolve blockers, and foster momentum without creating dependency.
 
- 
+
