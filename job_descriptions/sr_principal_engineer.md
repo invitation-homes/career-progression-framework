@@ -47,7 +47,7 @@ From here, you'll have a clear path to Tech Fellow — the highest individual co
 
 **Leadership & Culture**
 
-- Act as the cultural standard-bearer for technical excellence: model the rigor, humility, and curiosity that defines great engineering at scale.
+- Act as the cultural standard-bearer for technical excellence: model the rigor, humility, and curiosity that define great engineering at scale.
 - Mentor and develop Staff and Principal Engineers, investing deliberately in the growth of the next generation of senior IC leaders.
 - Own the most consequential architectural decisions, providing the clarity and conviction needed when the path forward is genuinely hard.
 - Govern the company's technical direction in partnership with engineering leadership, ensuring decisions are coherent, well-reasoned, and built to last.

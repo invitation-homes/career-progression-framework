@@ -40,7 +40,7 @@ You partner across the company and with external stakeholders to ensure technolo
 - Communicate the engineering vision and strategy with clarity and confidence at the executive level, translating technical complexity into business impact.
 - Represent engineering externally — through thought leadership, industry engagement, and a recruiting presence that reflects Invitation Homes as a technology organization.
 - Bring engineering, business, and external partners into alignment through strong interpersonal skills and high organizational trust.
-- Partner with the CIO, and executive peers across Product, Finance, and Business Operations to ensure engineering is a valued and visible contributor to company strategy.
+- Partner with the CIO and executive peers across Product, Finance, and Business Operations to ensure engineering is a valued and visible contributor to company strategy.
 
 **Leadership & Culture**
 
