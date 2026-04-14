@@ -1,11 +1,5 @@
 # Engineering Manager
 
-| | |
-| --- | --- |
-| **Department** | Technology |
-| **FLSA** | Exempt |
-| **Supervisor Title** | Director, Engineering |
-| **Last Revised** | April 2026 |
 
 ## About the Role
 

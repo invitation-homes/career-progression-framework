@@ -1,11 +1,5 @@
 # Director of Engineering
 
-| | |
-| --- | --- |
-| **Department** | Technology |
-| **FLSA** | Exempt |
-| **Supervisor Title** | Sr. Director, Engineering |
-| **Last Revised** | April 2026 |
 
 ## About the Role
 

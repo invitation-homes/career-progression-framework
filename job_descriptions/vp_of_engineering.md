@@ -1,11 +1,5 @@
 # VP of Engineering
 
-| | |
-| --- | --- |
-| **Department** | Technology |
-| **FLSA** | Exempt |
-| **Supervisor Title** | Chief Information Officer |
-| **Last Revised** | April 2026 |
 
 ## About the Role
 

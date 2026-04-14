@@ -1,11 +1,5 @@
 # Software Engineer IV
 
-| | |
-| --- | --- |
-| **Department** | Technology |
-| **FLSA** | Exempt |
-| **Supervisor Title** | Manager, Engineering |
-| **Last Revised** | April 2026 |
 
 ## About the Role
 
