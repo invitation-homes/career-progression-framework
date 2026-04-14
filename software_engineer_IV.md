@@ -13,6 +13,7 @@ It is expected, at this point, that you will be an active agent of change and im
 
 ## Impact
 
+- Remain a hands-on engineer: write code, contribute to design, and ship alongside your team.
 - Use your domain expertise to architect solutions, especially for more ambiguous and challenging problems the team faces
 - Shape the technical direction and vision for your team’s systems
 - Improve team efficiency and effectiveness by understanding pain points and working to resolve them through means such as:
@@ -50,7 +51,7 @@ It is expected, at this point, that you will be an active agent of change and im
 - Work with your manager to find mentoring opportunities that will allow you to help other engineers perform and grow
 - Delegate low-risk technical decisions and own high-risk technical decisions
 - Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias toward shipping working software over debating it.
-- Your attitude and energy will be felt and responded to by those around you, whether you realize it or not.
-  Be a force for positivity and excitement – be representative of the kind of environment you want to work in!
+- Be a culture carrier: your attitude and energy set the tone for those around you.
+  Show up with the curiosity, positivity, and high standards you want to see in the team.
 
  

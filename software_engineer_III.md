@@ -36,7 +36,7 @@ You share what you have learned with your peers, juniors, and our Engineering co
 - Gather input and ask clarifying questions to make informed and timely decisions
 - Highlight any potential pitfalls or decisions that have complex technical consequences early.
   Help ensure that we are not only building something right, but that we’re also building the right thing.
-- Create diagrams and learning materials for your team’s products
+- Create diagrams and documentation for your team’s products — write things down so the whole team can move independently
 - Share what you’ve learned in SIGs, TAG, or our Monthly Learnings
 - Set up postmortems and identify actions to avoid repeating problems
 - Lead structured meetings that run to time and produce tangible outputs.
@@ -54,4 +54,5 @@ providing context and guidance.
   - Bringing up important issues
   - Encouraging others
 - Ask “why” even in challenging situations, and recognize and call out assumptions and risks
-- Begin to shape team culture by modeling the behaviors and standards you want to see: quality, curiosity, and accountability. 
+- Begin to shape team culture by modeling the behaviors and standards you want to see: quality, curiosity, and accountability.
+- Begin participating in the hiring process by joining interview panels and providing feedback on candidates.

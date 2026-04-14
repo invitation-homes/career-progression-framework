@@ -12,9 +12,10 @@ You play a pivotal role in influencing not just engineering, but the broader org
 ## Impact
 
 - Deliver strategic impact by shaping technical strategy and executing initiatives that advance organizational priorities.
-- Surface and manage organizational risks.
+- Surface and manage organizational risks: systemic gaps, architectural drift, and capability shortfalls that span teams or threaten delivery.
 - Establish an organization-wide culture of engineering excellence.
-- Guide vendor relationships and system integrations.
+- Guide vendor relationships and system integrations, ensuring technology partnerships deliver high value and appropriate risk assurance.
+- Establish and maintain technical governance across your department — standards, decision frameworks, and accountability structures that outlast any individual initiative.
 - Manage organizational spend in alignment with strategic goals.
 
 ## Reach
@@ -34,6 +35,7 @@ You partner closely with leadership across Product, Design, Business Operations,
 - Understand relationships and internal dynamics to align engineering initiatives with strategic priorities.
 - Maintain a strong understanding of business functions and their roles in driving outcomes.
 - Understand principles of organizational design to structure teams effectively for growth, scalability, and delivery.
+- Understand the financial dimensions of engineering: budget management, headcount planning, and ensuring organizational spend aligns with strategic priorities.
 
 ## Communication
 
@@ -48,6 +50,8 @@ You partner closely with leadership across Product, Design, Business Operations,
 - Guide, coach, and inspire engineering managers, growing the next generation of technical and organizational leaders.
 - Build and nurture cross-functional collaboration.
 - Maintain accountability across the organization.
+- Champion automation and operational efficiency as organizational priorities — the teams that scale best are the ones that eliminate manual toil before it accumulates.
+- Maintain a bias to action at the department level — anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
 - Model strategic thinking, empathy, and continuous improvement at every level of engagement.
 - Serve as a steady decision-maker and mediator, providing clarity, resolving conflicts, and enabling teams to move forward with confidence and focus.
 

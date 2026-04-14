@@ -16,7 +16,8 @@ You tackle the most complex, highest-stakes technical challenges, set the standa
 - Take ownership of the most complex, ambiguous, and high-consequence technical problems: those that span teams, systems, and organizational boundaries.
 - Identify systemic technical risks, gaps, and opportunities that are not visible from within any single team or domain, and drive durable solutions.
 - Serve as a key technical voice in build, buy, and partner decisions, providing depth and rigor that informs executive choices.
-- Raise the technical ceiling of the entire engineering organization by establishing standards, patterns, and practices that others build on.
+- Stay technically active in the most selective way: engage directly with the hardest problems where it matters most — your depth is your credibility.
+- Raise the technical ceiling of the entire engineering organization by establishing standards, patterns, and practices — including automation — that others build on.
 
 ## Reach
 

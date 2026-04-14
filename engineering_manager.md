@@ -8,14 +8,15 @@ title: Engineering Manager
 As an Engineering Manager, you are a technical and people leader responsible for enabling your team’s success.
 You ensure that your engineers are growing, your work processes are effective, your systems are healthy, and your team is delivering meaningful results.
 You are accountable for execution, collaboration, and team culture.
-While you still contribute technically, your primary focus is to multiply the impact of others.
+Think of yourself as a player-coach — equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
 
 ## Impact
 
 - Cultivate teams through relationships, culture, recruiting, and growth within your Engineering pod.
 - Use domain knowledge to plan and drive delivery of solutions aligned with business goals.
 - Facilitate the team’s execution by identifying and removing obstacles, improving processes, collaboration, and prioritization.
-- Shape technical vision by advocating and prioritizing for quality, reliability, maintainability, and performance of the systems your team builds.
+- Own the health of your team's systems — advocate for reliability, maintainability, and automation alongside delivery.
+- Evaluate technical risk and help your team make sound decisions, even when the path forward isn't clear.
 
 ## Reach
 
@@ -47,8 +48,8 @@ You share knowledge, influence culture, and support consistency across the broad
 
 - Cultivate a high-performing, inclusive, and psychologically safe team environment.
 - Provide coaching, mentorship, and guidance to help engineers grow in their careers.
-- Manage performance through regular feedback, goal-setting, and development conversations.
-- Help recruit and onboard top talent. Champion a great candidate and new hire experience.
+- Manage performance with clarity and care — address gaps early and invest in growth before it becomes a problem.
+- Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new hire experience.
 - Delegate effectively, trust your team, and hold them accountable for their outcomes.
 - Model the values and behaviors you want to see across the organization.
   Humility, curiosity, bias to action, and care for others.

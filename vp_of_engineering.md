@@ -14,7 +14,7 @@ Your leadership shapes not just the engineering organization, but the company's 
 
 - Own the technical vision and define how engineering investments translate into product outcomes across all audiences: residents, associates, and investors.
 - Make high-stakes build, buy, and partner decisions that determine how the company develops and maintains its technology capabilities.
-- Set the standard for engineering execution across the entire organization: quality, delivery, and operational excellence.
+- Set the standard for engineering execution across the entire organization: quality, delivery, operational excellence, and automation as a first-class discipline.
 - Drive accountability for engineering outcomes at the executive level, including delivery, budget, and resource planning.
 - Select and negotiate with strategic vendors, ensuring technology partnerships deliver high business value and appropriate technical assurances.
 
@@ -50,3 +50,4 @@ Internally, you are a trusted executive partner across Product, Finance, and Bus
 - Foster a culture of accountability, collaboration, and continuous improvement that is felt at every level of the engineering organization.
 - Model low-ego, action-oriented leadership — decisive when needed, collaborative by default, and always focused on enabling others to succeed.
 - Champion diversity and inclusion as a foundation for team culture and organizational strength.
+- Build and steward Invitation Homes' reputation as a technology organization — externally through community and industry engagement, and internally through the standards and culture you set.

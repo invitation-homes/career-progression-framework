@@ -16,6 +16,7 @@ You are accountable for both what your organization delivers and how it grows.
 - Accelerate delivery of high-impact, cross-team initiatives.
 - Surface high-impact project opportunities and ensure risks and scope are well understood and managed
 - Ground delivery and quality decisions in data, using metrics and team health signals to drive continuous improvement.
+- Champion automation and sustainable engineering practices across your teams — ensure that manual toil doesn't accumulate unchecked.
 
 ## Reach
 
@@ -49,5 +50,6 @@ Engage with leadership in Product, Design, and Delivery to shape how initiatives
 - Operate effectively through layers of leadership, empowering managers to own outcomes while ensuring their teams have the support and clarity they need.
 - Help set the bar for performance, accountability, and team ownership across your organization.
 - Hold managers accountable to their own growth, helping them recognize and address gaps in leadership, process, or team health.
+- Lead talent strategy for your organization — recruiting, retention, performance management, and building a strong leadership bench.
 
  
