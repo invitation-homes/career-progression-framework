@@ -3,6 +3,8 @@ id: being-an-engineering-manager
 title: Being an Engineering Manager at IH
 ---
 
+# Being an Engineering Manager at IH
+
 [Job Description](../job-descriptions/engineering_manager) · [Progression Document](../engineering_manager)
 
 You are a [player-coach](https://www.cultureamp.com/blog/support-player-coach) — equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
