@@ -94,7 +94,7 @@ The mentorship, communication, and culture you model as an SE4 are how that part
 ### Mentorship and Engineer Development
 
 Mentorship is a core responsibility at this level, not a side activity.
-Pair with SE1, SE2, and SE3 engineers, guide their decision-making rather than just providing answers, and create opportunities for them to take ownership, with safety nets.
+Pair with [SE1, SE2, and SE3 engineers](being-an-engineer), guide their decision-making rather than just providing answers, and create opportunities for them to take ownership, with safety nets.
 Provide direct, specific feedback through PRs, pairing sessions, and one-on-one conversations.
 
 You'll know it's working when junior engineers grow in confidence and autonomy, the team requires less direct intervention over time, and your impact shows up in others' success.
@@ -115,7 +115,7 @@ Every repository your pod owns should have a great README: one that tells a new 
 
 ### Working with Your EM and Product Counterparts
 
-At SE4, you are a trusted partner to your EM and Product Owner, not just an implementer.
+At SE4, you are a trusted partner to your [EM](being-an-engineering-manager) and Product Owner, not just an implementer.
 Act as a technical sounding board: challenge ideas respectfully, bring data and context to discussions, and help your EM make better-informed decisions.
 Advocate strongly for your position, and commit fully once a decision is reached.
 That combination of honest advocacy and full commitment is how teams debate well and still move fast.

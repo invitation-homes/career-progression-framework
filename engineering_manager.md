@@ -3,7 +3,7 @@ id: engineering-manager
 title: Engineering Manager
 ---
 
-[Job Description](job-descriptions/engineering_manager)
+[Job Description](job-descriptions/engineering_manager) · [Being an Engineering Manager](being-a/being-an-engineering-manager)
 
 As an Engineering Manager, you are a technical and people leader responsible for enabling your team’s success.
 You ensure that your engineers are growing, your work processes are effective, your systems are healthy, and your team is delivering meaningful results.

@@ -95,7 +95,7 @@ Culture at scale does not emerge on its own. It is built deliberately, through t
 
 ### Building the Leadership Bench
 
-Developing your Engineering Managers is the work that shapes the organization's future.
+Developing your [Engineering Managers](being-an-engineering-manager) is the work that shapes the organization's future.
 Coach them on the things that are hardest to learn alone: navigating ambiguity, giving difficult feedback, building trust with their teams, and thinking beyond their own pods.
 Build the next generation of leaders who can step into larger roles as the organization scales.
 

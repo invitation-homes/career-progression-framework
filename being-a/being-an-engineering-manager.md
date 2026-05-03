@@ -67,7 +67,7 @@ Work with your Product Owner to pull this work into each sprint, and maintain a 
 ## People Management
 
 The [career progression framework](../) is one of your primary tools as a people manager.
-Study it, and build a clear picture of the levels and expectations for the folks reporting to you. It should inform how you coach, give feedback, and think about growth.
+Study it, and build a clear picture of the levels and expectations for the [engineers](being-an-engineer) and [SE4s](being-a-software-engineer-iv) reporting to you. It should inform how you coach, give feedback, and think about growth.
 You are also an ally and advocate for your team: representing their interests to senior leadership, removing friction from other parts of the organization, and ensuring they have what they need to do their best work.
 
 ### Live Our Principles and Build Our Culture
@@ -192,3 +192,5 @@ The expected split is roughly:
 Direct technical contribution is part of it, but so is everything else that doesn't fall neatly under admin or BAU.
 
 This will vary based on your pod's maturity and the type of work it does.
+
+From here, you'll have a clear path to [Director of Engineering](being-a-director-of-engineering) as your scope expands from a single pod to an operating group and the managers who run it.

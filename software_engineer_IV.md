@@ -3,7 +3,7 @@ id: software-engineer-iv
 title: Software Engineer IV / Salesforce Platform Manager
 ---
 
-[Job Description](job-descriptions/software_engineer_IV)
+[Job Description](job-descriptions/software_engineer_IV) · [Being an SE4](being-a/being-a-software-engineer-iv)
 
 As a Software Engineer IV or Salesforce Platform Manager, you are the premier team role model.
 Your leadership, technology, and communication skills have a substantial impact on those around you.
