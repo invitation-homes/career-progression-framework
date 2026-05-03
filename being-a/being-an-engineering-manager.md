@@ -61,13 +61,15 @@ Work with your Product Owner to pull this work into each sprint, and maintain a 
 ## People Management
 
 The [career progression framework](../) is one of your primary tools as a people manager.
-Study it, and make sure you have a clear picture of the levels and expectations for the folks reporting to you. It should inform how you coach, give feedback, and think about growth.
+Study it, and build a clear picture of the levels and expectations for the folks reporting to you. It should inform how you coach, give feedback, and think about growth.
 You are also an ally and advocate for your team: representing their interests to senior leadership, removing friction from other parts of the organization, and ensuring they have what they need to do their best work.
 
 ### Live Our Principles and Build Our Culture
 
 You are expected to live our [engineering principles](../engineering_principles), model them for your pod, and encourage the team to follow them — or at least aspire to.
-One principle worth calling out explicitly: speak up when you disagree, but once a decision is made, commit fully so the team can succeed as one.
+One principle worth calling out explicitly: speak up when you disagree.
+Your voice matters, and holding back a concern doesn't serve the team.
+But once a decision is made, commit fully so the team can succeed as one.
 Modeling that behavior as a leader sets the tone for how the whole pod operates.
 All of your work and interactions with the team should serve to build our culture and drive us toward our vision:
 
@@ -94,7 +96,7 @@ The goal is to open someone's eyes to a gap and help them grow, not to shame or 
 ### One-on-Ones
 
 We believe, and research backs this up, that managers need a deep commitment to their people's success.
-One of the most important ways you demonstrate that is by investing time each week in your direct reports.
+The most direct way to demonstrate that is by investing time each week in your direct reports.
 One-on-ones are your primary vehicle for coaching, your best signal on individual health, and your early warning system when something is off.
 Resources for running effective one-on-ones are documented in the Engineering space in Confluence.
 
@@ -144,7 +146,7 @@ Decision records exist so that future engineers, including future you, can under
 Without them, context lives in people's heads, and leaves when they do.
 
 Every repository your pod owns should also have a great README: one that tells a new engineer what the system does, how to get it running, and where to look next.
-A good README is one of the highest-leverage things you can do for onboarding and long-term maintainability.
+A great README pays off immediately in onboarding and long-term maintainability.
 
 Treat documentation more broadly as a first-class citizen alongside source code: create Jira stories for documentation work, include documentation in your definition of done, and ensure your pod's Confluence space has up-to-date architectural diagrams and object model representations.
 Writing things down is how we avoid knowledge silos, one of the failure modes we work hardest to prevent.
@@ -162,7 +164,7 @@ You'll also receive daily emails summarizing recent deployments and upcoming cha
 When incidents occur, we follow our Incident Response Process and then conduct a [Blameless Postmortem](https://sre.google/sre-book/postmortem-culture/).
 This reflects our commitment to quality and to continuously improving our craft. We treat failures as learning opportunities, not occasions for blame.
 The Incident Manager will schedule the postmortem and set up a starter document for the meeting.
-You are responsible for refining that document before the meeting, leading the discussion toward the most useful topics, and documenting the lessons learned, action items (typically linked Jira tasks), and executive summary afterward.
+You are responsible for refining that document before the meeting, leading the discussion toward the topics that matter most, and documenting the lessons learned, action items (typically linked Jira tasks), and executive summary afterward.
 
 ## Administrative Responsibilities
 

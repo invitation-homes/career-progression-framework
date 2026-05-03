@@ -65,6 +65,8 @@ You help ensure work is delivered predictably and correctly.
 That includes refining stories and acceptance criteria, participating in estimation and scope discussions, surfacing risks early and helping course-correct when needed, and unblocking delivery issues: failed deploys, unclear ownership, or coordination gaps.
 The goal is to be the engineer who makes the whole sprint go more smoothly, not just the one who closes the hardest tickets.
 Maintain momentum and a bias toward shipping working software over debating it.
+AI coding assistants are part of the modern toolkit.
+Use them, and help your team develop good judgment about when and how they add value.
 
 ### Code and Quality Stewardship
 
@@ -73,7 +75,7 @@ Set expectations for PR quality, test coverage, and maintainability. Hold to the
 Ensure issues are addressed before merge, and keep an eye on compounding technical debt: what looks like a small shortcut today often becomes a larger problem later.
 
 Your pod maintains a **KLO** (Keep the Lights On) backlog — work that keeps the codebase healthy: addressing technical debt, improving developer experience, increasing automated test coverage, and reducing toil.
-These are our automation and quality principles in action. If something can be automated or improved, we don't let it linger.
+These are our [engineering principles](../engineering_principles) in action. If something can be automated or improved, we don't let it linger.
 Take an active role in identifying and prioritizing this work. The target is roughly 10% of each sprint's capacity, and partnering with your EM to protect that time is part of the SE4 role.
 
 ### Production Ownership
@@ -108,18 +110,20 @@ Lead design discussions with clarity and inclusion: be able to explain what the 
 
 Encourage and model decision documentation.
 Help ensure architectural and system knowledge is written down and accessible, not locked in someone's head.
-Preventing knowledge silos is one of the highest-leverage things you can do for your pod's long-term health.
+Preventing knowledge silos pays long-term dividends for your pod's health.
 Every repository your pod owns should have a great README: one that tells a new engineer what the system does, how to get it running, and where to look next.
 
 ### Working with Your EM and Product Counterparts
 
 At SE4, you are a trusted partner to your EM and Product Owner, not just an implementer.
 Act as a technical sounding board: challenge ideas respectfully, bring data and context to discussions, and help your EM make better-informed decisions.
-Advocate strongly for your position, and commit fully once a decision is reached. Model that behavior for the engineers around you.
+Advocate strongly for your position, and commit fully once a decision is reached.
+That combination of honest advocacy and full commitment is how teams debate well and still move fast.
+Model that behavior for the engineers around you.
 Build strong working relationships with your Product counterparts, and understand the *why* behind your work: not just enough business context to inform technical decisions, but enough to ask whether you're solving the right problems.
 
 The SE4–EM relationship works best as a partnership: complementary perspectives, shared accountability for outcomes, and mutual trust.
 Together with Product and Design, you form the extended leadership core of your pod: the people who own not just the work, but how the work gets done.
 
-From here, you'll have a clear path to Staff Engineer on the individual contributor (IC) track, or to Engineering Manager if you're drawn toward people leadership.
+From here, you'll have a clear path to Staff Engineer on the individual contributor (IC) track, or to [Engineering Manager](being-an-engineering-manager) if you're drawn toward people leadership.
 Formal people management and org-wide technical strategy are out of scope at SE4; those are the territory of the EM and Staff Engineer tracks respectively.
