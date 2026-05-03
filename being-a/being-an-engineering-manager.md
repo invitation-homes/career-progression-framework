@@ -11,6 +11,12 @@ You are a [player-coach](https://www.cultureamp.com/blog/support-player-coach) â
 Your responsibilities span three broad areas: strategy and planning, people management, and building things.
 You're operating inside a large company, which means some structure and process. But the goal is always the same: clear the path for your team to do great work.
 
+Our systems touch residents in hundreds of thousands of homes: the app they use to pay rent, the portal for maintenance requests, the tools associates depend on every day.
+The teams you build and lead build those systems.
+When we get it right, people feel it.
+
+("Residents" are the people who live in our homes; "associates" are our employees.)
+
 > *"Much of the job of an effective engineering manager is non-technical in nature: prioritization, communication, risk-awareness, connecting silos, inspiring teams, growing new leaders, and so forth.
 > This makes success less visible, or at least less obvious."*
 > â€” [Thiago Ghisi](https://twitter.com/thiagoghisi)
@@ -73,9 +79,7 @@ But once a decision is made, commit fully so the team can succeed as one.
 Modeling that behavior as a leader sets the tone for how the whole pod operates.
 All of your work and interactions with the team should serve to build our culture and drive us toward our vision:
 
-*Delight our residents and associates with innovative solutions built by happy teams.*
-
-("Residents" are the people who live in our homes; "associates" are our employees.)
+*delight our residents and associates with innovative solutions built by happy teams.*
 
 We mean the 'happy teams' part.
 Engineers who feel trusted and invested in do better work, stay longer, and build better things.
