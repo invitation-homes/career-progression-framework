@@ -3,15 +3,17 @@ id: principal-engineer
 title: Principal Engineer
 ---
 
-As a Principal Engineer, you lead through strategic technical direction, deep cross-functional collaboration, and by shaping the culture and systems of engineering at scale.
+[Job Description](job-descriptions/principal_engineer)
+
+As a Principal Engineer, you lead through strategic technical direction, deep cross-functional collaboration, and shaping the culture and systems of engineering at scale.
 You are a trusted partner to senior leadership and an advocate for strong engineering practices, enabling teams to thrive autonomously while aligning with long-term business goals.
 
 ## Impact
 
 - Serve as a force multiplier for the organization, driving cross-team initiatives, unblocking delivery at scale, and raising the standard of engineering excellence through influence and enablement.
-- Champion an Engineering culture that empowers teams to build independently and evolve with minimal coordination overhead. 
+- Champion an Engineering culture that empowers teams to build independently and evolve with minimal coordination overhead.
 - Identify opportunities and gaps in our engineering processes, security posture, or architectural alignment.
-  Address them with durable improvements that span teams.
+  Address them with durable improvements — including automation — that span teams.
 - Evaluate vendor offerings and integration strategies to help mitigate risk and align business goals and technology vision.
 - Maintain broad visibility into projects across the organization, enabling early identification of high-risk scenarios and intervening proactively to prevent critical issues.
 

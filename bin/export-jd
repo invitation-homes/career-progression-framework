@@ -1,0 +1,78 @@
+#!/usr/bin/env bash
+#
+# export-jd — Convert a job description to a .docx file using pandoc.
+#
+# Usage:
+#   bin/export-jd <role>              # outputs <role>.docx in current directory
+#   bin/export-jd <role> <output_dir> # outputs into the specified directory
+#
+# Examples:
+#   bin/export-jd engineering_manager
+#   bin/export-jd software_engineer_I ~/Desktop
+#   bin/export-jd all                 # exports every job description
+#
+# Roles correspond to filenames in job-descriptions/ without the .md extension.
+
+set -euo pipefail
+
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+JD_DIR="$REPO_ROOT/job-descriptions"
+
+if ! command -v pandoc &>/dev/null; then
+  echo "error: pandoc is required but not installed." >&2
+  echo "  install with: brew install pandoc" >&2
+  exit 1
+fi
+
+if [ $# -lt 1 ]; then
+  echo "usage: $(basename "$0") <role|all> [output_dir]" >&2
+  echo "" >&2
+  echo "available roles:" >&2
+  ls "$JD_DIR"/*.md | xargs -n1 basename | sed 's/\.md$//' | sed 's/^/  /' >&2
+  exit 1
+fi
+
+ROLE="$1"
+OUTPUT_DIR="${2:-.}"
+
+export_role() {
+  local role="$1"
+  local src="$JD_DIR/${role}.md"
+
+  if [ ! -f "$src" ]; then
+    echo "error: no job description found for '${role}'" >&2
+    echo "  expected: $src" >&2
+    return 1
+  fi
+
+  local out="$OUTPUT_DIR/${role}.docx"
+
+  # Extract only the content body — strip Jekyll front matter at the top
+  # (between the first and second "---") and the trailing "---\n\n[Progression
+  # Document]" section at the bottom.
+  local fm_end last_hr
+  fm_end=$(grep -n "^---$" "$src" | sed -n '2p' | cut -d: -f1)
+  last_hr=$(grep -n "^---$" "$src" | tail -1 | cut -d: -f1)
+
+  if [ -n "$fm_end" ] && [ "$fm_end" != "$last_hr" ]; then
+    sed -n "$((fm_end + 1)),$((last_hr - 1))p" "$src" | pandoc --from markdown --to docx --output "$out"
+  elif [ -n "$fm_end" ]; then
+    tail -n +"$((fm_end + 1))" "$src" | pandoc --from markdown --to docx --output "$out"
+  elif [ -n "$last_hr" ]; then
+    head -n "$((last_hr - 1))" "$src" | pandoc --from markdown --to docx --output "$out"
+  else
+    pandoc "$src" --from markdown --to docx --output "$out"
+  fi
+
+  echo "created: $out"
+}
+
+if [ "$ROLE" = "all" ]; then
+  mkdir -p "$OUTPUT_DIR"
+  for f in "$JD_DIR"/*.md; do
+    role="$(basename "$f" .md)"
+    export_role "$role"
+  done
+else
+  export_role "$ROLE"
+fi
