@@ -3,7 +3,9 @@ id: sr-director-of-engineering
 title: Sr. Director of Engineering
 ---
 
-As a Sr. Director of Engineering, you set the strategic direction for engineering at the company level and ensure that technology and organizational decisions are deeply aligned with long-term business outcomes. You are a senior leader who partners with the VP of Engineering and executive stakeholders to shape the culture, capability, and trajectory of the engineering organization. Your focus shifts from managing within a department to influencing the company by designing the systems, structures, and people strategies that allow engineering to scale and thrive.
+As a Sr. Director of Engineering, you set the strategic direction for engineering at the company level and ensure that technology and organizational decisions are deeply aligned with long-term business outcomes.
+You are a senior leader who partners with the VP of Engineering and executive stakeholders to shape the culture, capability, and trajectory of the engineering organization.
+Your focus shifts from managing within a department to influencing the company by designing the systems, structures, and people strategies that allow engineering to scale and thrive.
 
 ## Impact
 
@@ -21,7 +23,9 @@ As a Sr. Director of Engineering, you set the strategic direction for engineerin
 - Technical Reach
   - Company
 
-Your influence extends across the entire company. You shape how engineering is perceived, prioritized, and resourced at the executive level. You build trust and alignment with senior leaders across Product, Design, Finance, Business Operations, and beyond, ensuring engineering is a valued and visible partner in company-wide decisions.
+Your influence extends across the entire company.
+You shape how engineering is perceived, prioritized, and resourced at the executive level.
+You build trust and alignment with senior leaders across Product, Design, Finance, Business Operations, and beyond, ensuring engineering is a valued and visible partner in company-wide decisions.
 
 ## Knowledge
 
@@ -32,7 +36,7 @@ Your influence extends across the entire company. You shape how engineering is p
 
 ## Communication
 
-- Operate as a clear, trusted voice at the executive level — communicating strategy, trade-offs, risks, and results with confidence and precision.
+- Operate as a clear, trusted voice at the executive level, communicating strategy, trade-offs, risks, and results with confidence and precision.
 - Connect technical decisions to business impact in ways that build credibility and earn organizational trust.
 - Create alignment across leadership and engineering through transparent, consistent, and timely communication.
 - Champion a communication culture within engineering that cascades clarity from strategy to execution.

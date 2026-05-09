@@ -2,6 +2,8 @@ title: Invitation Homes
 remote_theme: invitation-homes/career-progression-framework-theme@main
 search_enabled: false
 sidebar:
+  - url_slug: engineering_principles
+    title: Engineering Vision, Mission, and Principles
   - url_slug: software_engineer_I
     title: Software Engineer I
   - url_slug: software_engineer_II
@@ -20,7 +22,7 @@ sidebar:
     title: Tech Fellow
   - url_slug: engineering_manager
     title: Engineering Manager
-  - url_slug: senior_engineering_manager
+  - url_slug: sr_engineering_manager
     title: Senior Engineering Manager
   - url_slug: director_of_engineering
     title: Director of Engineering

@@ -3,7 +3,9 @@ id: senior-engineering-manager
 title: Senior Engineering Manager
 ---
 
-As a Senior Engineering Manager, you lead a multi-team organization through a layer of engineering managers. You translate company and department strategy into clear direction for your teams, while building the leadership capability, culture, and operational health that enables sustained high performance. You are accountable for both what your organization delivers and how it grows.
+As a Senior Engineering Manager, you lead a multi-team organization through a layer of engineering managers.
+You translate company and department strategy into clear direction for your teams, while building the leadership capability, culture, and operational health that enables sustained high performance.
+You are accountable for both what your organization delivers and how it grows.
 
 ## Impact
 
@@ -11,6 +13,7 @@ As a Senior Engineering Manager, you lead a multi-team organization through a la
 - Align roadmaps with company priorities and ensure timely, quality outcomes. 
 - Accelerate delivery of high-impact, cross-team initiatives.
 - Surface high-impact project opportunities and ensure risks and scope are well understood and managed
+- Ground delivery and quality decisions in data, using metrics and team health signals to drive continuous improvement.
 
 ## Reach
 
@@ -20,7 +23,8 @@ As a Senior Engineering Manager, you lead a multi-team organization through a la
 - Technical Reach
   - Department
 
-Influence spans multiple engineering teams and touches on broad areas of the company’s technical ecosystem. Engage with leadership in Product, Design, and Delivery to shape how initiatives are defined and executed.
+Influence spans multiple engineering teams and touches on broad areas of the company’s technical ecosystem.
+Engage with leadership in Product, Design, and Delivery to shape how initiatives are defined and executed.
 
 ## Knowledge
 
