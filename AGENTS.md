@@ -50,6 +50,16 @@ Omit `.md` extensions from all internal links (see [ADR-0006](decision-records/0
 
 See [ADR-0001](decision-records/0001-semantic-line-breaks.md).
 
+### Being-a pages
+
+Some roles have a narrative companion in `being-a/`.
+These are not required for every role.
+See [style-guide.md](style-guide.md) for their structure and conventions.
+
+### Voice, tone, and word choice
+
+See [style-guide.md](style-guide.md) for voice, tone, sentence craft, vocabulary, anti-patterns, and a revision checklist.
+
 ## Export
 
 `bin/export-jd` converts job descriptions to `.docx` files using `pandoc` (must be installed: `brew install pandoc`).

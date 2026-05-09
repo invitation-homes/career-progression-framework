@@ -3,7 +3,7 @@ id: engineering-manager
 title: Engineering Manager
 ---
 
-[Job Description](job-descriptions/engineering_manager)
+[Job Description](job-descriptions/engineering_manager) · [Being an Engineering Manager](being-a/being-an-engineering-manager)
 
 As an Engineering Manager, you are a technical and people leader responsible for enabling your team’s success.
 You ensure that your engineers are growing, your work processes are effective, your systems are healthy, and your team is delivering meaningful results.
@@ -50,5 +50,5 @@ You share knowledge, influence culture, and support consistency across the broad
 - Provide coaching, mentorship, and guidance to help engineers grow in their careers.
 - Manage performance with clarity and care — address gaps early and invest in growth before it becomes a problem.
 - Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new hire experience.
-- Delegate effectively, trust your team, and hold them accountable for their outcomes.
-- Model the values and behaviors you want to see across the organization: humility, curiosity, bias to action, and care for others.
+- Delegate effectively, trust your team, and hold them accountable for their commitments.
+- Model the values and behaviors you want to see across the organization: curiosity, humility, a bias to action, and genuine care for others.

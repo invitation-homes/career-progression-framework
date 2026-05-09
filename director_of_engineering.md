@@ -3,7 +3,7 @@ id: director-of-engineering
 title: Director of Engineering
 ---
 
-[Job Description](job-descriptions/director_of_engineering)
+[Job Description](job-descriptions/director_of_engineering) · [Being a Director of Engineering](being-a/being-a-director-of-engineering)
 
 As a Director of Engineering, you are responsible for shaping the strategic technical vision, aligning engineering execution with business goals, and building an environment where managers and teams thrive.
 Your focus is on driving architecture direction, managing organizational risk, scaling technical systems, fostering innovation, and ensuring delivery of high-impact results.
