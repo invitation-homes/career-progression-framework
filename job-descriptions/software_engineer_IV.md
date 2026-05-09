@@ -3,9 +3,6 @@ id: software-engineer-iv-jd
 title: Software Engineer IV
 ---
 
-# Software Engineer IV
-
-
 ## About the Role
 
 Invitation Homes set out to solve a real problem: home leasing options were limited and the experience for renters was inconsistent.

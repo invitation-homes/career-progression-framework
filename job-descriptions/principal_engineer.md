@@ -3,9 +3,6 @@ id: principal-engineer-jd
 title: Principal Engineer
 ---
 
-# Principal Engineer
-
-
 ## About the Role
 
 Invitation Homes set out to solve a real problem: home leasing options were limited and the experience for renters was inconsistent.

@@ -3,8 +3,6 @@ id: being-a-director-of-engineering
 title: Being a Director of Engineering at IH
 ---
 
-# Being a Director of Engineering at IH
-
 [Job Description](../job-descriptions/director_of_engineering) · [Progression Document](../director_of_engineering)
 
 You lead the leaders.

@@ -3,9 +3,6 @@ id: software-engineer-ii-jd
 title: Software Engineer II
 ---
 
-# Software Engineer II
-
-
 ## About the Role
 
 Invitation Homes set out to solve a real problem: home leasing options were limited and the experience for renters was inconsistent.

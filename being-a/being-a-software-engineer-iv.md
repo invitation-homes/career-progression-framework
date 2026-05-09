@@ -3,8 +3,6 @@ id: being-a-software-engineer-iv
 title: Being a Software Engineer IV at IH
 ---
 
-# Being a Software Engineer IV at IH
-
 [Job Description](../job-descriptions/software_engineer_IV) · [Progression Document](../software_engineer_IV)
 
 You are a technical leader and force multiplier — still a hands-on engineer at heart, but with influence that extends well beyond your own code.

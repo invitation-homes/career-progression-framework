@@ -3,9 +3,6 @@ id: vp-of-engineering-jd
 title: VP of Engineering
 ---
 
-# VP of Engineering
-
-
 ## About the Role
 
 Invitation Homes set out to solve a real problem: home leasing options were limited and the experience for renters was inconsistent.

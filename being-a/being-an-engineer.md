@@ -3,8 +3,6 @@ id: being-an-engineer
 title: Being a Software Engineer at IH
 ---
 
-# Being a Software Engineer at IH
-
 Job Descriptions: [SE I](../job-descriptions/software_engineer_I) · [SE II](../job-descriptions/software_engineer_II) · [SE III](../job-descriptions/software_engineer_III)
 
 Progression Documents: [SE I](../software_engineer_I) · [SE II](../software_engineer_II) · [SE III](../software_engineer_III)
