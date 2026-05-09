@@ -43,7 +43,7 @@ QRGs, etc.
 
 ## Leadership
 
-- Advocate for and nuture empathy, psychological safety, and a blameless culture on your team and within our Technology 
+- Advocate for and nurture empathy, psychological safety, and a blameless culture on your team and within our Technology 
 group as a whole.
 - Help improve the processes for engineers on your team, especially in ways that could also be beneficial to other teams.
 - Improve the candidate experience for hiring new team members

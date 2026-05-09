@@ -7,7 +7,7 @@ As a Software Engineer II, you are expected to have acquired the foundational kn
 as well as the confidence to take on more responsibilities and independent work. You seek out opportunities to broaden 
 and/or deepen both your technical and non-technical skills in an effort to fill the gaps in your knowledge. You will 
 participate on larger scopes of work in well-defined projects to contribute value to your team. It is still expected 
-that this role will need some support and supervision from other members the team.
+that this role will need some support and supervision from other members of the team.
 
 ## Impact
 
@@ -18,7 +18,7 @@ that this role will need some support and supervision from other members the tea
   - Check in with team members and pair up to help
   - Review PRs in a timely manner
 
-- Share input on decisions records, documentation, or processes that effect you and your team
+- Share input on decision records, documentation, or processes that affect you and your team
 
 ## Reach
 

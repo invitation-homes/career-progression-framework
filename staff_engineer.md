@@ -14,14 +14,14 @@ As a Staff Engineer you lead through technical expertise, cross-team collaborati
 
 ## Reach
 
-- Cross-Team 
+- Department
 
-Your work consistently impacts multiple teams and informs decisions across the broader technology organization. You lead through influence and expertise, not just authority.
+Your work consistently impacts teams across the Engineering department, informing technical decisions and standards broadly. You lead through influence and expertise, not just authority.
 
 ## Knowledge
 
 - Demonstrate deep expertise in core technologies and architectural patterns used across the organization.
-- Shape architectural decisions with a long-term, strategic mindset. Optimizes for scalability, maintainability, and business alignment.
+- Shape architectural decisions with a long-term, strategic mindset, optimizing for scalability, maintainability, and business alignment.
 - Draw on a strong foundation in engineering principles to navigate unfamiliar technologies with confidence. Adapt and apply core concepts to new domains, enabling effective problem-solving across varied tech stacks.
 - Maintain a strong understanding of engineering workflows, standards, architectural decisions, and the broader system landscape to provide relevant context, promote alignment, and guide decision-making across teams.
 
@@ -31,7 +31,7 @@ Your work consistently impacts multiple teams and informs decisions across the b
 - Facilitate architectural reviews and technical deep dives with empathy and clarity.
 - Coach others in how to document, diagram, and communicate their own thinking effectively.
 - Translate abstract or technical risk into understandable tradeoffs
-- Drives conversations toward clarity by reducing complexity and identifying actionable next steps.
+- Drive conversations toward clarity by reducing complexity and identifying actionable next steps.
 
 ## Leadership
 
