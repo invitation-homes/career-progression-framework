@@ -19,6 +19,9 @@ Our engineering vision and mission support the company's purpose and values, kee
 Our Engineering Principles are a reflection of the culture we aspire to build and the behaviors we want to reinforce across our teams.
 They serve as a north star for how we operate, make decisions, and grow as engineers.
 
+These principles align with Invitation Homes' core values framework, Genuine CARE: **C**onnect the Dots, **A**im True, **R**aise the Roof, and **E**mbrace the Journey.
+They also complement the company's Key Competencies, which set eight behaviors expected of every Invitation Homes associate; our engineering principles translate several of them into engineering-specific practice.
+
 The principles are designed to:
 
 - Guide decision-making at all levels of engineering.
@@ -26,8 +29,6 @@ The principles are designed to:
 - Promote individual growth.
 - Encourage shared ownership of what "good" engineering looks like.
 - Create alignment across teams, so we're all moving toward the same goals.
-
-These principles align with Invitation Homes' core values framework, Genuine CARE: **C**onnect the Dots, **A**im True, **R**aise the Roof, and **E**mbrace the Journey.
 
 ### Our Principles
 

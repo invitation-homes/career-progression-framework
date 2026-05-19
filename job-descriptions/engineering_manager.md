@@ -32,7 +32,7 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 **Knowledge & Standards**
 
 - Maintain a deep understanding of your team's systems, technical stack, and the challenges they face.
-- Understand how your team's work connects to business goals, customer experience, and company strategy.
+- Understand how your team's work connects to business goals, resident and associate experience, and company strategy.
 - Use delivery data, team health signals, and engineering metrics to understand what's working and what needs attention.
 - Stay current in engineering and management practices — bring what you learn back to your team and your peers.
 
@@ -42,14 +42,19 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - Translate technical context for non-technical partners, and business context for your engineers.
 - Provide feedback — to your team and upward — that is clear, specific, and actionable.
 - Resolve ambiguity and conflict constructively; create space for healthy disagreement and clear, committed action.
+- Tailor your message to the audience: state the why, the impact, and a clear next step, then confirm understanding.
 
 **Leadership & Culture**
 
 - Build a high-performing, inclusive, and psychologically safe environment where engineers can do their best work.
-- Coach and develop your engineers through regular 1:1s, goal-setting, and deliberate career growth conversations.
+- Coach regularly and give clear, specific feedback that builds skills.
+  Create development plans and stretch opportunities tied to team needs, and track follow-through on development actions.
 - Manage performance with clarity and care — address gaps early and invest in growth before it becomes a problem.
 - Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new hire experience.
 - Delegate effectively, trust your team, and hold them accountable for their commitments.
+- Hold the team to ethical and compliance standards: protect data and privacy, model fairness in how work and opportunities are distributed, and address interpersonal conflicts early.
+- When leading your team through change, explain what is changing in plain language: the why, the impact, and what comes next.
+  Create a plan with owners and checkpoints, and monitor adoption.
 - Model the values and behaviors you want to see — curiosity, humility, a bias to action, and genuine care for others.
 
 ## What You Bring
