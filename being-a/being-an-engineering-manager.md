@@ -107,17 +107,13 @@ Resources for running effective one-on-ones are documented in the Engineering sp
 ### Leading Through Change
 
 Change is a constant.
-Your team will face new tools, new processes, and new organizational direction.
-Sometimes all at once.
-Your job isn't to absorb the change silently and reassign tickets.
-It's to help your team move through it with clarity and care.
+Your team will face new tools, new processes, and new organizational direction, sometimes all at once.
+Your job isn't to absorb it silently and reassign tickets; it's to help your team move through it with clarity and care.
 
-Explain what is changing in plain language: the why, the impact, and the next steps.
-Create a simple plan with clear owners, dates, and checkpoints.
-Coach individuals through the transition and adjust based on feedback.
-Monitor adoption: don't assume things are working because no one has complained.
-Close the loops.
-Recognize progress, and address concerns quickly when they surface.
+Start by explaining what's changing in plain language: the why, the impact, and the next steps.
+Create a simple plan with clear owners, dates, and checkpoints, then stay close as the team adapts.
+Monitor adoption actively; a quiet team isn't always a team that's on board.
+Adjust based on what you hear, recognize progress when it happens, and address concerns quickly when they surface.
 
 The resident and associate experience doesn't stop during a transition.
 Protect it.
