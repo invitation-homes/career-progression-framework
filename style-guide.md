@@ -197,6 +197,9 @@ Do not use euphemism or corporate softening for hard realities.
 Use these terms consistently.
 Introducing synonyms creates noise.
 
+Where the company's Key Competencies define specific language for a behavior or expectation, use that language.
+The competencies and their preferred vocabulary are summarized in [key_competencies.md](key_competencies.md).
+
 | Term | Form | Notes |
 | --- | --- | --- |
 | pod | lowercase | The cross-functional team. Not "team," "squad," or "group." |
