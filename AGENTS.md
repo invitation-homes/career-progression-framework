@@ -26,10 +26,10 @@ See [ADR-0004](decision-records/0004-reach-vocabulary.md).
 Job descriptions use a four-section structure and follow specific formatting conventions.
 See [ADR-0006](decision-records/0006-job-description-format.md).
 
-Content across both documents and both tracks should reflect the seven engineering principles defined in [engineering_principles.md](engineering_principles.md).
+Content across both documents and both tracks should reflect the seven engineering principles defined in [engineering-principles.md](engineering-principles.md).
 When writing or reviewing role content, check that the principles are represented appropriately for the level.
 
-Role content should also align with the company's eight Key Competencies, summarized in [key_competencies.md](key_competencies.md).
+Role content should also align with the company's eight Key Competencies, summarized in [key-competencies.md](key-competencies.md).
 Where the competencies define specific language or behaviors, prefer that vocabulary in role documents.
 The summary includes expected behaviors at two levels: **Associate** (IC track) and **People Leader** (management track).
 
@@ -49,6 +49,11 @@ title: <Role Title>
 ### Links
 
 Omit `.md` extensions from all internal links (see [ADR-0006](decision-records/0006-job-description-format.md)).
+
+### File Naming
+
+Content files use `kebab-case` (e.g., `engineering-manager.md`, `software-engineer-i.md`).
+Exceptions: `AGENTS.md`, `CLAUDE.md`, and `README.md` use SCREAMING_CAPS (repo tooling convention); `_config.yml` and `index.md` follow Jekyll conventions; `decision-records/` files use a numeric prefix with kebab-case.
 
 ### Formatting
 

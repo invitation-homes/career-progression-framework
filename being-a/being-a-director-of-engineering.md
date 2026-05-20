@@ -3,7 +3,7 @@ id: being-a-director-of-engineering
 title: Being a Director of Engineering at IH
 ---
 
-[Job Description](../job-descriptions/director_of_engineering) · [Progression Document](../director_of_engineering)
+[Job Description](../job-descriptions/director-of-engineering) · [Progression Document](../director-of-engineering)
 
 You lead the leaders.
 Your direct reports are [Engineering Managers](being-an-engineering-manager).
@@ -88,7 +88,7 @@ Set them clearly enough that your EMs can drive toward them, and hold the operat
 
 Our vision is to *delight our residents and associates with innovative solutions built by happy teams*.
 At the Director level, you carry more responsibility for the "happy teams" part than anyone else in the organization.
-You are expected to live our [engineering principles](../engineering_principles) and build a culture where they are felt across your operating group, not just declared.
+You are expected to live our [engineering principles](../engineering-principles) and build a culture where they are felt across your operating group, not just declared.
 Culture at scale does not emerge on its own. It is built deliberately, through the managers you develop and the norms you model.
 
 ### Building the Leadership Bench

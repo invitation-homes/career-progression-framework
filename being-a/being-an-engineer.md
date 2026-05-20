@@ -3,9 +3,9 @@ id: being-an-engineer
 title: Being a Software Engineer at IH
 ---
 
-Job Descriptions: [SE I](../job-descriptions/software_engineer_I) · [SE II](../job-descriptions/software_engineer_II) · [SE III](../job-descriptions/software_engineer_III)
+Job Descriptions: [SE I](../job-descriptions/software-engineer-i) · [SE II](../job-descriptions/software-engineer-iI) · [SE III](../job-descriptions/software-engineer-iII)
 
-Progression Documents: [SE I](../software_engineer_I) · [SE II](../software_engineer_II) · [SE III](../software_engineer_III)
+Progression Documents: [SE I](../software-engineer-i) · [SE II](../software-engineer-iI) · [SE III](../software-engineer-iII)
 
 You are a practitioner.
 Whether you're an SE1, SE2, or SE3, the core of the work is the same: write good code, ship working software, learn from what you build, and invest in the people around you.
@@ -78,7 +78,7 @@ Modeling that behavior (saying what you think, then getting behind the call) is 
 
 ## Learning and Curiosity
 
-Continuously improving our craft is one of our [engineering principles](../engineering_principles).
+Continuously improving our craft is one of our [engineering principles](../engineering-principles).
 The growth between SE1 and SE3 is substantial, and it does not happen passively.
 
 Be curious.

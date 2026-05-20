@@ -13,7 +13,7 @@ The site is hosted at [invitation-homes.github.io/career-progression-framework](
 <role>.md                  # Progression document for each role
 job-descriptions/<role>.md # Job description for each role
 being-a/<role>.md          # Narrative companion pages (not every role has one)
-engineering_principles.md  # The seven engineering principles that underpin all roles
+engineering-principles.md  # The seven engineering principles that underpin all roles
 decision-records/          # ADRs documenting structural and formatting decisions
 index.md                   # Site home page with career ladder diagram
 _config.yml                # Jekyll config and sidebar navigation

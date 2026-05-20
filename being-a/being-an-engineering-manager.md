@@ -3,7 +3,7 @@ id: being-an-engineering-manager
 title: Being an Engineering Manager at IH
 ---
 
-[Job Description](../job-descriptions/engineering_manager) · [Progression Document](../engineering_manager)
+[Job Description](../job-descriptions/engineering-manager) · [Progression Document](../engineering-manager)
 
 You are a [player-coach](https://www.cultureamp.com/blog/support-player-coach) — equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
 Your responsibilities span three broad areas: strategy and planning, people management, and building things.
@@ -70,7 +70,7 @@ You are also an ally and advocate for your team: representing their interests to
 
 ### Live Our Principles and Build Our Culture
 
-You are expected to live our [engineering principles](../engineering_principles), model them for your pod, and encourage the team to follow them — or at least aspire to.
+You are expected to live our [engineering principles](../engineering-principles), model them for your pod, and encourage the team to follow them — or at least aspire to.
 Those principles complement the company's eight Key Competencies: the behaviors that define how every Invitation Homes associate thinks, communicates, makes decisions, and drives results.
 As a People Leader in that framework, you're not just modeling these behaviors; you're developing them in your team.
 One principle worth calling out explicitly: speak up when you disagree.

@@ -3,9 +3,9 @@ id: being-a-software-engineer-iv
 title: Being a Software Engineer IV or Salesforce Platform Manager at IH
 ---
 
-Job Descriptions: [Software Engineer IV](../job-descriptions/software_engineer_IV) · [Salesforce Platform Manager](../job-descriptions/salesforce_platform_manager)
+Job Descriptions: [Software Engineer IV](../job-descriptions/software-engineer-iV) · [Salesforce Platform Manager](../job-descriptions/salesforce-platform-manager)
 
-[Progression Document](../software_engineer_IV)
+[Progression Document](../software-engineer-iV)
 
 You are a technical leader and force multiplier — still a hands-on practitioner at heart, but with influence that extends well beyond your own work.
 Your responsibilities span three broad areas: technical leadership and decision-making, delivery and quality, and people, influence, and team health.
@@ -75,7 +75,7 @@ Set expectations for PR quality, test coverage, and maintainability. Hold to the
 Ensure issues are addressed before merge, and keep an eye on compounding technical debt: what looks like a small shortcut today often becomes a larger problem later.
 
 Your pod maintains a **KLO** (Keep the Lights On) backlog — work that keeps the codebase healthy: addressing technical debt, improving developer experience, increasing automated test coverage, and reducing toil.
-These are our [engineering principles](../engineering_principles) in action. If something can be automated or improved, we don't let it linger.
+These are our [engineering principles](../engineering-principles) in action. If something can be automated or improved, we don't let it linger.
 Take an active role in identifying and prioritizing this work. The target is roughly 10% of each sprint's capacity, and partnering with your EM to protect that time is part of the role.
 
 ### Production Ownership

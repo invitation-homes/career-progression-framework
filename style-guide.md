@@ -198,7 +198,7 @@ Use these terms consistently.
 Introducing synonyms creates noise.
 
 Where the company's Key Competencies define specific language for a behavior or expectation, use that language.
-The competencies and their preferred vocabulary are summarized in [key_competencies.md](key_competencies.md).
+The competencies and their preferred vocabulary are summarized in [key-competencies.md](key-competencies.md).
 
 | Term | Form | Notes |
 | --- | --- | --- |
