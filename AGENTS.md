@@ -26,7 +26,7 @@ See [ADR-0004](decision-records/0004-reach-vocabulary.md).
 Job descriptions use a four-section structure and follow specific formatting conventions.
 See [ADR-0006](decision-records/0006-job-description-format.md).
 
-Content across both documents and both tracks should reflect the seven engineering principles defined in [engineering_principles.md](engineering_principles.md).
+Content across both documents and both tracks should reflect the seven engineering principles defined in [engineering-principles.md](engineering-principles.md).
 When writing or reviewing role content, check that the principles are represented appropriately for the level.
 
 ### Front Matter

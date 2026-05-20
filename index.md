@@ -8,7 +8,7 @@ It should be used as a guide for behaviors we want to recognize, improve, or hol
 It should not be used as a definitive checklist for promotion.
 You should be meeting with your manager and creating a development plan, which may contain expectations and goals that are not explicitly defined here.
 
-The expectations in this framework are grounded in our [Engineering Vision, Mission, and Principles](./engineering_principles).
+The expectations in this framework are grounded in our [Engineering Vision, Mission, and Principles](./engineering-principles).
 Regardless of role or track, a few behaviors reflect those principles and apply to everyone:
 
 - Give feedback that is clear, kind, and actionable
@@ -76,19 +76,19 @@ flowchart TD
     classDef exec fill:#f7f7fa,stroke:#bbb,stroke-width:2px,color:#343a40
     classDef normNode fill:#f7f7fa,stroke:#bbb,stroke-width:1.5px,color:#343a40
     classDef dummy style X width:1px,height:1px,fill:transparent,stroke:transparent 
-    click SE1 "./software_engineer_I" _blank
-    click SE2 "./software_engineer_II" _blank
-    click SE3 "./software_engineer_III" _blank
-    click SE4 "./software_engineer_IV" _blank
-    click Staff "./staff_engineer" _blank
-    click Principal "./principal_engineer" _blank
-    click SrPrincipal "./sr_principal_engineer" _blank
-    click TF "./tech_fellow" _blank
-    click EM "./engineering_manager" _blank
-    click SEM "./sr_engineering_manager" _blank
-    click ED "./director_of_engineering" _blank
-    click SED "./sr_director_of_engineering" _blank
-    click VP "./vp_of_engineering" _blank
+    click SE1 "./software-engineer-i" _blank
+    click SE2 "./software-engineer-ii" _blank
+    click SE3 "./software-engineer-iii" _blank
+    click SE4 "./software-engineer-iv" _blank
+    click Staff "./staff-engineer" _blank
+    click Principal "./principal-engineer" _blank
+    click SrPrincipal "./sr-principal-engineer" _blank
+    click TF "./tech-fellow" _blank
+    click EM "./engineering-manager" _blank
+    click SEM "./sr-engineering-manager" _blank
+    click ED "./director-of-engineering" _blank
+    click SED "./sr-director-of-engineering" _blank
+    click VP "./vp-of-engineering" _blank
 
 </div>
 {% endraw %}
