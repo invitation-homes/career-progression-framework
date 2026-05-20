@@ -59,17 +59,22 @@ See [ADR-0001](decision-records/0001-semantic-line-breaks) for the semantic line
 ### Rhythm
 
 Mix short and long sentences deliberately.
-Short sentences create emphasis and let ideas land.
-Long sentences carry explanation, context, and nuance.
-Never run three long sentences in a row without a short one to break them up.
+A short sentence creates emphasis and lets an idea land; a long sentence carries the explanation, nuance, and context that earns the landing.
+Neither works in isolation.
+Never run three long sentences in a row without a short one to break them up, and never cluster short sentences until the prose flattens into a list.
+Short sentences land because they follow something longer.
+Used in clusters, they lose their punch.
 
 **Works:**
 > You lead the leaders.
 > Your direct reports are Engineering Managers.
 > The lever has shifted from writing code to building the organizational conditions — the structure, culture, and leadership capacity — that let multiple teams operate well at once.
 
-**Does not work:**
+**Does not work — too many long sentences:**
 > As a Director of Engineering, you are responsible for the strategic technical vision of your operating group, including the management of engineering managers, the alignment of technical decisions with business strategy, and the cultivation of a high-performance culture across multiple cross-functional teams.
+
+**Does not work — too many short sentences:**
+> Change is a constant. Your team will face new tools. Sometimes all at once. Your job isn't to absorb it. It's to help your team move through it. Explain what is changing. Create a plan. Close the loops.
 
 ### Active voice
 
@@ -133,6 +138,7 @@ When you have explained something complex, land it with a short sentence.
 > "Context that lives in people's heads leaves when they do."
 > "The best time to address an organizational gap is before you feel it."
 > "When we get it right, people feel it."
+The power is in the contrast with what came before. Used back to back, the emphasis dissolves.
 
 **External attribution format.**
 Blockquote with an attribution line:
@@ -190,6 +196,9 @@ Do not use euphemism or corporate softening for hard realities.
 
 Use these terms consistently.
 Introducing synonyms creates noise.
+
+Where the company's Key Competencies define specific language for a behavior or expectation, use that language.
+The competencies and their preferred vocabulary are summarized in [key_competencies.md](key_competencies.md).
 
 | Term | Form | Notes |
 | --- | --- | --- |

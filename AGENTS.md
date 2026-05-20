@@ -29,6 +29,10 @@ See [ADR-0006](decision-records/0006-job-description-format.md).
 Content across both documents and both tracks should reflect the seven engineering principles defined in [engineering_principles.md](engineering_principles.md).
 When writing or reviewing role content, check that the principles are represented appropriately for the level.
 
+Role content should also align with the company's eight Key Competencies, summarized in [key_competencies.md](key_competencies.md).
+Where the competencies define specific language or behaviors, prefer that vocabulary in role documents.
+The summary includes expected behaviors at two levels: **Associate** (IC track) and **People Leader** (management track).
+
 ### Front Matter
 
 Every page requires Jekyll front matter with `id` (hyphenated slug) and `title`.

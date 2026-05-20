@@ -71,6 +71,8 @@ You are also an ally and advocate for your team: representing their interests to
 ### Live Our Principles and Build Our Culture
 
 You are expected to live our [engineering principles](../engineering_principles), model them for your pod, and encourage the team to follow them — or at least aspire to.
+Those principles complement the company's eight Key Competencies: the behaviors that define how every Invitation Homes associate thinks, communicates, makes decisions, and drives results.
+As a People Leader in that framework, you're not just modeling these behaviors; you're developing them in your team.
 One principle worth calling out explicitly: speak up when you disagree.
 Your voice matters, and holding back a concern doesn't serve the team.
 But once a decision is made, commit fully so the team can succeed as one.
@@ -101,6 +103,20 @@ We believe, and research backs this up, that managers need a deep commitment to 
 The most direct way to demonstrate that is by investing time each week in your direct reports.
 One-on-ones are your primary vehicle for coaching, your best signal on individual health, and your early warning system when something is off.
 Resources for running effective one-on-ones are documented in the Engineering space in Confluence.
+
+### Leading Through Change
+
+Change is a constant.
+Your team will face new tools, new processes, and new organizational direction, sometimes all at once.
+Your job isn't to absorb it silently and reassign tickets; it's to help your team move through it with clarity and care.
+
+Start by explaining what's changing in plain language: the why, the impact, and the next steps.
+Create a simple plan with clear owners, dates, and checkpoints, then stay close as the team adapts.
+Monitor adoption actively; a quiet team isn't always a team that's on board.
+Adjust based on what you hear, recognize progress when it happens, and address concerns quickly when they surface.
+
+The resident and associate experience doesn't stop during a transition.
+Protect it.
 
 ### Performance Reviews
 
