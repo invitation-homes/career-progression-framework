@@ -20,7 +20,7 @@ The five-section progression document structure (Impact/Reach/Knowledge/Communic
 A subdirectory keeps the two document types cleanly separated and avoids any filename collision with existing root-level progression documents.
 
 **Jekyll page IDs** — Each Jekyll page needs a unique `id` in its front matter.
-JD filenames mirror their progression document counterparts (e.g., `engineering_manager.md` in both locations), which would produce duplicate IDs if the same convention were used.
+JD filenames mirror their progression document counterparts (e.g., `engineering-manager.md` in both locations), which would produce duplicate IDs if the same convention were used.
 
 **Cross-link syntax** — Jekyll renders Markdown links without `.md` extensions.
 Links that include the `.md` extension work in raw Markdown editors but produce broken URLs in the rendered Jekyll site.
@@ -36,7 +36,7 @@ Links that include the `.md` extension work in raw Markdown editors but produce 
 5. **Leadership & Culture** — people, culture, and organizational contributions expected at this level.
 
 **File location** — Job descriptions live in the `job-descriptions/` subdirectory.
-The filename matches the corresponding progression document exactly (e.g., `job-descriptions/engineering_manager.md` pairs with `engineering_manager.md`).
+The filename matches the corresponding progression document exactly (e.g., `job-descriptions/engineering-manager.md` pairs with `engineering-manager.md`).
 
 **Jekyll front matter** — Each JD includes a front matter block with `id` and `title`.
 The `id` value appends `-jd` to the role's base identifier to avoid collision with the progression document's page ID (e.g., `engineering-manager-jd` vs. `engineering-manager`).

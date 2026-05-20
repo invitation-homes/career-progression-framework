@@ -7,8 +7,8 @@
 #   bin/export-jd <role> <output_dir> # outputs into the specified directory
 #
 # Examples:
-#   bin/export-jd engineering_manager
-#   bin/export-jd software_engineer_I ~/Desktop
+#   bin/export-jd engineering-manager
+#   bin/export-jd software-engineer-i ~/Desktop
 #   bin/export-jd all                 # exports every job description
 #
 # Roles correspond to filenames in job-descriptions/ without the .md extension.

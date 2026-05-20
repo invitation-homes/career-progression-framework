@@ -8,31 +8,31 @@ exclude:
 remote_theme: invitation-homes/career-progression-framework-theme@main
 search_enabled: false
 sidebar:
-  - url_slug: engineering_principles
+  - url_slug: engineering-principles
     title: Engineering Vision, Mission, and Principles
-  - url_slug: software_engineer_I
+  - url_slug: software-engineer-i
     title: Software Engineer I
-  - url_slug: software_engineer_II
+  - url_slug: software-engineer-ii
     title: Software Engineer II
-  - url_slug: software_engineer_III
+  - url_slug: software-engineer-iii
     title: Software Engineer III
-  - url_slug: software_engineer_IV
+  - url_slug: software-engineer-iv
     title: Software Engineer IV / Salesforce Platform Manager
-  - url_slug: staff_engineer
+  - url_slug: staff-engineer
     title: Staff Engineer
-  - url_slug: principal_engineer
+  - url_slug: principal-engineer
     title: Principal Engineer
-  - url_slug: sr_principal_engineer
+  - url_slug: sr-principal-engineer
     title: Sr. Principal Engineer
-  - url_slug: tech_fellow
+  - url_slug: tech-fellow
     title: Tech Fellow
-  - url_slug: engineering_manager
+  - url_slug: engineering-manager
     title: Engineering Manager
-  - url_slug: sr_engineering_manager
+  - url_slug: sr-engineering-manager
     title: Senior Engineering Manager
-  - url_slug: director_of_engineering
+  - url_slug: director-of-engineering
     title: Director of Engineering
-  - url_slug: sr_director_of_engineering
+  - url_slug: sr-director-of-engineering
     title: Sr. Director of Engineering
-  - url_slug: vp_of_engineering
+  - url_slug: vp-of-engineering
     title: VP of Engineering

@@ -3,7 +3,7 @@ id: being-an-engineering-manager
 title: Being an Engineering Manager at IH
 ---
 
-[Job Description](../job-descriptions/engineering_manager) · [Progression Document](../engineering_manager)
+[Job Description](../job-descriptions/engineering-manager) · [Progression Document](../engineering-manager)
 
 You are a [player-coach](https://www.cultureamp.com/blog/support-player-coach) — equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
 Your responsibilities span three broad areas: strategy and planning, people management, and building things.
@@ -23,7 +23,7 @@ No two managers will look the same.
 The mix of responsibilities you carry will shift based on your own stage as a manager, the maturity of your pod (the cross-functional team you lead), and the clarity of your product direction.
 Pod maturity has a few dimensions: the experience of the individual team members, how long they've been working together, and where they fall on the [Tuckman stages](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) of group development.
 
-![Three examples of how the mix of responsibilities can vary across different manager situations](../assets/manager_shapes.png)
+![Three examples of how the mix of responsibilities can vary across different manager situations](../assets/manager-shapes.png)
 *How the mix of responsibilities shifts depending on your team's situation*
 
 ## Strategy and Planning
@@ -70,7 +70,7 @@ You are also an ally and advocate for your team: representing their interests to
 
 ### Live Our Principles and Build Our Culture
 
-You are expected to live our [engineering principles](../engineering_principles), model them for your pod, and encourage the team to follow them — or at least aspire to.
+You are expected to live our [engineering principles](../engineering-principles), model them for your pod, and encourage the team to follow them — or at least aspire to.
 One principle worth calling out explicitly: speak up when you disagree.
 Your voice matters, and holding back a concern doesn't serve the team.
 But once a decision is made, commit fully so the team can succeed as one.

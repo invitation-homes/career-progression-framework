@@ -75,5 +75,5 @@ Experience with these is a strong plus — though we care more about depth of th
 
 ---
 
-[Progression Document](../software_engineer_IV)
+[Progression Document](../software-engineer-iv)
 
