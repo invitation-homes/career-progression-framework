@@ -42,7 +42,7 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - Translate technical context for non-technical partners, and business context for your engineers.
 - Provide feedback — to your team and upward — that is clear, specific, and actionable.
 - Resolve ambiguity and conflict constructively; create space for healthy disagreement and clear, committed action.
-- Tailor your message to the audience: state the why, the impact, and a clear next step, then confirm understanding.
+- Tailor your communication to the audience — translating technical context for non-technical partners and business context for your engineers.
 
 **Leadership & Culture**
 

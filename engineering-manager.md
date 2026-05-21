@@ -45,7 +45,7 @@ You share knowledge, influence culture, and support consistency across the broad
 - Tailor your message to the audience: translate technical, financial, or policy complexity into clear actions, state the why and the impact, and confirm understanding.
 - Provide thoughtful feedback that promotes alignment and action.
 - Resolve ambiguity and conflict constructively and encourage healthy team discussions and decision-making.
-- When delegating, clearly articulate what you're delegating, why, and to whom.
+- When delegating, clearly articulate what you're delegating, why, to whom, and what success looks like.
 
 ## Leadership
 
