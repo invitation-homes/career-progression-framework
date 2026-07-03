@@ -15,7 +15,8 @@ This role maps to what many organizations call a Staff Software Engineer, where 
 You'll move where the need is greatest: embedding with teams to solve their hardest problems while building the shared standards, tools, and practices that lift every team.
 You'll remain a hands-on engineer throughout, but your reach is the whole department, not a single team.
 
-Our Staff AI Engineer is a new role created to help accelerate our organization's AI journey, improving the quality of life for our associates, especially our software engineers, who use AI every day to write, test, and deploy. We have an immediate need to expand our agentic AI capabilities, which this role will have a direct impact on.
+Our Staff AI Engineer is a new role created to help accelerate our organization's AI journey, improving the quality of life for our associates, especially our software engineers, who use AI every day to write, test, and deploy.
+We have an immediate need to expand our agentic AI capabilities, which this role will have a direct impact on.
 
 From here, you'll have a clear path to Principal Engineer, where your impact expands to the full engineering organization and shapes its long-term technical direction.
 

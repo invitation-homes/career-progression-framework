@@ -15,7 +15,9 @@ This role maps to what many organizations call a Principal Engineer, where techn
 You are a trusted partner to engineering leadership: setting strategic direction, maintaining a comprehensive view of the technical landscape, and engaging where the organization needs you most.
 You remain technically active (hands-on work anchors your credibility), but your primary lever is strategic influence, not individual execution.
 
-Our Principal AI Engineer is a new role created to own the architecture and execution behind our organization's AI journey: not just accelerate individual teams, but operationalize the direction, standards, and guardrails the whole department builds AI on. Working within the AI strategy and governance framework set at the Tech Fellow and executive level, you'll evaluate and recommend agentic frameworks and platform tooling, own the architecture behind our shared AI platform, and enforce the build-vs-buy and risk decisions that keep individual teams from having to make them alone. This role has direct accountability for AI systems operating safely, reliably, and cost-effectively at the scale of a 100,000+ home portfolio.
+Our Principal AI Engineer is a new role created to own the architecture and execution behind our organization's AI journey: not just accelerate individual teams, but operationalize the direction, standards, and guardrails the whole department builds AI on.
+Working within the AI strategy and governance framework set at the Tech Fellow and executive level, you'll evaluate and recommend agentic frameworks and platform tooling, own the architecture behind our shared AI platform, and enforce the build-vs-buy and risk decisions that keep individual teams from having to make them alone.
+This role has direct accountability for AI systems operating safely, reliably, and cost-effectively at the scale of a 100,000+ home portfolio.
 
 From here, you'll have a clear path to Sr. Principal Engineer, where you'll take on the organization's most consequential technical and cultural challenges.
 
