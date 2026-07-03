@@ -62,7 +62,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 ## What You Bring
 
 - 8+ years of professional software development experience, with a demonstrated track record of technical impact beyond team boundaries.
-- 2+ years developing and deploying production-ready AI features including LLM-dependent applications, RAG systems, agents, and evals.
+- 1+ years developing and deploying production-ready AI features including LLM-dependent applications, RAG systems, agents, and evals.
 - Deep expertise in software architecture, system design, and distributed systems.
 - Deep understanding of LLM evaluation methods: prompt testing, hallucination detection, and cost/performance tradeoffs.
 - Experience building custom eval pipelines using techniques like model-as-a-judge or embedding similarity.
