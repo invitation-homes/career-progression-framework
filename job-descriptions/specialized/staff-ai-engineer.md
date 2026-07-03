@@ -30,7 +30,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Identify AI related patterns and shared needs across teams; you'll surface them into the shared AI platform and contribute directly to its growth.
 - Set and drive engineering standards that allow our coding agents to elevate code quality, reliability, and maintainability across the department.
 - Build and ship production-grade backend services that power AI-driven features residents and associates rely on.
-- Apply AI to modernize and automate operational workflows across a 90,000-home portfolio.
+- Apply AI to modernize and automate operational workflows across a 100,000-home portfolio.
 - Tune prompts, reasoning chains, and retrieval strategies including RAG/LLM as Wiki against Invitation Homes data.
 - Own observability of AI systems in production: monitor performance, safety, and cost across LLM-driven features.
 
