@@ -11,7 +11,8 @@
 #   bin/export-jd software-engineer-i ~/Desktop
 #   bin/export-jd all                 # exports every job description
 #
-# Roles correspond to filenames in job-descriptions/ without the .md extension.
+# Roles correspond to filenames in job-descriptions/ (including subdirectories,
+# e.g. specialized/staff-ai-engineer) without the .md extension.
 
 set -euo pipefail
 
@@ -28,7 +29,7 @@ if [ $# -lt 1 ]; then
   echo "usage: $(basename "$0") <role|all> [output_dir]" >&2
   echo "" >&2
   echo "available roles:" >&2
-  ls "$JD_DIR"/*.md | xargs -n1 basename | sed 's/\.md$//' | sed 's/^/  /' >&2
+  find "$JD_DIR" -name '*.md' | sed "s|^$JD_DIR/||; s/\.md$//" | sort | sed 's/^/  /' >&2
   exit 1
 fi
 
@@ -45,7 +46,7 @@ export_role() {
     return 1
   fi
 
-  local out="$OUTPUT_DIR/${role}.docx"
+  local out="$OUTPUT_DIR/$(basename "$role").docx"
 
   # Extract only the content body — strip Jekyll front matter at the top
   # (between the first and second "---") and the trailing "---\n\n[Progression
@@ -69,10 +70,11 @@ export_role() {
 
 if [ "$ROLE" = "all" ]; then
   mkdir -p "$OUTPUT_DIR"
-  for f in "$JD_DIR"/*.md; do
-    role="$(basename "$f" .md)"
+  while IFS= read -r f; do
+    role="${f#"$JD_DIR"/}"
+    role="${role%.md}"
     export_role "$role"
-  done
+  done < <(find "$JD_DIR" -name '*.md')
 else
   export_role "$ROLE"
 fi
