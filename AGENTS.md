@@ -17,6 +17,10 @@ When adding or removing a role, three things must be updated:
 
 See [ADR-0002](decision-records/0002-one-file-per-role.md), [ADR-0003](decision-records/0003-mermaid-career-ladder.md), and [ADR-0005](decision-records/0005-dual-document-structure.md).
 
+Some job descriptions are hiring variants of an existing level rather than a new rung on the ladder (e.g. a "Staff AI Engineer" posting that levels internally as a Staff Engineer).
+These live in `job-descriptions/specialized/`, are not paired with a progression document, are not cross-linked with any other content, and are excluded from the Jekyll build via `_config.yml`.
+See [ADR-0007](decision-records/0007-specialized-job-descriptions.md).
+
 ## Content Conventions
 
 Each role document covers five sections in order: **Impact**, **Reach**, **Knowledge**, **Communication**, **Leadership**.
