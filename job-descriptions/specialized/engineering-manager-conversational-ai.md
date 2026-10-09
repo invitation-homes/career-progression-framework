@@ -1,6 +1,6 @@
 ---
-id: engineering-manager-jd
-title: Engineering Manager
+id: engineering-manager-conversational-ai-jd
+title: Engineering Manager, Conversational AI
 ---
 
 ## About the Role
@@ -12,10 +12,12 @@ When we ship, people feel it.
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Great software is built by engineers who are supported, growing, and proud of what they ship.
 This is the entry point into people leadership on the engineering management track — what many organizations call an Engineering Manager.
-Your primary lever shifts here: you multiply impact through your people, not your own code.
+Your primary lever shifts here: you multiply impact through your people, in addition to your own technical contributions.
 You remain technically grounded — credible in design discussions, fluent in your team's systems — but your focus is on building the conditions for your team to do great work.
 
 Think of yourself as a player-coach — equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
+
+Our Engineering Manager, Conversational AI will lead a team of engineers, working closely with a product owner, to build the technology behind our conversations with residents to enhance communication across SMS, email, voice, and chat.
 
 From here, you'll have a clear path to Sr. Engineering Manager as your leadership scope and organizational reach grow.
 
@@ -26,7 +28,7 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - Stay technically grounded: participate in design discussions, understand the systems your team builds, and engage directly when your team needs your depth.
 - Shape the technical direction of your team's work in partnership with your engineers — and engage in technical conversations across the broader engineering organization to promote consistency and share perspective.
 - Remove blockers: resolve ambiguities, clear organizational friction, and escalate where needed to keep your team moving.
-- Own the health of your team's systems — advocate for reliability, maintainability, and automation alongside delivery.
+- Own the health of your team's systems — advocate for reliability, maintainability, and automation alongside delivery, including observability of AI systems in production: performance, quality, and cost.
 - Evaluate technical risk and help your team make sound decisions, even when the path forward isn't clear.
 
 **Knowledge & Standards**
@@ -34,10 +36,11 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - Maintain a deep understanding of your team's systems, technical stack, and the challenges they face.
 - Understand how your team's work connects to business goals, customer experience, and company strategy.
 - Use delivery data, team health signals, and engineering metrics to understand what's working and what needs attention.
-- Stay current in engineering and management practices — bring what you learn back to your team and your peers.
+- Stay current in engineering and management practices, including how AI is changing the way software is built — bring what you learn back to your team and your peers.
 
 **Communication & Collaboration**
 
+- Work closely with your Product partner to define and execute the team roadmap, translating resident needs into clear technical plans.
 - Communicate clearly and proactively with your team, stakeholders, and engineering leadership — especially when the news is hard.
 - Translate technical context for non-technical partners, and business context for your engineers.
 - Provide feedback — to your team and upward — that is clear, specific, and actionable.
@@ -50,7 +53,8 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - Manage performance with clarity and care — address gaps early and invest in growth before it becomes a problem.
 - Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new hire experience.
 - Delegate effectively, trust your team, and hold them accountable for their commitments.
-- Model the values and behaviors you want to see — curiosity, humility, a bias to action, and genuine care for others.
+- Maintain a bias to action: help your team draw on AI tooling and insights to automate the mundane.
+- Model the values and behaviors you want to see — curiosity, humility, and genuine care for others.
 
 ## What You Bring
 
@@ -63,13 +67,19 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - Hands-on experience with cloud platforms, CI/CD practices, and modern iterative software delivery.
 - A degree in Computer Science, Computer Engineering, or equivalent practical experience.
 
+Nice to have:
+
+- Experience building or integrating AI and LLM-powered applications.
+- Experience integrating third-party vendor platforms, such as conversational AI platforms or messaging channels like SMS, email, and voice.
+- Familiarity with Salesforce, including Marketing Cloud.
+
 ## Our Stack
 
-Our engineering teams work with TypeScript, Node.js, React, PostgreSQL, and AWS — including Lambda, DynamoDB, and RDS.
+Our engineering teams work with TypeScript, Node.js, and AWS.
 We practice CI/CD, favor infrastructure as code, and build on REST APIs and event-driven architectures.
-Salesforce is a significant part of our technology landscape — some teams build directly on the platform, while others integrate with Salesforce-managed APIs.
+Salesforce, including Marketing Cloud, is a significant part of our technology landscape — some teams build directly on the platform, while others integrate with Salesforce-managed APIs.
 Experience with these is a strong plus — though we care more about depth of thinking, adaptability, and the drive to keep learning than familiarity with any specific tool.
 
 ---
 
-[Progression Document](../engineering-manager)
+[Progression Document](../../engineering-manager)
