@@ -11,13 +11,13 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Great software is built by engineers who are supported, growing, and proud of what they ship.
-This is the entry point into people leadership on the engineering management track — what many organizations call an Engineering Manager.
+Our Engineering Manager, Conversational AI will lead a team of engineers, working closely with a product owner, to build the technology behind our conversations with residents to enhance communication across SMS, email, voice, and chat.
+
+This is the entry point into people leadership on our engineering management track.
 Your primary lever shifts here: you multiply impact through your people, in addition to your own technical contributions.
 You remain technically grounded — credible in design discussions, fluent in your team's systems — but your focus is on building the conditions for your team to do great work.
 
 Think of yourself as a player-coach — equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
-
-Our Engineering Manager, Conversational AI will lead a team of engineers, working closely with a product owner, to build the technology behind our conversations with residents to enhance communication across SMS, email, voice, and chat.
 
 From here, you'll have a clear path to Sr. Engineering Manager as your leadership scope and organizational reach grow.
 
@@ -53,8 +53,8 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - Manage performance with clarity and care — address gaps early and invest in growth before it becomes a problem.
 - Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new hire experience.
 - Delegate effectively, trust your team, and hold them accountable for their commitments.
-- Maintain a bias to action: help your team draw on AI tooling and insights to automate the mundane.
-- Model the values and behaviors you want to see — curiosity, humility, and genuine care for others.
+- Help your team use AI tooling and insights to automate the mundane.
+- Model the values and behaviors you want to see — curiosity, humility, a bias to action, and genuine care for others.
 
 ## What You Bring
 
@@ -65,18 +65,20 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - A record of navigating ambiguity, resolving conflict, and creating clarity for those around you.
 - A genuine investment in others — you find meaning in developing people and building the conditions for teams to do their best work.
 - Hands-on experience with cloud platforms, CI/CD practices, and modern iterative software delivery.
+- Experience building or integrating customer-communication systems, such as SMS, email, voice, or chat channels.
+- Experience integrating third-party vendor platforms, such as conversational AI platforms or messaging providers.
+- Experience building or integrating AI and LLM-powered applications, or a demonstrated drive to build that depth quickly.
 - A degree in Computer Science, Computer Engineering, or equivalent practical experience.
 
 Nice to have:
 
-- Experience building or integrating AI and LLM-powered applications.
-- Experience integrating third-party vendor platforms, such as conversational AI platforms or messaging channels like SMS, email, and voice.
 - Familiarity with Salesforce, including Marketing Cloud.
 
 ## Our Stack
 
 Our engineering teams work with TypeScript, Node.js, and AWS.
 We practice CI/CD, favor infrastructure as code, and build on REST APIs and event-driven architectures.
+We use AI tooling such as Claude and Copilot every day, and build on foundation models and third-party conversational AI platforms.
 Salesforce, including Marketing Cloud, is a significant part of our technology landscape — some teams build directly on the platform, while others integrate with Salesforce-managed APIs.
 Experience with these is a strong plus — though we care more about depth of thinking, adaptability, and the drive to keep learning than familiarity with any specific tool.
 
