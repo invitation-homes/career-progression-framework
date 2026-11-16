@@ -37,7 +37,8 @@ What stays constant: the expectation that you hold the long view on both people 
 ### Operating Group Leadership
 
 Your operating group is led by a quad: you, your Product leader, your Design leader, and your Project Manager.
-Together, this group is the Strategy Tier, responsible for the 1–2 year outlook for the operating group: where it is going, what it will take to get there, and whether the organization is built to deliver it.
+Together, this group is the Strategy Tier.
+It's responsible for the 1–2 year outlook for the operating group: where it is going, what it will take to get there, and whether the organization is built to deliver it.
 Unlike at the pod level, where project management is often shared between the EM and Product Owner, the operating group has a dedicated Project Manager whose focus is coordinating delivery across pods, managing timelines and dependencies, and keeping cross-pod initiatives on track.
 
 Each role has a distinct focus:

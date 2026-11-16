@@ -42,7 +42,7 @@ What stays constant: the goal of clearing the path for your team to do great wor
 Your pod is led by a triad: you, your Product Owner, and your Product Designer.
 Our pods are intentionally small (typically 7 to 10 people), in the spirit of the [two-pizza rule](https://aws.amazon.com/executive-insights/content/amazon-two-pizza-team/): small enough to stay nimble, aligned, and well-coordinated.
 As the Engineering Manager (EM), you'll typically have 3–5 full-time employees (FTEs) and 3–5 contractors as direct reports.
-Your FTE direct reports are on the full people management journey described in this document: 1:1s, performance reviews, career development, the works.
+Your FTE direct reports are on the full people management journey described in this document: one-on-ones, performance reviews, career development, the works.
 Your relationship with contractors is different: you direct their work, give feedback, and set them up to succeed, but formal performance management runs through their agency or vendor.
 You are responsible for building a strong working relationship with your counterparts and leading the pod together.
 The triad owns planning and execution, maintains a healthy backlog, and is accountable for building a safe, [generative](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture) team culture.
@@ -192,14 +192,15 @@ A large part of your job is helping your pod execute its work.
 As a player-coach, you contribute directly to that success in many ways, and we need to track your time accordingly.
 
 Building software is an investment by the company, and the dollars we invest can be capitalized over the software's useful life.
-Capital spending is treated differently from expense spending in accounting, and capitalizable time allows us to increase our overall spending, which directly translates into headcount for our projects.
+Capital spending is treated differently from expense spending in accounting.
+Capitalizable time lets us increase our overall spending, which directly translates into headcount for our projects.
 Enter your time each month as allocations in Quickbase (our project management and time-tracking system), assigned to the appropriate project, BAU (Business As Usual), or KLO bucket.
 The expected split is roughly:
 
 | Activity | Hours Per Week | % of Time |
 | --- | --- | --- |
 | Project Work | 28 hrs (3.5 days) | ~70% |
-| Admin/Management (1:1s, reviews, coaching, mentoring) | 8 hrs (1 day) | ~20% |
+| Admin/Management (one-on-ones, reviews, coaching, mentoring) | 8 hrs (1 day) | ~20% |
 | BAU/KLO | 4 hrs (0.5 days) | ~10% |
 
 "Project Work" here doesn't mean hands-on coding alone.
