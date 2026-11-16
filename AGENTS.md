@@ -58,6 +58,7 @@ See [ADR-0001](decision-records/0001-semantic-line-breaks.md).
 
 Some roles have a narrative companion in `being-a/`.
 These are not required for every role.
+Each being-a page opens with a series nav line linking to every other being-a page; when adding or removing one, update that line on all of them.
 See [style-guide.md](style-guide.md) for their structure and conventions.
 
 ### Voice, tone, and word choice

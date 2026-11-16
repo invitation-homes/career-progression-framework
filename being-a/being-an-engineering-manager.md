@@ -3,7 +3,11 @@ id: being-an-engineering-manager
 title: Being an Engineering Manager at IH
 ---
 
-[Job Description](../job-descriptions/engineering-manager) · [Progression Document](../engineering-manager)
+Being… [a Software Engineer (SE I–III)](being-an-engineer) · [a Software Engineer IV / SPM](being-a-software-engineer-iv) · **an Engineering Manager** · [a Director of Engineering](being-a-director-of-engineering)
+
+Job Description: [Engineering Manager](../job-descriptions/engineering-manager)
+
+Progression Document: [Engineering Manager](../engineering-manager)
 
 You are a [player-coach](https://www.cultureamp.com/blog/support-player-coach): equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
 Your responsibilities span three broad areas: strategy and planning, people management, and building things.

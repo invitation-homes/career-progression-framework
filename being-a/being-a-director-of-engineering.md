@@ -3,7 +3,11 @@ id: being-a-director-of-engineering
 title: Being a Director of Engineering at IH
 ---
 
-[Job Description](../job-descriptions/director-of-engineering) · [Progression Document](../director-of-engineering)
+Being… [a Software Engineer (SE I–III)](being-an-engineer) · [a Software Engineer IV / SPM](being-a-software-engineer-iv) · [an Engineering Manager](being-an-engineering-manager) · **a Director of Engineering**
+
+Job Description: [Director of Engineering](../job-descriptions/director-of-engineering)
+
+Progression Document: [Director of Engineering](../director-of-engineering)
 
 You lead the leaders.
 Your direct reports are [Engineering Managers](being-an-engineering-manager).

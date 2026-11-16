@@ -1,7 +1,9 @@
 ---
 id: being-an-engineer
-title: Being a Software Engineer at IH
+title: Being a Software Engineer (SE I–III) at IH
 ---
+
+Being… **a Software Engineer (SE I–III)** · [a Software Engineer IV / SPM](being-a-software-engineer-iv) · [an Engineering Manager](being-an-engineering-manager) · [a Director of Engineering](being-a-director-of-engineering)
 
 Job Descriptions: [SE I](../job-descriptions/software-engineer-i) · [SE II](../job-descriptions/software-engineer-ii) · [SE III](../job-descriptions/software-engineer-iii)
 

@@ -3,9 +3,11 @@ id: being-a-software-engineer-iv
 title: Being a Software Engineer IV or Salesforce Platform Manager at IH
 ---
 
+Being… [a Software Engineer (SE I–III)](being-an-engineer) · **a Software Engineer IV / SPM** · [an Engineering Manager](being-an-engineering-manager) · [a Director of Engineering](being-a-director-of-engineering)
+
 Job Descriptions: [Software Engineer IV](../job-descriptions/software-engineer-iv) · [Salesforce Platform Manager](../job-descriptions/salesforce-platform-manager)
 
-[Progression Document](../software-engineer-iv)
+Progression Document: [Software Engineer IV / Salesforce Platform Manager](../software-engineer-iv)
 
 You are a technical leader and force multiplier: still a hands-on practitioner at heart, but with influence that extends well beyond your own work.
 Your responsibilities span three broad areas: technical leadership and decision-making, delivery and quality, and people, influence, and team health.

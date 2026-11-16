@@ -3,7 +3,7 @@ id: software-engineer-ii
 title: Software Engineer II
 ---
 
-[Job Description](job-descriptions/software-engineer-ii) · [Being an Engineer](being-a/being-an-engineer)
+[Job Description](job-descriptions/software-engineer-ii) · [Being a Software Engineer (SE I–III)](being-a/being-an-engineer)
 
 As a Software Engineer II, you have the foundational knowledge and skills of your craft, and the confidence to take on more responsibility and independent work.
 You seek out opportunities to broaden and deepen both your technical and non-technical skills to fill the gaps in your knowledge.

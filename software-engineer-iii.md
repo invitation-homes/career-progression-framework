@@ -3,7 +3,7 @@ id: software-engineer-iii
 title: Software Engineer III
 ---
 
-[Job Description](job-descriptions/software-engineer-iii) · [Being an Engineer](being-a/being-an-engineer)
+[Job Description](job-descriptions/software-engineer-iii) · [Being a Software Engineer (SE I–III)](being-a/being-an-engineer)
 
 As a Software Engineer III, you are capable of leading the design and implementation of a typical solution.
 You aren't expected to have all the answers, but you have the aptitude and experience to solve the problems in front of you effectively.

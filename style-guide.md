@@ -30,13 +30,14 @@ It does not patronize junior roles or over-formalize senior ones.
 
 The being-a pages follow a consistent shape:
 
-1. A short, declarative opener naming the essence of the role
-2. The "Our systems touch residents in hundreds of thousands of homes" paragraph, grounding the work in real impact
-3. The residents/associates footnote: `("Residents" are the people who live in our homes; "associates" are our employees.)`
-4. A blockquoted external attribution from a relevant author
-5. A "No two X will look the same" paragraph acknowledging the range of the role and naming what stays constant
-6. Thematic sections (H2) with subsections (H3)
-7. A "From here" closing paragraph linking to the next level
+1. A series nav line listing every being-a page in ladder order, with the current page in bold and unlinked, followed by `Job Description` and `Progression Document` link lines
+2. A short, declarative opener naming the essence of the role
+3. The "Our systems touch residents in hundreds of thousands of homes" paragraph, grounding the work in real impact
+4. The residents/associates footnote: `("Residents" are the people who live in our homes; "associates" are our employees.)`
+5. A blockquoted external attribution from a relevant author
+6. A "No two X will look the same" paragraph acknowledging the range of the role and naming what stays constant
+7. Thematic sections (H2) with subsections (H3)
+8. A "From here" closing paragraph linking to the next level
 
 Narrative context always comes before lists and structure.
 The reader should understand the *feel* of the role before its formal shape.
