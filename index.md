@@ -4,20 +4,20 @@ title: Engineering Career Progression Framework
 ---
 
 This framework is a reference for you to understand the expectations of the roles at Invitation Homes.
-It should be used as a guide for behaviors we want to recognize, improve, or hold individuals accountable for.
-It should not be used as a definitive checklist for promotion.
-You should be meeting with your manager and creating a development plan, which may contain expectations and goals that are not explicitly defined here.
+Use it as a guide for behaviors we want to recognize, improve, or hold individuals accountable for.
+Don't use it as a definitive checklist for promotion.
+Meet with your manager to create a development plan, which may contain expectations and goals that aren't explicitly defined here.
 
 The expectations in this framework are grounded in our [Engineering Vision, Mission, and Principles](./engineering-principles).
 Regardless of role or track, a few behaviors reflect those principles and apply to everyone:
 
-- Give feedback that is clear, kind, and actionable
+- Give feedback that is clear, kind, and actionable.
 - Provide opinions and thoughts in a way that is conducive to collaboration and invites participation from others.
 - Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your own.
 
 # Career Progression Tracks
 
-Engineers can take an individual contributor focused track, the Professional Track, or a people management focused track, the Management Track, as they navigate their career here at Invitation Homes.
+Engineers can take an individual contributor focused track, the Professional Track, or a people management focused track, the Management Track, as they build their careers here at Invitation Homes.
 
 {% raw %}
 <div class="mermaid" style="text-align: center;">
@@ -31,9 +31,9 @@ config:
   layout: fixed
 ---
 flowchart TD
-    SE1["Software Engineer 1"] --> SE2["Software Engineer 2"]
-    SE2 --> SE3["Software Engineer 3"]
-    SE3 --> SE4["Software Engineer 4 / Salesforce Platform Manager"]
+    SE1["Software Engineer I"] --> SE2["Software Engineer II"]
+    SE2 --> SE3["Software Engineer III"]
+    SE3 --> SE4["Software Engineer IV / Salesforce Platform Manager"]
     SE4 -- Professional Track --> Staff["Staff Engineer"]
     SE4 -- Management Track --> EM["Engineering Manager"]
     Staff --- Dummy[ ]
@@ -41,8 +41,8 @@ flowchart TD
     Principal --> SrPrincipal["Sr. Principal Engineer"]
     SrPrincipal --> TF["Tech Fellow"]
     EM --> SEM["Senior Engineering Manager"]
-    SEM --> ED["Engineering Director"]
-    ED --> SED["Sr. Engineering Director"]
+    SEM --> ED["Director of Engineering"]
+    ED --> SED["Sr. Director of Engineering"]
     SED --> VP["VP of Engineering"]
     SE1@{ shape: rounded}
     SE2@{ shape: rounded}
@@ -95,24 +95,24 @@ flowchart TD
 
 # Our Expectations
 
-Our roles have five areas of focus: Impact, Reach, Knowledge, Communication and Leadership.
+Our roles have five areas of focus: Impact, Reach, Knowledge, Communication, and Leadership.
 
 ## Impact
 
 Impact is _what_ you do.
-It is a reflection of how you serve your customers, whether they are internal or external.
+It reflects how you serve the people who depend on your work: residents, associates, and other teams.
 How you produce impact is also a factor of your reach.
 
-**Example**: A `Software Engineer I` will focus mostly on self-improvement and small well-defined tasks.
+**Example**: A `Software Engineer I` will focus mostly on self-improvement and small, well-defined tasks.
 Their impact is very localized and depends on following process and learning quickly to get to a place where they can work independently and provide more value.
-A `Software Engineer III` will, conversely, be expected to contribute to design, use their knowledge for innovation, and provide mentorship to less senior roles.
+By contrast, a `Software Engineer III` contributes to design, uses their knowledge to innovate, and mentors less senior engineers.
 
 ## Reach
 
 Reach is _where_ you have impact.
-It could also be considered your “sphere of influence”.
-It is expected that your sphere of influence should grow as you do.
-Each level is inclusive of the ones that came before it. i.e. `Team` encompasses both `Individual` and `Self`.
+Think of it as your "sphere of influence."
+Your sphere of influence grows as you do.
+Each level includes the ones before it: `Team` encompasses both `Individual` and `Self`.
 
 - Self
 - Individual
@@ -120,18 +120,19 @@ Each level is inclusive of the ones that came before it. i.e. `Team` encompasses
 - Cross-Team
 - Department
 - Company
+- Industry
 
 ## Knowledge
 
 Knowledge is one of the three factors of _how_ you work.
-This covers both technical skills, such as the language your team works with, as well as domain and business-specific context.
-The more knowledge you gain, the more tools and insight you have to impact code, projects, architectural designs, etc…
+This covers both technical skills, such as the language your team works with, and domain and business-specific context.
+The more knowledge you gain, the more tools and insight you have to shape code, projects, and architectural designs.
 
 ## Communication
 
-This area covers how you communicate with those around you, in both technical and non-technical situations; this includes understanding how context, your tone and the method you choose to communicate can impact those situations.
+This area covers how you communicate with those around you, in both technical and non-technical situations; this includes understanding how context, your tone, and the method you choose to communicate can impact those situations.
 
 ## Leadership
 
-Leadership is how one can provide impact within your sphere of influence without releasing code.
-Whether it’s actively looking to mentor other engineers or using your expertise in a particular area to provide support or training across teams.
+Leadership is how you create impact within your sphere of influence beyond the code you ship.
+It might mean mentoring other engineers or using your expertise in a particular area to support or train other teams.
