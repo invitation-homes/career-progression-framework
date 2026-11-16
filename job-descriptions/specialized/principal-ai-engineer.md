@@ -10,7 +10,7 @@ Today, as the nation's largest single-family home rental company, our engineerin
 When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
-Great software is built by engineers who are supported, growing, and proud of what they ship.
+Engineers who are supported, growing, and proud of what they ship build great software.
 This role maps to what many organizations call a Principal Engineer, where technical mastery and organizational influence converge to shape how engineering works at scale.
 You are a trusted partner to engineering leadership: setting strategic direction, maintaining a comprehensive view of the technical landscape, and engaging where the organization needs you most.
 You remain technically active (hands-on work anchors your credibility), but your primary lever is strategic influence, not individual execution.
@@ -25,11 +25,11 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 
 **Technical Leadership**
 
-- Stay technically active: contribute to architectural decisions, engage with critical AI designs, and write code where it matters most; your credibility is grounded in doing the work.
+- Stay technically active: contribute to architectural decisions, engage with the highest-stakes AI designs, and write code where it matters most; your credibility is grounded in doing the work.
 - Take responsibility for the hardest AI architectural decisions and complex cross-functional challenges: the ones without clear right answers, including agentic framework adoption and platform-level build-vs-buy calls, within the AI investment priorities set at the executive level.
 - Maintain broad visibility across AI initiatives and the platform underneath them; identify high-risk scenarios early (safety, cost overrun, model drift, vendor lock-in) and intervene proactively before they become critical.
 - Evaluate AI/LLM tooling, agentic frameworks, and platform integrations, and bring recommendations forward to inform enterprise-level technology and vendor decisions.
-- Enforce and operationalize the AI architectural governance framework: ensure decisions are recorded, discoverable, and aligned with the responsible AI standards and enterprise strategy set by executive technical leadership.
+- Enforce and operationalize the AI architectural governance framework: make sure decisions are recorded, discoverable, and aligned with the responsible AI standards and enterprise strategy set by executive technical leadership.
 - Own the shared AI platform (eval frameworks, MCP and LLM gateways, RAG/retrieval infrastructure) as durable, cross-team infrastructure rather than a single-team asset.
 - Champion an engineering culture where teams build and evolve AI capabilities autonomously; identify gaps in AI governance, security posture, and architectural alignment, and address them with durable improvements that span teams.
 - Own enterprise-level observability and cost governance for AI systems in production: performance, safety, and spend across every LLM-driven feature, not just one.
@@ -54,7 +54,7 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 
 - Act as a cultural pillar and steward of engineering values: model humility, rigor, curiosity, and high standards in everything you do.
 - Raise the bar for AI engineering across the organization through modeling, targeted mentorship, and a visible standard of technical excellence.
-- Take ownership of decisions on hard AI tradeoffs, subjective designs, and complex cross-functional challenges: make the call, ensure the organization aligns, and model how to move forward decisively.
+- Take ownership of decisions on hard AI tradeoffs, subjective designs, and complex cross-functional challenges: make the call, get the organization aligned, and model how to move forward decisively.
 - Mentor Staff AI Engineers and senior engineers, investing deliberately in the depth, judgment, and reach of those who will carry the organization's AI technical future.
 - Maintain a bias to action at the organizational level: identify AI-related risks early, intervene proactively, and drive resolution before issues become critical.
 

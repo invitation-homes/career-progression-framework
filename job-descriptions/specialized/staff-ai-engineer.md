@@ -10,7 +10,7 @@ Today, as the nation's largest single-family home rental company, our engineerin
 When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
-Great software is built by engineers who are supported, growing, and proud of what they ship.
+Engineers who are supported, growing, and proud of what they ship build great software.
 This role maps to what many organizations call a Staff Software Engineer, where deep technical expertise and cross-team influence come together.
 You'll move where the need is greatest: embedding with teams to solve their hardest problems while building the shared standards, tools, and practices that lift every team.
 You'll remain a hands-on engineer throughout, but your reach is the whole department, not a single team.
@@ -25,7 +25,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 **Technical Leadership**
 
 - Remain a hands-on engineer: write code, contribute to architectural decisions, and ship; your technical credibility is the foundation of your influence.
-- Embed with teams as a focused technical resource: accelerate delivery, address deep technical challenges, mentor engineers, and transition out once the team is unblocked and empowered.
+- Embed with teams as a focused technical resource: accelerate delivery, address deep technical challenges, mentor engineers, and transition out once the team is unblocked and self-sufficient.
 - Take ownership of the hardest technical AI decisions facing the teams you support; provide the clarity and decisiveness that enables teams to move forward.
 - Leave behind clear artifacts (documentation, diagrams, utilities, or design patterns) that continue to support the team after you move on.
 - Identify AI related patterns and shared needs across teams; you'll surface them into the shared AI platform and contribute directly to its growth.
@@ -39,7 +39,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 
 - Serve as an authority and mentor across core AI technologies and architectural patterns used throughout the organization.
 - Shape architectural decisions with a long-term, strategic mindset: optimizing for agentic scalability, maintainability, and alignment with business goals.
-- Apply core engineering principles to navigate unfamiliar technologies with confidence; adapt and operate effectively across varied tech stacks.
+- Apply core engineering principles to take on unfamiliar technologies with confidence; adapt and operate effectively across varied tech stacks.
 - Maintain a broad understanding of engineering workflows, standards, architectural decision records (ADRs), and the system landscape to provide relevant context and promote alignment across teams.
 - Build reference implementations of agentic use cases: prompt engineering practices and use-case patterns on top of the shared eval frameworks and MCP/LLM gateways owned at the platform level.
 
