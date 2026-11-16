@@ -17,8 +17,8 @@ When we get it right, people feel it.
 ("Residents" are the people who live in our homes; "associates" are our employees.)
 
 > *"Much of the job of an effective engineering manager is non-technical in nature: prioritization, communication, risk-awareness, connecting silos, inspiring teams, growing new leaders, and so forth.
-> This makes success less visible, or at least less obvious."*
-> — [Thiago Ghisi](https://twitter.com/thiagoghisi)
+> This makes success less visible, or at least less obvious, and pushes the day-to-day further from the world of instant gratification."*
+> — Adam Waksman, [*Good engineers can become good leaders*](https://foursquare.com/resources/blog/developer/good-engineers-can-become-good-leaders/)
 
 No two managers will look the same.
 The mix of responsibilities you carry will shift based on your own stage as a manager, the maturity of your pod (the cross-functional team you lead), and the clarity of your product direction.
