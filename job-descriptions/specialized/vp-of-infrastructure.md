@@ -84,7 +84,8 @@ Moving those workloads to automated, reproducible, managed infrastructure is a l
 Our core AWS services include Lambda, DynamoDB, and RDS.
 We manage infrastructure as code with Terraform and deliver changes through CI/CD pipelines.
 ServiceNow handles our IT service management.
-Our application teams build with TypeScript, Node.js, React, PostgreSQL, and Salesforce; familiarity with that stack is helpful but not required.
+Our application teams build with TypeScript, Node.js, React, PostgreSQL, and Salesforce.
+Familiarity with that stack is helpful but not required.
 We care more about depth of thinking, adaptability, and the drive to keep learning than familiarity with any specific tool.
 
 ---
