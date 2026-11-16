@@ -48,3 +48,4 @@ You lead through influence and expertise, not just authority.
 - Facilitate learning across teams through initiatives such as architecture guilds, postmortems, or engineering summits.
 - Own and improve engineering processes, standards, and tools that support a healthy, inclusive, and effective engineering culture.
 - Maintain a bias to action across the teams you support: keep work moving, surface and resolve blockers, and build momentum without creating dependency.
+- Raise the hiring bar: interview candidates, calibrate technical assessments across teams, and help new senior engineers ramp up quickly.

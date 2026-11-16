@@ -56,6 +56,7 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Maintain a bias to action at the operating group level: anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
 - Serve as a steady decision-maker: bring the right voices into consequential decisions, make the call, and create alignment behind it.
 - Model strategic thinking, empathy, curiosity, and continuous improvement at every level of engagement.
+- Own talent strategy for your operating group: hiring plans, recruiting partnerships, and the pipeline of future Engineering Managers.
 
 ## What You Bring
 

@@ -49,3 +49,4 @@ You lead through expertise and relationships, not authority.
 - Own the most consequential architectural decisions, providing the clarity and conviction needed when the path forward is genuinely hard.
 - Govern the company's technical direction in partnership with engineering leadership, making sure decisions are coherent, well-reasoned, and built to last.
 - Maintain a bias to action at the company level: anticipate systemic risks before they surface, intervene decisively, and keep the organization moving toward its technical future.
+- Help attract and assess senior technical talent: interview for Staff and Principal roles, and shape how the company evaluates technical leadership.

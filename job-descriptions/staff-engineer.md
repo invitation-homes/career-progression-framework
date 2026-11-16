@@ -52,6 +52,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Mentor engineers at multiple levels, helping them grow in technical depth and expand their reach.
 - Maintain a bias to action across the teams you support: keep work moving, surface and resolve blockers, and build momentum without creating dependency.
 - Model intellectual humility, curiosity, high standards, and a genuine investment in the people around you; the culture you carry shapes the culture of the teams you touch.
+- Raise the hiring bar: interview candidates, calibrate technical assessments across teams, and help new senior engineers ramp up quickly.
 
 ## What You Bring
 

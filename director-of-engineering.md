@@ -55,3 +55,4 @@ You partner closely with leadership across Product, Design, Business Operations,
 - Maintain a bias to action at the operating group level: anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
 - Model strategic thinking, empathy, and continuous improvement at every level of engagement.
 - Serve as a steady decision-maker and mediator, providing clarity, resolving conflicts, and enabling teams to move forward with confidence and focus.
+- Own talent strategy for your operating group: hiring plans, recruiting partnerships, and the pipeline of future Engineering Managers.
