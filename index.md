@@ -40,7 +40,7 @@ flowchart TD
     Dummy --> Principal["Principal Engineer"]
     Principal --> SrPrincipal["Sr. Principal Engineer"]
     SrPrincipal --> TF["Tech Fellow"]
-    EM --> SEM["Senior Engineering Manager"]
+    EM --> SEM["Sr. Engineering Manager"]
     SEM --> ED["Director of Engineering"]
     ED --> SED["Sr. Director of Engineering"]
     SED --> VP["VP of Engineering"]
