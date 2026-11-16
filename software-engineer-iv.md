@@ -39,7 +39,6 @@ At this point, you're an active agent of change and improvement.
 - Collaborate and coordinate across teams.
 - Encourage transparent communication within and outside of your team.
 - Advocate and get buy-in for technical solutions.
-- Provide opinions and thoughts in a way that is conducive to collaboration and invites participation from others.
 - Arbitrate and de-escalate technical disagreements.
 - Model the behavior of advocating strongly for your position, then committing fully once a decision is reached.
 
