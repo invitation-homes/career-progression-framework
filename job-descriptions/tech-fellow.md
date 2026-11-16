@@ -40,6 +40,7 @@ Your influence shapes not only how technology evolves at Invitation Homes, but h
 - Represent Invitation Homes externally through thought leadership, conference participation, community engagement, and industry relationships.
 - Set the standard for how technical vision, strategy, and governance are communicated across the organization.
 - Bring clarity to the most ambiguous and consequential technical decisions, making it easier for the whole organization to understand, align, and act.
+- Challenge the prevailing direction at any level when the evidence warrants it, then commit fully once a decision is made, and model that combination for the whole company.
 
 **Leadership & Culture**
 

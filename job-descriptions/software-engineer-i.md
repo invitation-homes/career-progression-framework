@@ -40,6 +40,7 @@ From here, you'll have a clear path to Software Engineer II, where you'll move b
 - Read through your team's pull requests and use them as a learning opportunity; ask questions and pair up when you can.
 - Write clear pull request descriptions and follow your team's guidelines.
 - Actively seek out feedback from teammates and your manager, and use it to improve.
+- Speak up when you disagree or don't understand something, and once the team decides, commit to the decision fully.
 
 **Leadership & Culture**
 

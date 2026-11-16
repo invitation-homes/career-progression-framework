@@ -43,6 +43,7 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 - Build and maintain an evergreen knowledge base of architectural patterns and reference implementations that promotes long-term technical clarity across the organization.
 - Establish shared language and frameworks that help teams consistently reason about and discuss technical problems.
 - Build strong relationships with stakeholders across departments: bridge the gap between engineering and the broader business.
+- Advocate strongly in department-wide technical decisions, then commit fully and help the organization align behind the outcome.
 
 **Leadership & Culture**
 

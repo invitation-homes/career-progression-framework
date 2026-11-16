@@ -41,6 +41,7 @@ You'll still need some support and supervision from others on the team.
 - Write and explain technical documentation in ways that are easy to understand.
 - Contribute to team discussions and encourage others to do the same.
 - Escalate issues in a timely manner when help is needed with deliverables or priorities.
+- Share your perspective when you disagree, then commit fully once the team makes a decision.
 
 ## Leadership
 

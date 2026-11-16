@@ -43,6 +43,7 @@ You share knowledge, influence culture, and support consistency across the broad
 - Translate technical concepts for non-technical audiences and vice versa.
 - Provide thoughtful feedback that promotes alignment and action.
 - Resolve ambiguity and conflict constructively and encourage healthy team discussions and decision-making.
+- Speak up when you disagree, commit fully once a decision is made, and build the same norm on your team.
 
 ## Leadership
 

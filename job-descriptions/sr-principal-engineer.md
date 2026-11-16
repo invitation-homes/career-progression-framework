@@ -42,6 +42,7 @@ From here, you'll have a clear path to Tech Fellow, the highest individual contr
 - Set the standard for technical discourse across the company: how architectural decisions are made, documented, and communicated.
 - Influence without authority: bring people along through reasoning, credibility, and empathy.
   This is your primary tool.
+- Disagree openly with engineering and executive leadership when the technical case calls for it, then commit fully once a decision is made and help others do the same.
 
 **Leadership & Culture**
 

@@ -41,6 +41,7 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 - Connect technical decisions to business impact in ways that build credibility and earn organizational trust.
 - Create alignment across leadership and engineering through transparent, consistent, and timely communication.
 - Champion a communication culture within engineering that cascades clarity from strategy to execution at every level.
+- Bring dissenting views into executive decisions when engineering's perspective calls for it, then commit fully and lead the department in carrying them out.
 
 **Leadership & Culture**
 

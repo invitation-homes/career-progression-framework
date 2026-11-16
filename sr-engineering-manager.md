@@ -42,6 +42,7 @@ You engage with leadership in Product, Design, and Delivery to shape how initiat
 - Proactively share context and clarity with your teams, write effectively, and create alignment through transparent updates and thoughtful documentation.
 - Proactively communicate questions, status, risks, outcomes, metrics, and team health to leadership.
 - Facilitate conversations that help managers and teams create solutions and alignment, guiding rather than dictating outcomes.
+- Advocate for your organization's perspective in leadership decisions, then commit fully and help your managers carry the decision forward.
 
 ## Leadership
 

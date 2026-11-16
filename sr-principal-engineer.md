@@ -40,6 +40,7 @@ You lead through expertise and relationships, not authority.
 - Distill the most complex technical challenges into language that is actionable for both engineering teams and non-technical leaders.
 - Set the standard for technical discourse across the company: how architectural decisions are made, documented, and communicated.
 - Influence without authority: your ability to bring people along through reasoning, credibility, and empathy is your primary tool.
+- Disagree openly with engineering and executive leadership when the technical case calls for it, then commit fully once a decision is made and help others do the same.
 
 ## Leadership
 

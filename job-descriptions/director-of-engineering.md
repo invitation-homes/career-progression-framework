@@ -44,6 +44,7 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Communicate priorities, trade-offs, progress, risks, and results across the organization, including to executive leadership.
 - Build and maintain trust with leaders across Product, Design, Finance, Business Operations, and Vendor Management through consistent, well-reasoned communication.
 - Represent engineering's perspective in company-level conversations, helping the broader organization understand and value the work of your teams.
+- Speak up when you disagree, and once a decision is made, commit fully and create alignment behind it across your operating group.
 
 **Leadership & Culture**
 

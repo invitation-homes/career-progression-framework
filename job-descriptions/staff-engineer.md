@@ -42,6 +42,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Coach engineers in how to document, diagram, and communicate their technical thinking effectively.
 - Translate complex technical risk into understandable trade-offs for stakeholders at all levels.
 - Drive conversations toward clarity: reduce complexity, build alignment across teams, and help everyone commit and move forward once a direction is set.
+- Advocate strongly for your position in cross-team decisions, then commit fully once a direction is set, and help the teams you support do the same.
 
 **Leadership & Culture**
 

@@ -38,6 +38,7 @@ This role is a learning platform: a place to build the skills and knowledge you'
 - Write clear PR descriptions and follow our PR guideline document.
 - Contribute to documentation.
 - Seek out feedback from those you work with, as well as your manager.
+- Speak up when you disagree or don't understand something, and once the team decides, commit to the decision fully.
 
 ## Leadership
 

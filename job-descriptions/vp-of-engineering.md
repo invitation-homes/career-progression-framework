@@ -39,6 +39,7 @@ You partner across the company and with external stakeholders so technology stra
 - Represent engineering externally through thought leadership, industry engagement, and a recruiting presence that reflects Invitation Homes as a technology organization.
 - Bring engineering, business, and external partners into alignment through strong interpersonal skills and high organizational trust.
 - Partner with the CIO and executive peers across Product, Finance, and Business Operations so engineering is a valued and visible contributor to company strategy.
+- Invite disagreement from your leaders and peers, make the call, and commit fully; model the norm that honest advocacy and full commitment go together.
 
 **Leadership & Culture**
 

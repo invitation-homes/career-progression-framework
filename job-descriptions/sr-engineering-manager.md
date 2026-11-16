@@ -44,6 +44,7 @@ From here, you'll have a clear path to Director of Engineering as your organizat
 - Proactively share context, risks, and outcomes with engineering leadership: bring the right information to the right people before they have to ask.
 - Facilitate conversations that help your managers create alignment and own solutions; guide rather than dictate.
 - Build strong relationships with Product, Design, and Delivery partners at the program and department level.
+- Advocate for your organization's perspective in leadership decisions, then commit fully and help your managers carry the decision forward.
 
 **Leadership & Culture**
 
