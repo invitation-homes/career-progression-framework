@@ -5,13 +5,12 @@ title: Sr. Director of Architecture
 
 ## About the Role
 
-Invitation Homes set out to solve a real problem: home leasing options were limited and the experience for residents was inconsistent.
-Today we're the nation's largest single-family home rental company, with 100,000+ homes.
-Our teams build the technology at the center of that solution: personalized resident experiences, service tools, and the operational systems that residents and associates depend on every day.
+Invitation Homes set out to solve a real problem: home leasing options were limited and the experience for renters was inconsistent.
+Today, as the nation's largest single-family home rental company, our engineering teams build the technology at the center of that solution: personalized resident experiences, service tools, and the operational systems that residents and associates depend on every day.
 When we ship, people feel it.
 
-Our technology organization takes that responsibility seriously.
-That means collaborative teams, high standards, and real investment in the people around you.
+We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
+Engineers who are supported, growing, and proud of what they ship build great software.
 You own the architecture practice that keeps those teams pointed in the same direction.
 You set our architecture strategy and make sure it shows up in what we build.
 You'll help sustain a culture of code as craft, where teams share principles, reuse proven patterns, and deploy quickly and safely.
