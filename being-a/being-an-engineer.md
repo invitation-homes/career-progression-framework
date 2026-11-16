@@ -90,7 +90,7 @@ Stay curious about what is happening outside your immediate work.
 The further you go, the more it matters to understand how your system fits into the broader architecture and how your decisions ripple outward.
 By SE3, back those decisions with data and metrics rather than instinct alone.
 
-Attend the Technical Architecture Guild (TAG), Solution Architecture sessions, and applicable Special Interest Groups (SIGs).
+Attend the Technical Architecture Guild (TAG), Solution Architecture sessions, and applicable Shared Interest Groups (SIGs).
 Early on, your job is mostly to listen and build context.
 Over time, bring what you learn back to your team and, eventually, contribute your own perspective to those conversations.
 By SE3, sharing what you've learned (in SIGs, Monthly Learnings, or a team demo) is part of the role.

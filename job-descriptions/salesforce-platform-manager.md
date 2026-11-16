@@ -37,7 +37,7 @@ From here, you'll have a clear path to Staff-level platform engineering on the i
 - Make sure your team understands platform standards and why they exist; update guidance when those standards evolve.
 - Build a culture of writing things down: distributed knowledge and clear documentation are force multipliers for the whole team.
 - Stay current with Salesforce releases and new platform capabilities; evaluate and share their relevance to the team.
-- Share your expertise through Special Interest Groups (SIGs) and other cross-team forums.
+- Share your expertise through Shared Interest Groups (SIGs) and other cross-team forums.
 
 **Communication & Collaboration**
 

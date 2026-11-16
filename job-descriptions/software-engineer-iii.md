@@ -43,7 +43,7 @@ From here, you'll have a clear path to Software Engineer IV, where broader techn
 - Raise potential pitfalls or decisions with complex technical consequences early, and help make sure we're building the right thing, not just building it right.
 - Create diagrams and documentation that help your team understand the products you build: write things down so the whole team can move independently.
 - Lead structured meetings that run to time and produce tangible outputs.
-- Share what you've learned through Special Interest Groups (SIGs), the Technical Architecture Guild (TAG), or Monthly Learnings.
+- Share what you've learned through Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), or Monthly Learnings.
 - Voice disagreement clearly and early; once a decision is made, commit to it fully.
 
 **Leadership & Culture**

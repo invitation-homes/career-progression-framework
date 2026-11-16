@@ -46,7 +46,7 @@ From here, you'll have a clear path to Staff Engineer on the individual contribu
 - Balance current delivery needs against longer-term implications, keeping the impact on other teams and on financial reporting in mind.
 - Make sure your team understands engineering standards and why they exist; update guidance when those standards evolve.
 - Build a culture of writing things down: in a domain this sensitive, distributed knowledge and clear documentation protect the business as much as they help the team.
-- Share your expertise through Special Interest Groups (SIGs) and other cross-team forums.
+- Share your expertise through Shared Interest Groups (SIGs) and other cross-team forums.
 
 **Communication & Collaboration**
 

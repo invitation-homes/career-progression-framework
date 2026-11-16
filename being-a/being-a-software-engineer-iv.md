@@ -53,7 +53,7 @@ Lead or coordinate solution design and architecture discussions, and partner clo
 One mark of a strong technical leader is enabling *other* engineers to present solutions and own decisions, not being the sole technical voice in every room.
 Create space for junior engineers to stretch and own decisions, not just execute them.
 
-Across teams, show up in solution architecture discussions, Special Interest Groups (SIGs), and cross-team reviews.
+Across teams, show up in solution architecture discussions, Shared Interest Groups (SIGs), and cross-team reviews.
 Understand how your pod's changes ripple outward, and serve as a representative of your pod's technical reality when it matters.
 When ownership across systems or repos is unclear, help define it. Ambiguous ownership is a technical risk: step in to resolve it rather than letting it drift.
 

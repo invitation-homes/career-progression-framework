@@ -27,7 +27,7 @@ This role is intended to provide a learning platform where individuals can acqui
   - What is their purpose
   - How to use them effectively
 - Follow recorded decisions (ADRs) and agreed-upon styles and conventions where applicable.
-- Join and listen to the Technical Architecture Guild (TAG) meeting, Solution Architecture meetings, and applicable Special Interest Group (SIG) meetings to better understand your craft and how others are applying it.
+- Join and listen to the Technical Architecture Guild (TAG) meeting, Solution Architecture meetings, and applicable Shared Interest Group (SIG) meetings to better understand your craft and how others are applying it.
 - Be curious: ask questions, and treat every interaction and task as an opportunity to learn.
 
 ## Communication
