@@ -28,9 +28,9 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 - Stay technically active: contribute to architectural decisions, engage with the highest-stakes AI designs, and write code where it matters most; your credibility is grounded in doing the work.
 - Take responsibility for the hardest AI architectural decisions and complex cross-functional challenges: the ones without clear right answers, including agentic framework adoption and platform-level build-vs-buy calls, within the AI investment priorities set at the executive level.
 - Maintain broad visibility across AI initiatives and the platform underneath them; identify high-risk scenarios early (safety, cost overrun, model drift, vendor lock-in) and intervene proactively before they become critical.
-- Evaluate AI/LLM tooling, agentic frameworks, and platform integrations, and bring recommendations forward to inform enterprise-level technology and vendor decisions.
+- Evaluate AI and large language model (LLM) tooling, agentic frameworks, and platform integrations, and bring recommendations forward to inform enterprise-level technology and vendor decisions.
 - Enforce and operationalize the AI architectural governance framework: make sure decisions are recorded, discoverable, and aligned with the responsible AI standards and enterprise strategy set by executive technical leadership.
-- Own the shared AI platform (eval frameworks, MCP and LLM gateways, RAG/retrieval infrastructure) as durable, cross-team infrastructure rather than a single-team asset.
+- Own the shared AI platform (eval frameworks, Model Context Protocol (MCP) and LLM gateways, and retrieval-augmented generation (RAG) infrastructure) as durable, cross-team infrastructure rather than a single-team asset.
 - Champion an engineering culture where teams build and evolve AI capabilities autonomously; identify gaps in AI governance, security posture, and architectural alignment, and address them with durable improvements that span teams.
 - Own enterprise-level observability and cost governance for AI systems in production: performance, safety, and spend across every LLM-driven feature, not just one.
 

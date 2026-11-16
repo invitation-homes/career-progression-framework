@@ -32,7 +32,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Set and drive engineering standards that allow our coding agents to elevate code quality, reliability, and maintainability across your operating group.
 - Build and ship production-grade backend services that power AI-driven features residents and associates rely on.
 - Apply AI to modernize and automate operational workflows across a 100,000+ home portfolio.
-- Tune prompts, reasoning chains, and retrieval strategies, including RAG and LLM-as-a-wiki, against Invitation Homes data.
+- Tune prompts, reasoning chains, and retrieval strategies for large language models (LLMs), including retrieval-augmented generation (RAG) and LLM-as-a-wiki, against Invitation Homes data.
 - Own observability of AI systems in production: monitor performance, safety, and cost across LLM-driven features.
 
 **Knowledge & Standards**
@@ -41,7 +41,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Shape architectural decisions with a long-term, strategic mindset: optimizing for agentic scalability, maintainability, and alignment with business goals.
 - Apply core engineering principles to take on unfamiliar technologies with confidence; adapt and operate effectively across varied tech stacks.
 - Maintain a broad understanding of engineering workflows, standards, architectural Decision Records (ADRs), and the system landscape to provide relevant context and promote alignment across teams.
-- Build reference implementations of agentic use cases: prompt engineering practices and use-case patterns on top of the shared eval frameworks and MCP/LLM gateways owned at the platform level.
+- Build reference implementations of agentic use cases: prompt engineering practices and use-case patterns on top of the shared eval frameworks and Model Context Protocol (MCP) and LLM gateways owned at the platform level.
 
 **Communication & Collaboration**
 
@@ -66,7 +66,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - 1+ years developing and deploying production-ready AI features including LLM-dependent applications, RAG systems, agents, and evals.
 - Deep expertise in software architecture, system design, and distributed systems.
 - Deep understanding of LLM evaluation methods: prompt testing, hallucination detection, and cost/performance trade-offs.
-- Experience building custom eval pipelines using techniques like model-as-a-judge or embedding similarity.
+- Experience building custom eval pipelines using techniques like LLM-as-a-judge or embedding similarity.
 - Hands-on experience with agentic frameworks such as LangGraph, AutoGen, or CrewAI, preferably in TypeScript.
 - Experience creating shared tools, frameworks, standards, or guidance adopted across multiple teams.
 - Exceptional communication skills (written and verbal) with experience writing proposals and influencing technical direction across multiple teams.
