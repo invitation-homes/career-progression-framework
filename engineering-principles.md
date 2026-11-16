@@ -39,7 +39,7 @@ These principles align with Invitation Homes' core values framework, Genuine CAR
 | **Biased to Action** | We are biased to action and prefer things that move us forward; everything we do should be in the service of getting something done. |
 | **Curious** | We are curious and encourage exploration, but always with an eye toward pragmatic implementation. |
 | **Passionate about Automation** | We are passionate about automation and don't sleep well at night if there are things we're doing manually that can be done automatically. |
-| **Shipping It!** | We are always shipping it, continually delivering value, tackling blockers and challenges, and fostering a strong culture of momentum. |
+| **Shipping It!** | We are always shipping it, continually delivering value, tackling blockers and challenges, and building a strong culture of momentum. |
 
 As with all things, these sometimes exist in tension with each other.
 Committed to Quality and Shipping It! can feel like opposing forces, but we balance them deliberately.
@@ -63,7 +63,7 @@ Projects should not require long hours from a hero who fixes everything at the l
 All of our projects are team efforts.
 
 **Knowledge silos:** We try to avoid knowledge silos.
-We have a culture of writing things down to help empower others with information.
+We have a culture of writing things down so others have the information they need.
 
 **"Well, actually...":** Being pedantic or attempting to shame team members on technicalities is never a good idea.
 
