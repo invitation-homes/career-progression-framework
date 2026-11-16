@@ -75,7 +75,7 @@ Work with your Product Owner to pull this work into each sprint, and maintain a 
 ## People Management
 
 The [career progression framework](../) is one of your primary tools as a people manager.
-Study it, and build a clear picture of the levels and expectations for the [engineers](being-an-engineer) and [SE4s](being-a-software-engineer-iv) reporting to you.
+Study it, and build a clear picture of the levels and expectations for the [engineers](being-an-engineer) and [SE IVs](being-a-software-engineer-iv) reporting to you.
 It should inform how you coach, give feedback, and think about growth.
 You are also an ally and advocate for your team: representing their interests to senior leadership, removing friction from other parts of the organization, and making sure they have what they need to do their best work.
 
@@ -204,7 +204,7 @@ The expected split is roughly:
 | BAU/KLO | 4 hrs (0.5 days) | ~10% |
 
 "Project Work" here doesn't mean hands-on coding alone.
-It includes everything you do as a manager to help the team execute: facilitating decisions, unblocking work, participating in architecture, coordinating with stakeholders, reviewing PRs, and all the glue work that keeps things moving.
+It includes everything you do as a manager to help the team execute: facilitating decisions, unblocking work, participating in architecture, coordinating with stakeholders, reviewing pull requests, and all the glue work that keeps things moving.
 Direct technical contribution is part of it, but so is everything else that doesn't fall neatly under admin or BAU.
 
 This will vary based on your pod's maturity and the type of work it does.

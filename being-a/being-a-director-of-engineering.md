@@ -59,7 +59,7 @@ You own the technical direction for your operating group.
 That means shaping architectural strategy, maintaining consistency of technical decisions across teams, and making sure what engineering builds today does not create expensive problems tomorrow.
 
 Your technical credibility matters here.
-Not because you are reviewing every PR, but because you need enough depth to evaluate trade-offs, earn the trust of your engineering leaders, and ask the right questions in architectural discussions.
+Not because you are reviewing every pull request, but because you need enough depth to evaluate trade-offs, earn the trust of your engineering leaders, and ask the right questions in architectural discussions.
 Participate in Solution Architecture sessions, curate Decision Records, and make sure your teams' technical choices align with the broader architectural direction.
 
 You serve on the Architecture Advisory Board, the group that engages early on work that is particularly novel, complex, or cross-team.

@@ -80,7 +80,7 @@ Use them, and help your team develop good judgment about when and how they add v
 ### Code and Quality Stewardship
 
 You own the quality bar for the pod.
-Set expectations for PR quality, test coverage, and maintainability.
+Set expectations for pull request (PR) quality, test coverage, and maintainability.
 Hold to them.
 Make sure issues are addressed before merge, and keep an eye on compounding technical debt: what looks like a small shortcut today often becomes a larger problem later.
 
