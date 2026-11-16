@@ -57,7 +57,7 @@ From here, you'll have a clear path to Director of Engineering as your organizat
 
 ## What You Bring
 
-- 8+ years of professional software development experience, including experience managing engineering teams.
+- 9+ years of professional software development experience, including experience managing engineering teams.
 - A demonstrated track record of developing engineers and building high-performing teams.
 - Experience managing or developing engineering managers, or demonstrated readiness to lead through a layer of management.
 - Strong organizational instincts: you think across teams, not just within them, and understand how structure, culture, and process affect delivery.
