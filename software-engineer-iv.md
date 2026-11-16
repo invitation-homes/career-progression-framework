@@ -31,7 +31,7 @@ At this point, you're an active agent of change and improvement.
 - Make sure your team understands the standard engineering practices and why they exist.
   Refer them to Decision Records, Quick Reference Guides (QRGs), etc.
   - Understand when work has evolved and these decisions are no longer applicable, and update the documentation with new guidance.
-- Share your knowledge in Shared Interest Groups (SIGs) to improve the knowledge and skills of others across engineering.
+- Share your knowledge in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), and other cross-team forums to improve the knowledge and skills of others across engineering.
 
 ## Communication
 

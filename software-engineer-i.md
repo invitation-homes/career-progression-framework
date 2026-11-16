@@ -46,5 +46,4 @@ This role is a learning platform: a place to build the skills and knowledge you'
 - Aim high!
   This is just the beginning.
 
-
-**Everyone progresses at their own pace, but we'd expect Engineers to be showing signs that they're ready for a promotion to the Software Engineer II role within 1 to 2 years.**
+**Everyone progresses at their own pace, but most engineers show they're ready for promotion to Software Engineer II within 1 to 2 years.**
