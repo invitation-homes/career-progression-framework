@@ -15,8 +15,8 @@ Your responsibilities span three broad areas: technical leadership and decision-
 As a practitioner, you'll spend the majority of your time building and shipping solutions alongside your team, whether through code or platform configuration.
 A meaningful portion of your energy goes into the people and practices around you.
 
-Much like an Engineering Manager's, your impact at this level is often indirect and non-obvious: quality decisions, mentorship, risk reduction, and the connective work that keeps teams running well.
-Success at this level isn't measured by ticket output.
+Much like an Engineering Manager's, your impact is often indirect and non-obvious: quality decisions, mentorship, risk reduction, and the connective work that keeps teams running well.
+Success here isn't measured by ticket output.
 It shows up in the quality of your team's decisions, the engineers who grow around you, and the systems that hold up in production.
 
 Our systems touch residents in hundreds of thousands of homes: the app they use to pay rent, the portal for maintenance requests, the tools associates depend on every day.
@@ -49,7 +49,7 @@ When facing a significant technical choice, come with options.
 Suggest and compare viable approaches, make trade-offs explicit, and document decisions as [Decision Records](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions), either in the relevant repository (for decisions scoped to that codebase) or in our shared technology decisions repository (for decisions with org-wide impact).
 The goal is for your Engineering Manager (EM) and teammates to trust your judgment and actively seek your input.
 
-At this level, work increasingly involves unknowns: incomplete requirements, evolving scope, or problems without clear precedent.
+Your work increasingly involves unknowns: incomplete requirements, evolving scope, or problems without clear precedent.
 You'll have significant autonomy.
 The expectation is that you use it well and own the results.
 Take responsibility for outcomes, not just the tasks assigned to you, and use those moments to create clarity for the team.
@@ -94,7 +94,7 @@ The target is roughly 10% of each sprint's capacity, and partnering with your EM
 
 Your accountability doesn't end at merge.
 Participate in on-call and production support rotations, and support on-call engineers even when you're not the primary on-call.
-We take on-call seriously: rotations are designed to be sustainable, and at this level you help set the culture around how that responsibility is shared across the team.
+We take on-call seriously: rotations are designed to be sustainable, and you help set the culture around how that responsibility is shared across the team.
 Maintain awareness of system health and operational risks, and bring production learnings back into design and planning.
 Systems improve when what you observe in production informs how you build next time.
 
@@ -103,7 +103,7 @@ Systems improve when what you observe in production informs how you build next t
 Our vision is to *delight our residents and associates with innovative solutions built by happy teams*.
 Happy teams don't happen by accident.
 They're built by people who invest in each other.
-The mentorship, communication, and culture you model at this level are how that part of the vision becomes real.
+The mentorship, communication, and culture you model are how that part of the vision becomes real.
 
 ### Mentorship and Engineer Development
 
@@ -129,7 +129,7 @@ Every repository your pod owns should have a great README: one that tells a new 
 
 ### Working with Your EM and Product Counterparts
 
-At this level, you are a trusted partner to your [EM](being-an-engineering-manager) and Product Owner, not just an implementer.
+You are a trusted partner to your [EM](being-an-engineering-manager) and Product Owner, not just an implementer.
 Act as a technical sounding board: challenge ideas respectfully, bring data and context to discussions, and help your EM make better-informed decisions.
 Advocate strongly for your position, and commit fully once a decision is reached.
 That combination of honest advocacy and full commitment is how teams debate well and still move fast.
