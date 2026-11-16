@@ -41,7 +41,7 @@ What stays constant: the goal of clearing the path for your team to do great wor
 
 Your pod is led by a triad: you, your Product Owner, and your Product Designer.
 Our pods are intentionally small (typically 7 to 10 people), in the spirit of the [two-pizza rule](https://aws.amazon.com/executive-insights/content/amazon-two-pizza-team/): small enough to stay nimble, aligned, and well-coordinated.
-As the Engineering Manager (EM), you'll typically have 3–5 full-time employees (FTEs) and 3–5 contractors as direct reports.
+As the Engineering Manager (EM), you'll typically have 2–4 full-time employees (FTEs) and 2–3 contractors as direct reports.
 Your FTE direct reports are on the full people management journey described in this document: one-on-ones, performance reviews, career development, the works.
 Your relationship with contractors is different: you direct their work, give feedback, and set them up to succeed, but formal performance management runs through their agency or vendor.
 You are responsible for building a strong working relationship with your counterparts and leading the pod together.
