@@ -41,6 +41,7 @@ You build strong relationships with stakeholders across departments, helping the
 - Build and maintain an evergreen knowledge base of architectural patterns and reference implementations to promote long-term technical clarity across the organization.
 - Establish shared language and frameworks that help teams across the department discuss and reason about technical problems consistently.
 - Advocate strongly in department-wide technical decisions, then commit fully and help the organization align behind the outcome.
+- Partner with Directors of Engineering, your counterparts on the Management Track, to keep technical strategy and organizational priorities aligned.
 
 ## Leadership
 

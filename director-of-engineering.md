@@ -44,6 +44,7 @@ You partner closely with leadership across Product, Design, Business Operations,
 - Build and maintain trust with executive and cross-functional leadership through consistent, well-reasoned communication.
 - Represent engineering's perspective in company-level conversations, helping the broader organization understand and value the work of your teams.
 - Speak up when you disagree, and once a decision is made, commit fully and create alignment behind it across your operating group.
+- Partner with Principal Engineers, your counterparts on the Professional Track, to set technical strategy and governance for your operating group.
 
 ## Leadership
 

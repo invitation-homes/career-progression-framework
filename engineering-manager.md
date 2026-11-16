@@ -44,6 +44,7 @@ You share knowledge, influence culture, and support consistency across the broad
 - Provide thoughtful feedback that promotes alignment and action.
 - Resolve ambiguity and conflict constructively and encourage healthy team discussions and decision-making.
 - Speak up when you disagree, commit fully once a decision is made, and build the same norm on your team.
+- Partner with the Staff Engineers who support your team, your counterparts on the Professional Track, to align technical direction with delivery and team growth.
 
 ## Leadership
 

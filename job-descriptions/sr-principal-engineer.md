@@ -43,6 +43,7 @@ From here, you'll have a clear path to Tech Fellow, the highest individual contr
 - Influence without authority: bring people along through reasoning, credibility, and empathy.
   This is your primary tool.
 - Disagree openly with engineering and executive leadership when the technical case calls for it, then commit fully once a decision is made and help others do the same.
+- Partner with Sr. Directors of Engineering, your counterparts on the Management Track, on company-level technical and organizational decisions.
 
 **Leadership & Culture**
 

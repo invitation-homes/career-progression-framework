@@ -41,6 +41,7 @@ You lead through expertise and relationships, not authority.
 - Set the standard for technical discourse across the company: how architectural decisions are made, documented, and communicated.
 - Influence without authority: your ability to bring people along through reasoning, credibility, and empathy is your primary tool.
 - Disagree openly with engineering and executive leadership when the technical case calls for it, then commit fully once a decision is made and help others do the same.
+- Partner with Sr. Directors of Engineering, your counterparts on the Management Track, on company-level technical and organizational decisions.
 
 ## Leadership
 

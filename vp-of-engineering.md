@@ -44,6 +44,7 @@ Internally, you are a trusted executive partner across Product, Finance, and Bus
 - Bring engineering, business, and external partners into alignment through high emotional intelligence and strong interpersonal skills.
 - Represent engineering externally, contributing to the company's reputation in the industry through thought leadership, recruiting presence, and community engagement.
 - Invite disagreement from your leaders and peers, make the call, and commit fully; model the norm that honest advocacy and full commitment go together.
+- Partner with the Tech Fellow, your counterpart on the Professional Track, to set the company's technical vision and investment priorities.
 
 ## Leadership
 

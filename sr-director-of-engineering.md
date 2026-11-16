@@ -44,6 +44,7 @@ You build trust and alignment with senior leaders across Product, Design, Financ
 - Create alignment across leadership and engineering through transparent, consistent, and timely communication.
 - Champion a communication culture within engineering that cascades clarity from strategy to execution at every level.
 - Bring dissenting views into executive decisions when engineering's perspective calls for it, then commit fully and lead the department in carrying them out.
+- Partner with Sr. Principal Engineers, your counterparts on the Professional Track, so organizational decisions and technical strategy reinforce each other.
 
 ## Leadership
 

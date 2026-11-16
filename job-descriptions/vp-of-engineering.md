@@ -40,6 +40,7 @@ You partner across the company and with external stakeholders so technology stra
 - Bring engineering, business, and external partners into alignment through strong interpersonal skills and high organizational trust.
 - Partner with the CIO and executive peers across Product, Finance, and Business Operations so engineering is a valued and visible contributor to company strategy.
 - Invite disagreement from your leaders and peers, make the call, and commit fully; model the norm that honest advocacy and full commitment go together.
+- Partner with the Tech Fellow, your counterpart on the Professional Track, to set the company's technical vision and investment priorities.
 
 **Leadership & Culture**
 

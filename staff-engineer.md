@@ -39,6 +39,7 @@ You lead through influence and expertise, not just authority.
 - Translate abstract or technical risk into understandable trade-offs.
 - Drive conversations toward clarity by reducing complexity and identifying actionable next steps.
 - Advocate strongly for your position in cross-team decisions, then commit fully once a direction is set, and help the teams you support do the same.
+- Partner with the Engineering Managers in your operating group, your counterparts on the Management Track, to align technical direction with delivery and team health.
 
 ## Leadership
 

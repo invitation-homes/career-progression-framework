@@ -44,6 +44,7 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 - Establish shared language and frameworks that help teams consistently reason about and discuss technical problems.
 - Build strong relationships with stakeholders across departments: bridge the gap between engineering and the broader business.
 - Advocate strongly in department-wide technical decisions, then commit fully and help the organization align behind the outcome.
+- Partner with Directors of Engineering, your counterparts on the Management Track, to keep technical strategy and organizational priorities aligned.
 
 **Leadership & Culture**
 
