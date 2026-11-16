@@ -16,7 +16,7 @@ You'll move where the need is greatest: embedding with teams to solve their hard
 You'll remain a hands-on engineer throughout, but your reach is the whole department, not a single team.
 
 Our Staff AI Engineer is a new role created to help accelerate our organization's AI journey, improving the quality of life for our associates, especially our software engineers, who use AI every day to write, test, and deploy.
-We have an immediate need to expand our agentic AI capabilities, which this role will have a direct impact on.
+We have an immediate need to expand our agentic AI capabilities, and this role directly shapes that work.
 
 From here, you'll have a clear path to Principal Engineer, where your impact expands to the full engineering organization and shapes its long-term technical direction.
 
@@ -26,13 +26,13 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 
 - Remain a hands-on engineer: write code, contribute to architectural decisions, and ship; your technical credibility is the foundation of your influence.
 - Embed with teams as a focused technical resource: accelerate delivery, address deep technical challenges, mentor engineers, and transition out once the team is unblocked and self-sufficient.
-- Take ownership of the hardest technical AI decisions facing the teams you support; provide the clarity and decisiveness that enables teams to move forward.
+- Take ownership of the hardest technical AI decisions facing the teams you support; provide the clarity and decisiveness that enable teams to move forward.
 - Leave behind clear artifacts (documentation, diagrams, utilities, or design patterns) that continue to support the team after you move on.
-- Identify AI related patterns and shared needs across teams; you'll surface them into the shared AI platform and contribute directly to its growth.
+- Identify AI-related patterns and shared needs across teams, feed them into the shared AI platform, and contribute directly to its growth.
 - Set and drive engineering standards that allow our coding agents to elevate code quality, reliability, and maintainability across the department.
 - Build and ship production-grade backend services that power AI-driven features residents and associates rely on.
 - Apply AI to modernize and automate operational workflows across a 100,000+ home portfolio.
-- Tune prompts, reasoning chains, and retrieval strategies including RAG/LLM as Wiki against Invitation Homes data.
+- Tune prompts, reasoning chains, and retrieval strategies, including RAG and LLM-as-a-wiki, against Invitation Homes data.
 - Own observability of AI systems in production: monitor performance, safety, and cost across LLM-driven features.
 
 **Knowledge & Standards**
@@ -40,7 +40,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Serve as an authority and mentor across core AI technologies and architectural patterns used throughout the organization.
 - Shape architectural decisions with a long-term, strategic mindset: optimizing for agentic scalability, maintainability, and alignment with business goals.
 - Apply core engineering principles to take on unfamiliar technologies with confidence; adapt and operate effectively across varied tech stacks.
-- Maintain a broad understanding of engineering workflows, standards, architectural decision records (ADRs), and the system landscape to provide relevant context and promote alignment across teams.
+- Maintain a broad understanding of engineering workflows, standards, architectural Decision Records (ADRs), and the system landscape to provide relevant context and promote alignment across teams.
 - Build reference implementations of agentic use cases: prompt engineering practices and use-case patterns on top of the shared eval frameworks and MCP/LLM gateways owned at the platform level.
 
 **Communication & Collaboration**
@@ -65,7 +65,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - 8+ years of professional software development experience, with a demonstrated track record of technical impact beyond team boundaries.
 - 1+ years developing and deploying production-ready AI features including LLM-dependent applications, RAG systems, agents, and evals.
 - Deep expertise in software architecture, system design, and distributed systems.
-- Deep understanding of LLM evaluation methods: prompt testing, hallucination detection, and cost/performance tradeoffs.
+- Deep understanding of LLM evaluation methods: prompt testing, hallucination detection, and cost/performance trade-offs.
 - Experience building custom eval pipelines using techniques like model-as-a-judge or embedding similarity.
 - Hands-on experience with agentic frameworks such as LangGraph, AutoGen, or CrewAI, preferably in TypeScript.
 - Experience creating shared tools, frameworks, standards, or guidance adopted across multiple teams.

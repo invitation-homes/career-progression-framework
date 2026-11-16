@@ -23,7 +23,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 
 - Remain a hands-on engineer: write code, contribute to architectural decisions, and ship; your technical credibility is the foundation of your influence.
 - Embed with teams as a focused technical resource: accelerate delivery, address deep technical challenges, mentor engineers, and transition out once the team is unblocked and self-sufficient.
-- Take ownership of the hardest technical decisions facing the teams you support; provide the clarity and decisiveness that enables teams to move forward.
+- Take ownership of the hardest technical decisions facing the teams you support; provide the clarity and decisiveness that enable teams to move forward.
 - Leave behind clear artifacts (documentation, diagrams, utilities, or design patterns) that continue to support the team after you move on.
 - Identify patterns and shared needs across teams; proactively create tools, frameworks, automations, and guidance that solve common problems at scale.
 - Set and drive engineering standards that elevate code quality, reliability, and maintainability across the department.
@@ -33,7 +33,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Serve as an authority across core technologies and architectural patterns used throughout the organization.
 - Shape architectural decisions with a long-term, strategic mindset: optimizing for scalability, maintainability, and alignment with business goals.
 - Apply core engineering principles to take on unfamiliar technologies with confidence; adapt and operate effectively across varied tech stacks.
-- Maintain a broad understanding of engineering workflows, standards, architectural decision records (ADRs), and the system landscape to provide relevant context and promote alignment across teams.
+- Maintain a broad understanding of engineering workflows, standards, architectural Decision Records (ADRs), and the system landscape to provide relevant context and promote alignment across teams.
 
 **Communication & Collaboration**
 

@@ -49,7 +49,7 @@ From here, you'll have a clear path to Software Engineer IV, where broader techn
 **Leadership & Culture**
 
 - Mentor more junior engineers: help find suitable tasks, pair on tickets, and provide context and guidance.
-- Help others on your team grow by inviting them to pair on work that would benefit them to learn.
+- Help others on your team grow by inviting them to pair on work they'd learn from.
 - Assist with onboarding, including acting as a culture coach for new team members in their first month.
 - Contribute to the Engineering community by raising important issues and encouraging others.
 - Ask "why" in challenging situations; recognize and call out assumptions and risks.

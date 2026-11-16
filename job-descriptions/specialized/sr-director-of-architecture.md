@@ -45,13 +45,15 @@ You report to the Senior Vice President (SVP) of Engineering and work closely wi
 - Learn the business and its strategy, then communicate a vision for how Engineering helps execute it.
 - Align with the SVP of Engineering, the CTO, and other senior leaders on priorities, scope, requirements, and change management for shared initiatives.
 - Collaborate and negotiate with peers inside and outside Engineering, and make the tough call when one is needed.
-- Get engineers talking across teams. Share what you learn, and help them see past their own area so they decide better.
+- Get engineers talking across teams.
+  Share what you learn, and help them see past their own area so they decide better.
 - Write and speak clearly.
 
 **Leadership & Culture**
 
 - Shape how the Engineering organization builds, and coach its leaders and senior engineers on both the technical and management tracks.
-- Run the Technology Architecture Guild with other technology leaders. It brings together representatives from across engineering to build and maintain strong engineering principles.
+- Run the Technical Architecture Guild (TAG) with other technology leaders.
+  It brings together representatives from across engineering to build and maintain strong engineering principles.
 - Build the technical, operational, and cultural structures that let teams scale.
 - Grow the practice when it needs people: hire, develop, and coach architects and engineers, and manage them directly if the role becomes a team.
 
@@ -61,7 +63,7 @@ You report to the Senior Vice President (SVP) of Engineering and work closely wi
 - Experience managing engineers or engineering managers and scaling teams, with the judgment to know when a team is the right answer.
 - A track record of coaching and mentoring engineering leaders on both technical and management tracks.
 - Proven experience building enterprise APIs and messaging solutions.
-- Led architecture, API, or platform work that other engineering teams build on, through a team or through influence.
+- A track record of leading architecture, API, or platform work that other engineering teams build on, through a team or through influence.
 - A background running an architecture practice or review process, including working with security teams to build security into design.
 - Deep, hands-on knowledge of Amazon Web Services (AWS), infrastructure as code, and modern continuous integration and continuous delivery (CI/CD) practices.
 - A history of owning technology evaluation and vendor decisions, and taking part in budgeting.

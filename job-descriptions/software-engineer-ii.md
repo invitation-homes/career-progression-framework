@@ -23,8 +23,8 @@ From here, you'll have a clear path to Software Engineer III, where you'll step 
 - Write code, contribute to design, and ship; nearly all of your work is hands-on.
 - Work independently on well-scoped features, tasks, and bugs to help your team achieve its goals.
 - Assist in planning and design phases by asking questions and suggesting improvements.
-- Improve the flow of work for your team: check in with teammates, review PRs promptly, and help keep things moving.
-- Share input on decision records, documentation, and processes that affect you and your team.
+- Improve the flow of work for your team: check in with teammates, review pull requests (PRs) promptly, and help keep things moving.
+- Share input on Decision Records, documentation, and processes that affect you and your team.
 - Participate actively in planning, reviews, and retrospectives as an engaged and reliable team member.
 
 **Knowledge & Standards**

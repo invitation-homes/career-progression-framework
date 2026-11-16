@@ -45,7 +45,7 @@ From here, you'll have a clear path to Software Engineer II, where you'll move b
 
 - Be a model for others at your level: show up consistently, stay curious, and be coachable.
 - Engage with the Engineering community (SIGs, TAG, and other forums) as a learner and participant.
-- This is the beginning of a long career; the habits and standards you build now will carry forward.
+- Build habits and standards now that will carry you through a long career.
 
 ## What You Bring
 

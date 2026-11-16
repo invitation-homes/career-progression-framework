@@ -13,7 +13,7 @@ We've built an engineering culture that takes that responsibility seriously: col
 Engineers who are supported, growing, and proud of what they ship build great software.
 This role represents a meaningful shift on the management track: from leading a single engineering team to leading an organization of teams through a layer of engineering managers.
 You are accountable not just for what your teams deliver, but for how your managers lead.
-You translate company and department strategy into clear direction for your organization, and you build the leadership capability and operational health that makes sustained high performance possible.
+You translate company and department strategy into clear direction for your organization, and you build the leadership capability and operational health that make sustained high performance possible.
 
 Your focus moves from the growth of individual engineers to the growth of the managers who grow those engineers.
 Your leadership reach spans your organization of teams; your technical reach extends across the department.

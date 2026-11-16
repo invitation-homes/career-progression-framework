@@ -48,7 +48,7 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 
 - Act as a cultural pillar and steward of engineering values: model humility, rigor, curiosity, and high standards in everything you do.
 - Raise the bar for the engineering organization through modeling, targeted mentorship, and a visible standard of technical excellence.
-- Take ownership of decisions on hard tradeoffs, subjective designs, and complex cross-functional challenges: make the call, get the organization aligned, and model how to move forward decisively.
+- Take ownership of decisions on hard trade-offs, subjective designs, and complex cross-functional challenges: make the call, get the organization aligned, and model how to move forward decisively.
 - Mentor Staff Engineers and senior engineers, investing deliberately in the depth, judgment, and reach of those who will carry the organization's technical future.
 - Maintain a bias to action at the organizational level: identify risks early, intervene proactively, and drive resolution before issues become critical.
 

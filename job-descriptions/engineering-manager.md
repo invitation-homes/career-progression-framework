@@ -32,7 +32,7 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 **Knowledge & Standards**
 
 - Maintain a deep understanding of your team's systems, technical stack, and the challenges they face.
-- Understand how your team's work connects to business goals, customer experience, and company strategy.
+- Understand how your team's work connects to business goals, resident experience, and company strategy.
 - Use delivery data, team health signals, and engineering metrics to understand what's working and what needs attention.
 - Stay current in engineering and management practices, and bring what you learn back to your team and your peers.
 
@@ -47,8 +47,8 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 
 - Build a high-performing, inclusive, and psychologically safe environment where engineers can do their best work.
 - Coach and develop your engineers through regular 1:1s, goal-setting, and deliberate career growth conversations.
-- Manage performance with clarity and care: address gaps early and invest in growth before it becomes a problem.
-- Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new hire experience.
+- Manage performance with clarity and care: address gaps early, before they become problems, and invest in growth.
+- Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new-hire experience.
 - Delegate effectively, trust your team, and hold them accountable for their commitments.
 - Model the values and behaviors you want to see: curiosity, humility, a bias to action, and genuine care for others.
 

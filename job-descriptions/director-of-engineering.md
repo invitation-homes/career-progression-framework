@@ -12,7 +12,7 @@ When we ship, people feel it.
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
 This is where management leadership becomes genuine organizational leadership: what many organizations call a Director of Engineering.
-You are responsible for shaping how engineering operates as a function: not just what gets built, but how the teams that build it are structured, led, and grown.
+You shape how engineering operates as a function: not just what gets built, but how the teams that build it are structured, led, and grown.
 You partner with senior leaders across Product, Design, and Business Operations so technology and strategy are deeply integrated at every level.
 
 You've moved beyond developing individual managers to building the organizational structures, leadership practices, and culture that allow engineering to scale.
@@ -35,7 +35,7 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Maintain technical credibility across your department's technology landscape: enough depth to evaluate trade-offs, guide architectural decisions, and earn trust from your engineering leaders.
 - Apply principles of organizational design to structure teams effectively for growth, scalability, and sustained delivery.
 - Understand the financial dimensions of engineering: budget management, headcount planning, and aligning organizational spend with strategic priorities.
-- Develop a strong understanding of how engineering investments connect to business outcomes, customer experience, and competitive position.
+- Develop a strong understanding of how engineering investments connect to business outcomes, resident experience, and competitive position.
 
 **Communication & Collaboration**
 
@@ -51,7 +51,7 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Make organizational design decisions that set your teams up for growth, resilience, and high performance.
 - Maintain accountability across your organization for delivery, quality, culture, and the development of your leaders.
 - Champion automation and operational efficiency as organizational priorities: the teams that scale best are the ones that eliminate manual toil before it accumulates.
-- Maintain a bias to action at the department level: anticipate organizational risks before they surface, make the call, and keep engineering moving with clarity and momentum.
+- Maintain a bias to action at the department level: anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
 - Serve as a steady decision-maker: bring the right voices into consequential decisions, make the call, and create alignment behind it.
 - Model strategic thinking, empathy, curiosity, and continuous improvement at every level of engagement.
 

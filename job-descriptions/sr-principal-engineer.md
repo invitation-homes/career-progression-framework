@@ -11,7 +11,7 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-This role sits at the pinnacle of the individual contributor track: what some organizations call a Distinguished Engineer.
+This role sits near the top of the individual contributor (IC) track: what some organizations call a Distinguished Engineer.
 You operate as a peer to executive engineering leadership, shaping the company's long-term technical trajectory through expertise, judgment, and the trust you've built across the organization.
 Your technical depth is your currency (you engage hands-on where it matters most), but your day-to-day centers on the decisions, standards, and relationships that define how the entire company builds.
 
@@ -41,7 +41,7 @@ From here, you'll have a clear path to Tech Fellow, the highest individual contr
 - Distill the most complex technical challenges into language that is actionable for both engineering teams and non-technical leaders.
 - Set the standard for technical discourse across the company: how architectural decisions are made, documented, and communicated.
 - Influence without authority: bring people along through reasoning, credibility, and empathy.
-This is your primary tool.
+  This is your primary tool.
 
 **Leadership & Culture**
 

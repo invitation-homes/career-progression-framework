@@ -12,7 +12,8 @@ When we ship, people feel it.
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
 The VP of Engineering is the senior-most engineering executive, accountable for the technical vision, organizational outcomes, and external reputation of engineering at Invitation Homes.
-You own how engineering operates as a business function: what the organization invests in, how it is structured, and how it delivers on its commitments.
+You own how engineering operates as a business function.
+That means what the organization invests in, how it is structured, and how it delivers on its commitments.
 You partner across the company and with external stakeholders so technology strategy drives long-term competitive advantage, and you represent engineering externally, building the reputation that attracts talent, earns partner trust, and positions Invitation Homes as a technology organization in the world.
 
 ## What You'll Do

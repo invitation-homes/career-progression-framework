@@ -17,7 +17,7 @@ You remain technically active (hands-on work anchors your credibility), but your
 
 Our Principal AI Engineer is a new role created to own the architecture and execution behind our organization's AI journey: not just accelerate individual teams, but operationalize the direction, standards, and guardrails the whole department builds AI on.
 Working within the AI strategy and governance framework set at the Tech Fellow and executive level, you'll evaluate and recommend agentic frameworks and platform tooling, own the architecture behind our shared AI platform, and enforce the build-vs-buy and risk decisions that keep individual teams from having to make them alone.
-This role has direct accountability for AI systems operating safely, reliably, and cost-effectively at the scale of a 100,000+ home portfolio.
+You're directly accountable for AI systems that operate safely, reliably, and cost-effectively at the scale of a 100,000+ home portfolio.
 
 From here, you'll have a clear path to Sr. Principal Engineer, where you'll take on the organization's most consequential technical and cultural challenges.
 
@@ -54,7 +54,7 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 
 - Act as a cultural pillar and steward of engineering values: model humility, rigor, curiosity, and high standards in everything you do.
 - Raise the bar for AI engineering across the organization through modeling, targeted mentorship, and a visible standard of technical excellence.
-- Take ownership of decisions on hard AI tradeoffs, subjective designs, and complex cross-functional challenges: make the call, get the organization aligned, and model how to move forward decisively.
+- Take ownership of decisions on hard AI trade-offs, subjective designs, and complex cross-functional challenges: make the call, get the organization aligned, and model how to move forward decisively.
 - Mentor Staff AI Engineers and senior engineers, investing deliberately in the depth, judgment, and reach of those who will carry the organization's AI technical future.
 - Maintain a bias to action at the organizational level: identify AI-related risks early, intervene proactively, and drive resolution before issues become critical.
 
@@ -64,7 +64,7 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 - 2+ years developing and deploying production-grade AI systems at scale, including LLM-dependent applications, RAG systems, agents, and eval infrastructure.
 - Mastery across multiple technical domains, with deep expertise in software architecture, distributed systems, and AI/LLM system design at scale.
 - A track record of operationalizing AI governance, model evaluation standards, and architectural practices that scale across multiple teams, including responsible AI and safety considerations.
-- Experience evaluating and recommending AI infrastructure choices (agentic frameworks, eval platforms, tooling) with real business and cost tradeoffs, and executing within enterprise-level vendor and platform decisions.
+- Experience evaluating and recommending AI infrastructure choices (agentic frameworks, eval platforms, tooling) with real business and cost trade-offs, and executing within enterprise-level vendor and platform decisions.
 - Experience partnering with senior engineering, security/legal, and business stakeholders to execute AI technology direction in alignment with organizational strategy.
 - A demonstrated ability to communicate across all levels (from technical proposals to executive forums to cross-departmental briefings) with the clarity needed to inform and support organizational AI direction.
 - A track record of mentoring senior and staff-level engineers and raising the standard of technical judgment across the organization.

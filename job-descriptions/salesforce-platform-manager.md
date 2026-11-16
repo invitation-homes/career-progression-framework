@@ -16,7 +16,7 @@ You'll also help define what excellent looks like for the team.
 This role is the platform equivalent of a tech lead: the point where deep Salesforce expertise and technical leadership come together.
 You'll spend the majority of your time as a practitioner, with a meaningful portion invested in the people and practices around you.
 
-From here, you'll have a clear path to Staff-level platform engineering on the individual contributor track, or Engineering Manager if you're drawn toward people leadership.
+From here, you'll have a clear path to Staff Engineer on the individual contributor track, or Engineering Manager if you're drawn to people leadership.
 
 ## What You'll Do
 
@@ -53,7 +53,7 @@ From here, you'll have a clear path to Staff-level platform engineering on the i
 - Advocate for a blameless culture grounded in empathy, psychological safety, and shared accountability.
 - Help improve engineering processes, especially in ways that benefit teams beyond your own.
 - Contribute to hiring by conducting technical interviews and helping evaluate candidates, with a focus on a strong candidate experience.
-- Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias toward shipping working solutions.
+- Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias to action: ship working solutions rather than debate them.
 - Be a culture carrier: your attitude and energy set the tone for those around you.
   Show up with the curiosity, positivity, and high standards you want to see in the team.
 
@@ -62,7 +62,7 @@ From here, you'll have a clear path to Staff-level platform engineering on the i
 - 6+ years of professional Salesforce experience, with deep knowledge of the platform's declarative and programmatic capabilities; 3+ years in a senior platform role preferred.
 - Demonstrated ability to architect solutions for complex Salesforce orgs with significant customization, integrations, and high user volume.
 - Strong hands-on expertise with Flow, validation rules, complex formula fields, and data modeling.
-- Ability to read and review Apex code and LWCs, with a solid understanding of platform concepts including governor limits, order of execution, and SOQL.
+- Ability to read and review Apex code and Lightning Web Components (LWCs), with a solid understanding of platform concepts including governor limits, order of execution, and SOQL.
 - Experience working with business stakeholders and product teams to translate requirements into platform solutions.
 - A track record of mentoring engineers and raising the quality of those around you.
 - A commitment to continuous improvement in your own craft, your team's capabilities, and the engineering practices around you.
@@ -72,7 +72,7 @@ From here, you'll have a clear path to Staff-level platform engineering on the i
 ## Our Stack
 
 Our Salesforce environment is large, heavily customized, and deeply integrated with the rest of our technology landscape.
-We use Sales Cloud, Service Cloud, and Experience Sites to power our resident and associate-facing workflows, and integrate with MuleSoft, DocuSign, and Marketing Cloud, among others.
+We use Sales Cloud, Service Cloud, and Experience Sites to power our resident- and associate-facing workflows, and integrate with MuleSoft, DocuSign, and Marketing Cloud, among others.
 Our teams build with Apex, LWCs, and Salesforce DX, and manage deployments through CI/CD pipelines backed by GitHub.
 Across engineering, we work with TypeScript, Node.js, React, PostgreSQL, and AWS.
 Salesforce Platform Managers collaborate closely with those teams.

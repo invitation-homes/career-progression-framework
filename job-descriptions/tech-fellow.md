@@ -11,8 +11,9 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-The Tech Fellow is the highest level of technical distinction at Invitation Homes: an executive-level individual contributor whose expertise and influence extend beyond the company into the broader engineering industry.
-You combine the strategic perspective of an executive with the depth of the organization's foremost technical practitioner: partnering with executive leadership to define technical vision and investment priorities, and embedding directly with teams to design and deliver the company's most consequential and complex initiatives.
+The Tech Fellow is the highest level of technical distinction at Invitation Homes: an executive-level individual contributor (IC) whose expertise and influence extend beyond the company into the broader engineering industry.
+You combine the strategic perspective of an executive with the depth of the organization's foremost technical practitioner.
+You partner with executive leadership to define technical vision and investment priorities, and you embed directly with teams to design and deliver the company's most consequential and complex initiatives.
 Your influence shapes not only how technology evolves at Invitation Homes, but how Invitation Homes is recognized as a technology organization in the world.
 
 ## What You'll Do

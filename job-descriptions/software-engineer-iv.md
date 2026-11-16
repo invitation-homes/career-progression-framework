@@ -52,7 +52,7 @@ From here, you'll have a clear path to Staff Engineer on the individual contribu
 - Advocate for a blameless culture grounded in empathy, psychological safety, and shared accountability.
 - Help improve engineering processes, especially in ways that benefit teams beyond your own.
 - Contribute to hiring by conducting technical interviews and helping evaluate candidates, with a focus on a strong candidate experience.
-- Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias toward shipping working software.
+- Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias to action: ship working software rather than debate it.
 - Be a culture carrier: your attitude and energy set the tone for those around you.
   Show up with the curiosity, positivity, and high standards you want to see in the team.
 
@@ -77,4 +77,3 @@ Experience with these is a strong plus, though we care more about depth of think
 ---
 
 [Progression Document](../software-engineer-iv)
-
