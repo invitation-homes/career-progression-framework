@@ -47,3 +47,4 @@ You lead through expertise and relationships, not authority.
 - Act as the cultural standard-bearer for technical excellence, modeling the rigor, humility, and curiosity that define great engineering at scale.
 - Own the most consequential architectural decisions, providing the clarity and conviction needed when the path forward is genuinely hard.
 - Govern the company's technical direction in partnership with engineering leadership, making sure decisions are coherent, well-reasoned, and built to last.
+- Maintain a bias to action at the company level: anticipate systemic risks before they surface, intervene decisively, and keep the organization moving toward its technical future.

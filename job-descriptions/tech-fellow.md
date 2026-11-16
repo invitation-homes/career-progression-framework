@@ -47,7 +47,7 @@ Your influence shapes not only how technology evolves at Invitation Homes, but h
 - Mentor and develop Sr. Principal and Principal Engineers, investing in the long-term growth of senior IC talent across the organization.
 - Establish and steward the company's technical governance, making sure the most consequential decisions are grounded in sound principles, well-documented, and built to last.
 - Champion a culture of intellectual honesty, high standards, and shared ownership of outcomes: the foundation of engineering at its best.
-- Maintain a bias to action at the industry level: stay ahead of the technological horizon, identify consequential shifts before they arrive, and position Invitation Homes to lead rather than follow.
+- Maintain a bias to action at the industry level: act early on consequential shifts, prototype and test new approaches before they are proven elsewhere, and position Invitation Homes to lead rather than follow.
 
 ## What You Bring
 

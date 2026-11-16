@@ -55,3 +55,4 @@ You share what you have learned with your peers, juniors, and our engineering co
 - Ask "why" even in challenging situations, and recognize and call out assumptions and risks.
 - Begin to shape team culture by modeling the behaviors and standards you want to see: quality, curiosity, and accountability.
 - Begin participating in the hiring process by joining interview panels and providing feedback on candidates.
+- Maintain a bias to action: keep work moving, model momentum for your team, and help address blockers before they stall delivery.

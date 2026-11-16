@@ -51,3 +51,4 @@ You build trust and alignment with senior leaders across Product, Design, Financ
 - Set the cultural tone for engineering at the company level, modeling strategic thinking, accountability, empathy, curiosity, and continuous improvement.
 - Partner with the VP of Engineering and CIO to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.
 - Serve as a steady, decisive leader in complex situations, resolving organizational conflicts, working through ambiguity, and enabling teams to move forward with clarity and confidence.
+- Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.

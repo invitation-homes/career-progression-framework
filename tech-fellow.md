@@ -48,4 +48,4 @@ Internally, you are the definitive technical voice at the executive level and a 
 - Establish and steward the company's technical governance, making sure the most consequential decisions are grounded in sound principles, well-documented, and durable.
 - Model what it means to be a technical leader at the highest level: rigorous, humble, externally connected, and deeply invested in the success of others.
 - Champion a culture where intellectual honesty, high standards, and shared ownership of outcomes are the foundation of how engineering operates.
-- Maintain a bias to action at the industry level: stay ahead of the technological horizon, identify consequential shifts before they arrive, and position Invitation Homes to lead rather than follow.
+- Maintain a bias to action at the industry level: act early on consequential shifts, prototype and test new approaches before they are proven elsewhere, and position Invitation Homes to lead rather than follow.

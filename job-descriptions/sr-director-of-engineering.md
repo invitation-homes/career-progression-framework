@@ -49,6 +49,7 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 - Set the cultural tone for engineering at the company level: model strategic thinking, accountability, empathy, curiosity, and continuous improvement.
 - Partner with the VP of Engineering to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.
 - Serve as a steady, decisive leader in complex situations: resolve organizational conflicts, work through ambiguity, and enable teams to move forward with clarity and confidence.
+- Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.
 
 ## What You Bring
 

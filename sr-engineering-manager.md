@@ -51,3 +51,4 @@ You engage with leadership in Product, Design, and Delivery to shape how initiat
 - Help set the bar for performance, accountability, and team ownership across your organization.
 - Hold managers accountable for their own growth, helping them recognize and address gaps in leadership, process, or team health.
 - Lead talent strategy for your organization: recruiting, retention, performance management, and building a strong leadership bench.
+- Maintain a bias to action across your organization: surface risks early, drive resolution proactively, and keep your managers and teams moving forward.

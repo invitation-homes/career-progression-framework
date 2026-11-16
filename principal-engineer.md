@@ -48,3 +48,4 @@ You build strong relationships with stakeholders across departments, helping the
 - Raise the bar for engineers in technical excellence, judgment, communication, and self-awareness by modeling high standards and providing thoughtful, targeted mentorship.
 - Make the call on hard trade-offs, subjective designs, and complex cross-functional efforts.
 - Establish and enforce governance around architectural decisions, making sure they are recorded, discoverable, and aligned with organizational standards and strategy.
+- Maintain a bias to action at the department level: identify risks early, intervene proactively, and drive resolution before issues become critical.
