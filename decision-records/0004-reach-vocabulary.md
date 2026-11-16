@@ -32,9 +32,9 @@ Each level is inclusive of the levels that precede it.
 
 The framework has two career tracks:
 
-- **IC track** — Software Engineer I through Tech Fellow.
+- **Professional Track** (individual contributors) — Software Engineer I through Tech Fellow.
   Each role declares a single Reach value.
-- **Management track** — Engineering Manager through VP of Engineering.
+- **Management Track** — Engineering Manager through VP of Engineering.
   Each role declares two Reach values: **Leadership Reach** (the scope of direct people leadership) and **Technical Reach** (the scope of technical influence), because these two dimensions often differ for managers.
 
 ## Rationale
@@ -47,6 +47,6 @@ The framework has two career tracks:
 ## Consequences
 
 - Every role document must declare a Reach value using this vocabulary.
-- IC track roles declare a single Reach value; management track roles declare both a Leadership Reach and a Technical Reach.
+- Professional Track roles declare a single Reach value; Management Track roles declare both a Leadership Reach and a Technical Reach.
 - When creating or reviewing a role, the Reach value should be compared against adjacent roles in the progression to ensure it represents a meaningful step.
-- The IC track tops out at **Industry** (Tech Fellow); the management track tops out at **Industry** for technical reach and **Company** for leadership reach (VP of Engineering).
+- The Professional Track tops out at **Industry** (Tech Fellow); the Management Track tops out at **Industry** for technical reach and **Company** for leadership reach (VP of Engineering).

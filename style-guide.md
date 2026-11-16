@@ -45,7 +45,7 @@ The reader should understand the *feel* of the role before its formal shape.
 ### Progression documents
 
 Five sections in order: **Impact**, **Reach**, **Knowledge**, **Communication**, **Leadership**.
-See [ADR-0004](decision-records/0004-reach-vocabulary) for Reach vocabulary and the IC vs. management track distinctions.
+See [ADR-0004](decision-records/0004-reach-vocabulary) for Reach vocabulary and the Professional vs. Management Track distinctions.
 
 ### Job descriptions
 

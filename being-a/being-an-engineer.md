@@ -127,6 +127,6 @@ Join interview panels and give feedback on candidates.
 The best SE3s are not just strong engineers.
 They are engineers SE1s and SE2s want to become.
 
-From here, the individual contributor (IC) track continues to [SE4](being-a-software-engineer-iv) and beyond, or you may find yourself drawn toward the [Engineering Manager](being-an-engineering-manager) track if people leadership is where your energy goes.
+From here, the Professional Track continues to [SE4](being-a-software-engineer-iv) and beyond, or you may find yourself drawn toward the Management Track and the [Engineering Manager](being-an-engineering-manager) role if people leadership is where your energy goes.
 What both paths require is a foundation of technical credibility, good judgment, and genuine investment in others.
 That foundation is built here.

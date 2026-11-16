@@ -16,7 +16,7 @@ You'll also help define what excellent looks like for the team.
 This role maps to what many organizations call a tech lead or lead engineer: the point where deep technical ownership and team leadership come together.
 You'll spend the majority of your time as a practitioner, with a meaningful portion invested in the people and practices around you.
 
-From here, you'll have a clear path to Staff Engineer on the individual contributor track, or Engineering Manager if you're drawn to people leadership.
+From here, you'll have a clear path to Staff Engineer on the Professional Track, or Engineering Manager if you're drawn to people leadership.
 
 ## What You'll Do
 

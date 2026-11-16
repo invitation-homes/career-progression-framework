@@ -11,7 +11,7 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-This is the entry point into people leadership on the engineering management track: what many organizations call an Engineering Manager.
+This is the entry point into people leadership on the Management Track: what many organizations call an Engineering Manager.
 Your primary lever shifts here: you multiply impact through your people, not your own code.
 You remain technically grounded (credible in design discussions, fluent in your team's systems), but your focus is on building the conditions for your team to do great work.
 

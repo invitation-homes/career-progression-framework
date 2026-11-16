@@ -24,7 +24,7 @@ See [ADR-0007](decision-records/0007-specialized-job-descriptions.md).
 ## Content Conventions
 
 Each role document covers five sections in order: **Impact**, **Reach**, **Knowledge**, **Communication**, **Leadership**.
-Reach uses a fixed vocabulary and differs between the IC and management tracks.
+Reach uses a fixed vocabulary and differs between the Professional and Management Tracks.
 See [ADR-0004](decision-records/0004-reach-vocabulary.md).
 
 Job descriptions use a four-section structure and follow specific formatting conventions.

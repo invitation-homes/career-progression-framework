@@ -51,7 +51,7 @@ You report to the Senior Vice President (SVP) of Engineering and work closely wi
 
 **Leadership & Culture**
 
-- Shape how the Engineering organization builds, and coach its leaders and senior engineers on both the technical and management tracks.
+- Shape how the Engineering organization builds, and coach its leaders and senior engineers on both the Professional and Management Tracks.
 - Run the Technical Architecture Guild (TAG) with other technology leaders.
   It brings together representatives from across engineering to build and maintain strong engineering principles.
 - Build the technical, operational, and cultural structures that let teams scale.
@@ -61,7 +61,7 @@ You report to the Senior Vice President (SVP) of Engineering and work closely wi
 
 - 15+ years of experience in software development and architecture.
 - Experience managing engineers or engineering managers and scaling teams, with the judgment to know when a team is the right answer.
-- A track record of coaching and mentoring engineering leaders on both technical and management tracks.
+- A track record of coaching and mentoring engineering leaders on both the Professional and Management Tracks.
 - Proven experience building enterprise APIs and messaging solutions.
 - A track record of leading architecture, API, or platform work that other engineering teams build on, through a team or through influence.
 - A background running an architecture practice or review process, including working with security teams to build security into design.

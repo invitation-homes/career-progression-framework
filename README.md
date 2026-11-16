@@ -1,7 +1,7 @@
 # Engineering Career Progression Framework
 
 This is Invitation Homes' career progression framework for software engineering.
-It defines role expectations across both the IC and management tracks.
+It defines role expectations across both the Professional and Management Tracks.
 Engineers and managers use it in career conversations and performance evaluations.
 It is also shared publicly with prospective engineers.
 

@@ -139,5 +139,5 @@ Build strong working relationships with your Product counterparts, and understan
 Your relationship with your EM works best as a partnership: complementary perspectives, shared accountability for outcomes, and mutual trust.
 Together with Product and Design, you form the extended leadership core of your pod: the people who own not just the work, but how the work gets done.
 
-From here, you'll have a clear path to [Staff Engineer](../staff-engineer) on the individual contributor (IC) track, or to [Engineering Manager](being-an-engineering-manager) if you're drawn toward people leadership.
-Formal people management and org-wide technical strategy are out of scope at this level; those are the territory of the EM and Staff Engineer tracks respectively.
+From here, you'll have a clear path to [Staff Engineer](../staff-engineer) on the Professional Track, or to [Engineering Manager](being-an-engineering-manager) if you're drawn toward people leadership.
+Formal people management and org-wide technical strategy are out of scope at this level; those are the territory of Engineering Managers and Staff Engineers, respectively.

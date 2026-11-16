@@ -11,7 +11,7 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-This role represents a meaningful shift on the management track: from leading a single engineering team to leading an organization of teams through a layer of engineering managers.
+This role represents a meaningful shift on the Management Track: from leading a single engineering team to leading an organization of teams through a layer of engineering managers.
 You are accountable not just for what your teams deliver, but for how your managers lead.
 You translate company and department strategy into clear direction for your organization, and you build the leadership capability and operational health that make sustained high performance possible.
 

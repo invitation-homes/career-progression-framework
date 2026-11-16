@@ -43,7 +43,7 @@ You lead through expertise and relationships, not authority.
 
 ## Leadership
 
-- Mentor and develop engineers across the IC track, with a particular focus on Staff and Principal Engineers and the growth of the next generation of senior IC leaders.
+- Mentor and develop engineers across the Professional Track, with a particular focus on Staff and Principal Engineers and the growth of the next generation of senior IC leaders.
 - Act as the cultural standard-bearer for technical excellence, modeling the rigor, humility, and curiosity that define great engineering at scale.
 - Own the most consequential architectural decisions, providing the clarity and conviction needed when the path forward is genuinely hard.
 - Govern the company's technical direction in partnership with engineering leadership, making sure decisions are coherent, well-reasoned, and built to last.
