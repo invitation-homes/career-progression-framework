@@ -12,7 +12,7 @@ Think of yourself as a player-coach: equally invested in the technical work and 
 
 ## Impact
 
-- Cultivate teams through relationships, culture, recruiting, and growth within your Engineering pod.
+- Cultivate teams through relationships, culture, recruiting, and growth within your pod.
 - Use domain knowledge to plan and drive delivery of solutions aligned with business goals.
 - Facilitate the team's execution by identifying and removing obstacles and by improving processes, collaboration, and prioritization.
 - Own the health of your team's systems: advocate for reliability, maintainability, and automation alongside delivery.

@@ -46,7 +46,7 @@ You'll still need some support and supervision from others on the team.
 
 - Be a model engineer for those who are looking up to you.
 - Take time to help others, especially more junior roles.
-- Participate in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), and similar Engineering community forums.
+- Participate in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), and similar engineering community forums.
   - Support and encourage others to do the same.
 - Champion our decisions and best practices.
 - Maintain a bias to action: keep things moving, remove small blockers yourself where you can, and avoid letting work stall waiting on others.

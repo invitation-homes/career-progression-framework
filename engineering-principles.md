@@ -16,7 +16,7 @@ Our engineering vision and mission support the company's purpose and values, kee
 
 ## Principles
 
-Our Engineering Principles are a reflection of the culture we aspire to build and the behaviors we want to reinforce across our teams.
+Our engineering principles are a reflection of the culture we aspire to build and the behaviors we want to reinforce across our teams.
 They serve as a north star for how we operate, make decisions, and grow as engineers.
 
 The principles are designed to:

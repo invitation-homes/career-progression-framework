@@ -35,7 +35,7 @@ From here, you'll have a clear path to Software Engineer IV, where broader techn
 - Apply a solid foundation in good engineering practices and non-functional requirements (performance, reliability, security) to solve increasingly complex problems.
 - Keep up to date with best practices and recent technology changes in your domain.
 - Use data and metrics to validate assumptions and inform the decisions you make.
-- Develop a working understanding of how teams are structured across Engineering and how to work effectively with them.
+- Develop a working understanding of how teams are structured across engineering and how to work effectively with them.
 
 **Communication & Collaboration**
 
@@ -51,7 +51,7 @@ From here, you'll have a clear path to Software Engineer IV, where broader techn
 - Mentor more junior engineers: help find suitable tasks, pair on tickets, and provide context and guidance.
 - Help others on your team grow by inviting them to pair on work they'd learn from.
 - Assist with onboarding, including acting as a culture coach for new team members in their first month.
-- Contribute to the Engineering community by raising important issues and encouraging others.
+- Contribute to the engineering community by raising important issues and encouraging others.
 - Ask "why" in challenging situations; recognize and call out assumptions and risks.
 - Begin shaping team culture by modeling the behaviors and standards you want to see: quality, curiosity, and accountability.
 - Maintain a bias to action: keep work moving, model momentum for your team, and help address blockers before they stall delivery.

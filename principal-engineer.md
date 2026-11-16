@@ -11,7 +11,7 @@ You are a trusted partner to senior leadership and an advocate for strong engine
 ## Impact
 
 - Serve as a force multiplier for the organization, driving cross-team initiatives, unblocking delivery at scale, and raising the standard of engineering excellence through influence and enablement.
-- Champion an Engineering culture where teams build independently and evolve with minimal coordination overhead.
+- Champion an engineering culture where teams build independently and evolve with minimal coordination overhead.
 - Identify opportunities and gaps in our engineering processes, security posture, or architectural alignment.
   Address them with durable improvements (including automation) that span teams.
 - Evaluate vendor offerings and integration strategies to help mitigate risk and align business goals with technology vision.
@@ -21,7 +21,7 @@ You are a trusted partner to senior leadership and an advocate for strong engine
 
 - Department
 
-Your impact spans the Engineering department.
+Your impact spans the engineering department.
 You lead through vision, credibility, and trust, guiding teams and leaders without needing formal authority.
 
 You build strong relationships with stakeholders across departments, helping the business and engineering move forward together.

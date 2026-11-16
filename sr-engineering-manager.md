@@ -11,7 +11,7 @@ You are accountable for both what your organization delivers and how it grows.
 
 ## Impact
 
-- Influence relationships, culture, recruiting, and operating models across Engineering pods.
+- Influence relationships, culture, recruiting, and operating models across pods.
 - Align roadmaps with company priorities and deliver timely, quality outcomes.
 - Accelerate delivery of high-impact, cross-team initiatives.
 - Surface high-impact project opportunities and make sure risks and scope are well understood and managed.

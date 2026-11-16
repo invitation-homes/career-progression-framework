@@ -20,7 +20,7 @@ You shape architectural direction and mentor others, helping teams deliver scala
 
 - Department
 
-Your work consistently impacts teams across the Engineering department, informing technical decisions and standards broadly.
+Your work consistently impacts teams across the engineering department, informing technical decisions and standards broadly.
 You lead through influence and expertise, not just authority.
 
 ## Knowledge

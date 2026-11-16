@@ -29,7 +29,7 @@ You report to the Senior Vice President (SVP) of Engineering and work closely wi
 - Set architecture goals, track execution across teams, and hold the bar on code quality and deployment speed.
 - Build security in from the start, with the security team's expertise at every stage of the software development lifecycle.
 - Evaluate, recommend, and manage technologies, from open-source tools to vendor relationships.
-- Help manage the technology and Engineering budgets through the annual budgeting process.
+- Help manage the technology and engineering budgets through the annual budgeting process.
 
 **Knowledge & Standards**
 
@@ -42,16 +42,16 @@ You report to the Senior Vice President (SVP) of Engineering and work closely wi
 
 **Communication & Collaboration**
 
-- Learn the business and its strategy, then communicate a vision for how Engineering helps execute it.
+- Learn the business and its strategy, then communicate a vision for how engineering helps execute it.
 - Align with the SVP of Engineering, the CTO, and other senior leaders on priorities, scope, requirements, and change management for shared initiatives.
-- Collaborate and negotiate with peers inside and outside Engineering, and make the tough call when one is needed.
+- Collaborate and negotiate with peers inside and outside engineering, and make the tough call when one is needed.
 - Get engineers talking across teams.
   Share what you learn, and help them see past their own area so they decide better.
 - Write and speak clearly.
 
 **Leadership & Culture**
 
-- Shape how the Engineering organization builds, and coach its leaders and senior engineers on both the Professional and Management Tracks.
+- Shape how the engineering organization builds, and coach its leaders and senior engineers on both the Professional and Management Tracks.
 - Run the Technical Architecture Guild (TAG) with other technology leaders.
   It brings together representatives from across engineering to build and maintain strong engineering principles.
 - Build the technical, operational, and cultural structures that let teams scale.
