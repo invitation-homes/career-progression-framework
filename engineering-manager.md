@@ -6,16 +6,16 @@ title: Engineering Manager
 [Job Description](job-descriptions/engineering-manager) · [Being an Engineering Manager](being-a/being-an-engineering-manager)
 
 As an Engineering Manager, you are a technical and people leader responsible for enabling your team’s success.
-You ensure that your engineers are growing, your work processes are effective, your systems are healthy, and your team is delivering meaningful results.
+You make sure your engineers are growing, your work processes are effective, your systems are healthy, and your team is delivering meaningful results.
 You are accountable for execution, collaboration, and team culture.
-Think of yourself as a player-coach — equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
+Think of yourself as a player-coach: equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
 
 ## Impact
 
 - Cultivate teams through relationships, culture, recruiting, and growth within your Engineering pod.
 - Use domain knowledge to plan and drive delivery of solutions aligned with business goals.
-- Facilitate the team’s execution by identifying and removing obstacles, improving processes, collaboration, and prioritization.
-- Own the health of your team's systems — advocate for reliability, maintainability, and automation alongside delivery.
+- Facilitate the team’s execution by identifying and removing obstacles and by improving processes, collaboration, and prioritization.
+- Own the health of your team's systems: advocate for reliability, maintainability, and automation alongside delivery.
 - Evaluate technical risk and help your team make sound decisions, even when the path forward isn't clear.
 
 ## Reach
@@ -31,11 +31,11 @@ You share knowledge, influence culture, and support consistency across the broad
 
 ## Knowledge
 
-- Maintain deep understanding of your team's systems and the technical stack they use.
+- Maintain a deep understanding of your team's systems and the technical stack they use.
   You are capable of diving deep to help unblock, troubleshoot, or guide.
 - Anticipate future technical and organizational challenges, and steer the team toward scalable and sustainable approaches.
-- Maintain deep understanding of the tools and processes across both engineering and management practices.
-- Understand how your team’s work connects to company strategy, customer experience, and business metrics.
+- Maintain a deep understanding of the tools and processes across both engineering and management practices.
+- Understand how your team’s work connects to company strategy, resident experience, and business metrics.
 
 ## Communication
 
@@ -48,7 +48,7 @@ You share knowledge, influence culture, and support consistency across the broad
 
 - Cultivate a high-performing, inclusive, and psychologically safe team environment.
 - Provide coaching, mentorship, and guidance to help engineers grow in their careers.
-- Manage performance with clarity and care — address gaps early and invest in growth before it becomes a problem.
+- Manage performance with clarity and care: address gaps early and invest in growth before it becomes a problem.
 - Lead hiring end-to-end: build strong pipelines, represent Invitation Homes well to candidates, and champion a great candidate and new hire experience.
 - Delegate effectively, trust your team, and hold them accountable for their commitments.
 - Model the values and behaviors you want to see across the organization: curiosity, humility, a bias to action, and genuine care for others.

@@ -82,19 +82,20 @@ Drive your EMs to surface unknowns early and turn them into knowns before they b
 Be a voice at the leadership table: able to present and discuss your work at all levels, including with executives.
 
 Own the technology goals for your operating group.
-Set them clearly enough that your EMs can drive toward them, and hold the operating group accountable to results at the end of the year.
+Set them clearly enough that your EMs can drive toward them, and hold the operating group accountable for results at the end of the year.
 
 ## People and Organization
 
 Our vision is to *delight our residents and associates with innovative solutions built by happy teams*.
 At the Director level, you carry more responsibility for the "happy teams" part than anyone else in the organization.
 You are expected to live our [engineering principles](../engineering-principles) and build a culture where they are felt across your operating group, not just declared.
-Culture at scale does not emerge on its own. It is built deliberately, through the managers you develop and the norms you model.
+Culture at scale does not emerge on its own.
+It is built deliberately, through the managers you develop and the norms you model.
 
 ### Building the Leadership Bench
 
 Developing your [Engineering Managers](being-an-engineering-manager) is the work that shapes the organization's future.
-Coach them on the things that are hardest to learn alone: navigating ambiguity, giving difficult feedback, building trust with their teams, and thinking beyond their own pods.
+Coach them on the things that are hardest to learn alone: working through ambiguity, giving difficult feedback, building trust with their teams, and thinking beyond their own pods.
 Build the next generation of leaders who can step into larger roles as the organization scales.
 
 Skip-level conversations are essential at this level.
@@ -125,7 +126,8 @@ Watch for divergence in solution choices, technical direction, and engineering p
 When you find it, create the conversations that produce alignment.
 
 Use the Tableau Agile Metrics Reports for delivery signals and the [DX](https://getdx.com) platform for the complementary picture: how engineers feel about their work and how the organization's DORA metrics are trending.
-The goal is not to manage by numbers. It is to understand what they are telling you and act before small problems compound.
+The goal is not to manage by numbers.
+It is to understand what they are telling you and act before small problems compound.
 
 The weekly Senior Leadership meeting includes an operational review of each operating group.
 Come prepared to speak to the signals emerging from your teams: what the metrics show, what is behind them, and what you are doing about it.
@@ -138,7 +140,8 @@ Stay close enough to the work to understand what your teams are adopting, set ex
 
 Keep the organization moving.
 Anticipate risks before they surface, make the call when clarity is needed, and resolve ambiguity quickly.
-Confusion at your level multiplies downward. The faster you create clarity, the more momentum you preserve across the organization.
+Confusion at your level multiplies downward.
+The faster you create clarity, the more momentum you preserve across the organization.
 
 ## Communication and Influence
 

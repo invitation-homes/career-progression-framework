@@ -9,8 +9,8 @@ Progression Documents: [SE I](../software-engineer-i) · [SE II](../software-eng
 
 You are a practitioner.
 Whether you're an SE1, SE2, or SE3, the core of the work is the same: write good code, ship working software, learn from what you build, and invest in the people around you.
-What changes as you grow is the scope of what you take on, how independently you navigate it, and how much your growth lifts others.
-Great software is built by engineers who are supported, growing, and proud of what they ship.
+What changes as you grow is the scope of what you take on, how independently you handle it, and how much your growth lifts others.
+Engineers who are supported, growing, and proud of what they ship build great software.
 
 Our systems touch residents in hundreds of thousands of homes: the app they use to pay rent, the portal for maintenance requests, the tools associates depend on every day.
 The code you write matters.
@@ -28,7 +28,8 @@ David Thomas and Andrew Hunt open *The Pragmatic Programmer* with a question tha
 The core of this job is building software: writing code, reviewing it, shipping changes, and then doing it again.
 
 Early on, your work is smaller and well-defined.
-The goal is not just to complete the tasks. Understand why a solution works, how it fits into the broader system, and what "done well" looks like on this team.
+The goal is not just to complete the tasks.
+Understand why a solution works, how it fits into the broader system, and what "done well" looks like on this team.
 You're learning the codebase, the tools, the conventions, and the standard your team holds itself to.
 AI coding assistants are part of the modern toolkit.
 Use them to learn faster, not to skip the learning.
@@ -50,7 +51,8 @@ Systems behave differently in production than in development, and your instincts
 By SE3, you're setting up postmortems, identifying root causes, turning incidents into improvements, and looking for repetitive manual work that can be automated away.
 
 When work stalls, act.
-Ask for help early. Waiting until you're deeply stuck helps no one.
+Ask for help early.
+Waiting until you're deeply stuck helps no one.
 Over time, remove the small blockers yourself rather than waiting for someone else to notice.
 That shift (from "I asked for help" to "I cleared the path") is one of the clearest signs of growth.
 
@@ -105,7 +107,8 @@ At SE1, your primary responsibility is yourself: do the work, learn the tools, a
 At SE2, your reach begins to extend to your teammates: review their PRs, check in when someone is stuck, model a bias to action.
 At SE3, your reach is the team: you lead implementations, share knowledge broadly, and invest in the growth of the engineers around you.
 
-Mentorship at SE3 is not a formal obligation. It follows naturally from having learned enough to help others learn faster.
+Mentorship at SE3 is not a formal obligation.
+It follows naturally from having learned enough to help others learn faster.
 Pair with more junior engineers on work that will stretch them.
 Provide the context that helps them make better decisions, not just complete tickets.
 Help onboard new teammates.
@@ -115,7 +118,7 @@ As your reach grows, so does your role in building the team itself.
 Join interview panels and give feedback on candidates.
 
 The best SE3s are not just strong engineers.
-They are engineers that SE1s and SE2s want to become.
+They are engineers SE1s and SE2s want to become.
 
 From here, the IC track continues to [SE4](being-a-software-engineer-iv) and beyond, or you may find yourself drawn toward the [Engineering Manager](being-an-engineering-manager) track if people leadership is where your energy goes.
 What both paths require is a foundation of technical credibility, good judgment, and genuine investment in others.
