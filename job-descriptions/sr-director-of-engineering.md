@@ -27,6 +27,7 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 - Identify and address systemic risks, process gaps, and capability shortfalls before they constrain delivery or culture.
 - Represent engineering in cross-functional executive partnerships, making sure technology is understood, valued, and treated as a strategic enabler across the organization.
 - Own organizational design decisions that improve how engineering teams are structured, staffed, and operated at scale.
+- Own the engineering budget across the department, and advocate for investment in headcount, vendors, tooling, and technology platforms in alignment with company strategy.
 
 **Knowledge & Standards**
 
@@ -46,12 +47,13 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 
 **Leadership & Culture**
 
-- Develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across the company.
+- Coach and develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across the company.
 - Own the talent strategy for engineering: hiring, developing, and retaining high-performing leaders and teams at scale.
 - Set the cultural tone for engineering at the company level: model strategic thinking, accountability, empathy, curiosity, and continuous improvement.
 - Partner with the VP of Engineering to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.
 - Serve as a steady, decisive leader in complex situations: resolve organizational conflicts, work through ambiguity, and enable teams to move forward with clarity and confidence.
 - Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.
+- Champion automation as a department-wide priority: invest in the platforms and practices that keep manual toil from accumulating as engineering scales.
 
 ## What You Bring
 

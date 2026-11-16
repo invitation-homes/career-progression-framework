@@ -16,7 +16,7 @@ Your focus shifts from leading an operating group to leading across the engineer
 - Own organizational design decisions that improve how engineering teams are structured, staffed, and operated at scale.
 - Identify and address systemic risks, process gaps, and capability shortfalls before they constrain delivery or culture.
 - Represent engineering in cross-functional executive partnerships, making sure technology is a strategic enabler across the organization.
-- Manage and advocate for engineering's investment in vendors, tooling, and technology platforms in alignment with company strategy.
+- Own the engineering budget across the department, and advocate for investment in headcount, vendors, tooling, and technology platforms in alignment with company strategy.
 
 ## Reach
 
@@ -48,9 +48,10 @@ You build trust and alignment with senior leaders across Product, Design, Financ
 
 ## Leadership
 
-- Develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across the company.
+- Coach and develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across the company.
 - Own the talent strategy for engineering, including hiring, developing, and retaining high-performing leaders and teams at scale.
 - Set the cultural tone for engineering at the company level, modeling strategic thinking, accountability, empathy, curiosity, and continuous improvement.
 - Partner with the VP of Engineering and CIO to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.
 - Serve as a steady, decisive leader in complex situations, resolving organizational conflicts, working through ambiguity, and enabling teams to move forward with clarity and confidence.
 - Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.
+- Champion automation as a department-wide priority: invest in the platforms and practices that keep manual toil from accumulating as engineering scales.
