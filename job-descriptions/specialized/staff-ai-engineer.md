@@ -13,7 +13,7 @@ We've built an engineering culture that takes that responsibility seriously: col
 Engineers who are supported, growing, and proud of what they ship build great software.
 This role maps to what many organizations call a Staff Software Engineer, where deep technical expertise and cross-team influence come together.
 You'll move where the need is greatest: embedding with teams to solve their hardest problems while building the shared standards, tools, and practices that lift every team.
-You'll remain a hands-on engineer throughout, but your reach is the whole department, not a single team.
+You'll remain a hands-on engineer throughout, but your reach is your whole operating group, not a single team.
 
 Our Staff AI Engineer is a new role created to help accelerate our organization's AI journey, improving the quality of life for our associates, especially our software engineers, who use AI every day to write, test, and deploy.
 We have an immediate need to expand our agentic AI capabilities, and this role directly shapes that work.
@@ -29,7 +29,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Take ownership of the hardest technical AI decisions facing the teams you support; provide the clarity and decisiveness that enable teams to move forward.
 - Leave behind clear artifacts (documentation, diagrams, utilities, or design patterns) that continue to support the team after you move on.
 - Identify AI-related patterns and shared needs across teams, feed them into the shared AI platform, and contribute directly to its growth.
-- Set and drive engineering standards that allow our coding agents to elevate code quality, reliability, and maintainability across the department.
+- Set and drive engineering standards that allow our coding agents to elevate code quality, reliability, and maintainability across your operating group.
 - Build and ship production-grade backend services that power AI-driven features residents and associates rely on.
 - Apply AI to modernize and automate operational workflows across a 100,000+ home portfolio.
 - Tune prompts, reasoning chains, and retrieval strategies, including RAG and LLM-as-a-wiki, against Invitation Homes data.
@@ -69,7 +69,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Experience building custom eval pipelines using techniques like model-as-a-judge or embedding similarity.
 - Hands-on experience with agentic frameworks such as LangGraph, AutoGen, or CrewAI, preferably in TypeScript.
 - Experience creating shared tools, frameworks, standards, or guidance adopted across multiple teams.
-- Exceptional communication skills (written and verbal) with experience writing proposals and influencing technical direction at a department level.
+- Exceptional communication skills (written and verbal) with experience writing proposals and influencing technical direction across multiple teams.
 - A track record of mentoring and coaching engineers across levels and teams.
 - A drive to raise the bar: for yourself, the standards you champion, and the engineers you develop.
 - Hands-on experience with cloud platforms, CI/CD practices, and modern iterative software delivery.

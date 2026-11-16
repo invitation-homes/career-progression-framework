@@ -8,7 +8,7 @@ title: Sr. Director of Engineering
 As a Sr. Director of Engineering, you set the strategic direction for engineering at the company level.
 You tie technology and organizational decisions closely to long-term business outcomes.
 You are a senior leader who partners with the VP of Engineering and executive stakeholders to shape the culture, capability, and trajectory of the engineering organization.
-Your focus shifts from managing within a department to influencing the company by designing the systems, structures, and people strategies that allow engineering to scale and thrive.
+Your focus shifts from leading an operating group to leading across the engineering department and influencing the company by designing the systems, structures, and people strategies that allow engineering to scale and thrive.
 
 ## Impact
 
@@ -21,12 +21,12 @@ Your focus shifts from managing within a department to influencing the company b
 ## Reach
 
 - Leadership Reach
-  - Company
+  - Department
 
 - Technical Reach
   - Company
 
-Your influence extends across the entire company.
+Your leadership spans the engineering department, and your influence extends across the entire company.
 You shape how engineering is perceived, prioritized, and resourced at the executive level.
 You build trust and alignment with senior leaders across Product, Design, Finance, Business Operations, and beyond, so engineering is a valued and visible partner in company-wide decisions.
 

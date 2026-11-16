@@ -24,9 +24,9 @@ Think of yourself as a player-coach: equally invested in the technical work and 
   - Team
 
 - Technical Reach
-  - Cross-Team
+  - Operating Group
 
-While your focus is your team, you actively collaborate with other teams, product partners, and stakeholders to align on vision and coordinate delivery.
+While your leadership focus is your team, your technical influence extends across your operating group: you collaborate with other teams, product partners, and stakeholders to align on vision and coordinate delivery.
 You share knowledge, influence culture, and support consistency across the broader engineering organization.
 
 ## Knowledge

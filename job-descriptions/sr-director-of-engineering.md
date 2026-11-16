@@ -11,7 +11,7 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-This role sits at the intersection of engineering leadership and executive strategy, where your scope shifts from leading within a department to shaping engineering at the company level.
+This role sits at the intersection of engineering leadership and executive strategy, where your scope shifts from leading an operating group to leading across the engineering department and shaping engineering at the company level.
 You set strategic direction for the engineering organization and tie technology and organizational decisions closely to long-term business outcomes.
 You're also a senior executive partner to the VP of Engineering.
 Your focus is on designing the structures, people strategies, and technology investments that allow engineering to scale and thrive, not just today but for years to come.

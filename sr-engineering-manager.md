@@ -24,9 +24,9 @@ You are accountable for both what your organization delivers and how it grows.
   - Cross-Team
 
 - Technical Reach
-  - Department
+  - Operating Group
 
-Your influence spans multiple engineering teams and touches on broad areas of the company's technical ecosystem.
+Your influence spans multiple engineering teams and touches broad areas of your operating group's technical ecosystem.
 You engage with leadership in Product, Design, and Delivery to shape how initiatives are defined and executed.
 
 ## Knowledge

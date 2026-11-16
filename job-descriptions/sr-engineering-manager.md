@@ -16,7 +16,7 @@ You are accountable not just for what your teams deliver, but for how your manag
 You translate company and department strategy into clear direction for your organization, and you build the leadership capability and operational health that make sustained high performance possible.
 
 Your focus moves from the growth of individual engineers to the growth of the managers who grow those engineers.
-Your leadership reach spans your organization of teams; your technical reach extends across the department.
+Your leadership reach spans your organization of teams; your technical reach extends across your operating group.
 You engage on cross-team architecture, platform strategy, and systemic risk while your managers own day-to-day execution.
 
 From here, you'll have a clear path to Director of Engineering as your organizational scope and strategic influence grow.

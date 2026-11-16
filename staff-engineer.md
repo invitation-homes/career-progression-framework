@@ -18,9 +18,9 @@ You shape architectural direction and mentor others, helping teams deliver scala
 
 ## Reach
 
-- Department
+- Operating Group
 
-Your work consistently impacts teams across the engineering department, informing technical decisions and standards broadly.
+Your work consistently affects teams across your operating group, informing technical decisions and standards broadly.
 You lead through influence and expertise, not just authority.
 
 ## Knowledge
@@ -41,7 +41,7 @@ You lead through influence and expertise, not just authority.
 
 ## Leadership
 
-- Remain a hands-on engineer throughout; your reach extends to the whole department, not a single team.
+- Remain a hands-on engineer throughout; your reach extends across your operating group, not a single team.
 - Model engineering excellence and act as a multiplier, raising the bar for the entire engineering organization through mentorship, coaching, and influence.
 - Model intellectual humility, curiosity, and high standards; the culture you carry shapes the culture of the teams you touch.
 - Facilitate learning across teams through initiatives such as architecture guilds, postmortems, or engineering summits.

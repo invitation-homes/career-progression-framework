@@ -13,7 +13,7 @@ We've built an engineering culture that takes that responsibility seriously: col
 Engineers who are supported, growing, and proud of what they ship build great software.
 This role maps to what many organizations call a Staff Software Engineer, where deep technical expertise and cross-team influence come together.
 You'll move where the need is greatest: embedding with teams to solve their hardest problems while building the shared standards, tools, and practices that lift every team.
-You'll remain a hands-on engineer throughout, but your reach is the whole department, not a single team.
+You'll remain a hands-on engineer throughout, but your reach is your whole operating group, not a single team.
 
 From here, you'll have a clear path to Principal Engineer, where your impact expands to the full engineering organization and shapes its long-term technical direction.
 
@@ -26,7 +26,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - Take ownership of the hardest technical decisions facing the teams you support; provide the clarity and decisiveness that enable teams to move forward.
 - Leave behind clear artifacts (documentation, diagrams, utilities, or design patterns) that continue to support the team after you move on.
 - Identify patterns and shared needs across teams; proactively create tools, frameworks, automations, and guidance that solve common problems at scale.
-- Set and drive engineering standards that elevate code quality, reliability, and maintainability across the department.
+- Set and drive engineering standards that elevate code quality, reliability, and maintainability across your operating group.
 
 **Knowledge & Standards**
 
@@ -57,7 +57,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 - 8+ years of professional software development experience, with a demonstrated track record of technical impact beyond team boundaries.
 - Deep expertise in software architecture, system design, and distributed systems.
 - Experience creating shared tools, frameworks, standards, or guidance adopted across multiple teams.
-- Exceptional communication skills (written and verbal) with experience writing proposals and influencing technical direction at a department level.
+- Exceptional communication skills (written and verbal) with experience writing proposals and influencing technical direction across multiple teams.
 - A track record of mentoring and coaching engineers across levels and teams.
 - A drive to raise the bar: for yourself, the standards you champion, and the engineers you develop.
 - Hands-on experience with cloud platforms, CI/CD practices, and modern iterative software delivery.
