@@ -50,7 +50,7 @@ Each role has a distinct focus:
 
 **Product** defines the vision, shapes the roadmap, and prioritizes features based on user and market signals.
 
-**Product Design** translates user needs into clear, tested experiences, owning research, interaction patterns, and the visual language across the pod's product surface.
+**Design** translates user needs into clear, tested experiences, owning research, interaction patterns, and the visual language across the pod's product surface.
 
 **Engineering** — that's you — provides technical guidance and mentorship, oversees planning and delivery, builds a culture of craft and momentum, and is accountable for the health and quality of what the pod ships.
 
