@@ -1,5 +1,5 @@
 ---
-id: senior-engineering-manager
+id: sr-engineering-manager
 title: Senior Engineering Manager
 ---
 
@@ -26,7 +26,7 @@ You are accountable for both what your organization delivers and how it grows.
 - Technical Reach
   - Department
 
-Your influence spans multiple engineering teams and touches on broad areas of the company’s technical ecosystem.
+Your influence spans multiple engineering teams and touches on broad areas of the company's technical ecosystem.
 You engage with leadership in Product, Design, and Delivery to shape how initiatives are defined and executed.
 
 ## Knowledge

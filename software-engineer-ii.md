@@ -19,7 +19,7 @@ You'll still need some support and supervision from others on the team.
 - Improve the flow of work for your team, for example:
   - Check in with team members and pair up to help.
   - Review PRs in a timely manner.
-- Share input on decision records, documentation, or processes that affect you and your team.
+- Share input on Decision Records, documentation, or processes that affect you and your team.
 
 ## Reach
 
@@ -49,4 +49,4 @@ You'll still need some support and supervision from others on the team.
 - Participate in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), and similar Engineering community forums.
   - Support and encourage others to do the same.
 - Champion our decisions and best practices.
-- Maintain a bias to action: keep things moving, remove small blockers yourself where you can, and avoid letting work stall waiting on others. 
+- Maintain a bias to action: keep things moving, remove small blockers yourself where you can, and avoid letting work stall waiting on others.

@@ -6,8 +6,9 @@ title: Tech Fellow
 [Job Description](job-descriptions/tech-fellow)
 
 As a Tech Fellow, you represent the highest level of technical distinction at Invitation Homes.
-You are an executive-level individual contributor whose expertise and influence extend beyond the company into the broader industry.
-You combine the strategic perspective of an executive with the technical depth of the organization's foremost practitioner, working directly with executive leadership to define technical vision and investment priorities while embedding with teams to design and deliver the company's most consequential and complex initiatives.
+You are an executive-level individual contributor (IC) whose expertise and influence extend beyond the company into the broader industry.
+You combine the strategic perspective of an executive with the technical depth of the organization's foremost practitioner.
+You work directly with executive leadership to define technical vision and investment priorities while embedding with teams to design and deliver the company's most consequential and complex initiatives.
 You are a force multiplier at the highest level, shaping how technology evolves at Invitation Homes and how Invitation Homes is perceived as a technology organization in the world.
 
 ## Impact

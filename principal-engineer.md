@@ -32,7 +32,7 @@ You build strong relationships with stakeholders across departments, helping the
 - Shape the strategic direction of our technical stack, tools, and engineering approach, balancing short-term pragmatism with long-term value.
 - Maintain an active role in technical communities, bringing back ideas and standards that keep the organization current and competitive.
 - Understand critical non-functional requirements, such as performance, scalability, reliability, security, and maintainability, and use them to guide teams toward systems that are resilient and successful over time.
-- Maintain a comprehensive, high-level understanding of the organization’s technical landscape, serving as a go-to expert on how systems fit together, even when not deeply embedded in individual domains.
+- Maintain a comprehensive, high-level understanding of the organization's technical landscape, serving as a go-to expert on how systems fit together, even when not deeply embedded in individual domains.
 
 ## Communication
 
@@ -46,5 +46,5 @@ You build strong relationships with stakeholders across departments, helping the
 - Act as a cultural pillar and steward of engineering values.
   Model humility, rigor, curiosity, and high standards in everything you do.
 - Raise the bar for engineers in technical excellence, judgment, communication, and self-awareness by modeling high standards and providing thoughtful, targeted mentorship.
-- Take responsibility for making decisions on hard tradeoffs, subjective designs, and complex cross-functional efforts.
+- Make the call on hard trade-offs, subjective designs, and complex cross-functional efforts.
 - Establish and enforce governance around architectural decisions, making sure they are recorded, discoverable, and aligned with organizational standards and strategy.

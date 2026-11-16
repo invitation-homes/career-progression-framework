@@ -26,7 +26,7 @@ You share what you have learned with your peers, juniors, and our Engineering co
 ## Knowledge
 
 - Understand the implications of work being done and adjust your approach based on impact and risk.
-- Have a good understanding of the team and organizational structure in our Engineering department and how to work and communicate within it.
+- Understand the team and organizational structure in our Engineering department and how to work and communicate within it.
 - Draw on the depth and breadth of your knowledge of good engineering practices and non-functional requirements to solve problems at a more complex or abstract level.
 - Keep up to date with best practices and recent technology changes in your domain.
 - Use data and metrics to validate assumptions and inform the decisions you make about your work.
@@ -35,9 +35,9 @@ You share what you have learned with your peers, juniors, and our Engineering co
 
 - Gather input and ask clarifying questions to make informed and timely decisions.
 - Highlight any potential pitfalls or decisions that have complex technical consequences early.
-  Help make sure we’re building the right thing, not just building it right.
-- Create diagrams and documentation for your team’s products: write things down so the whole team can move independently.
-- Share what you’ve learned in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), or our Monthly Learnings.
+  Help make sure we're building the right thing, not just building it right.
+- Create diagrams and documentation for your team's products: write things down so the whole team can move independently.
+- Share what you've learned in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), or our Monthly Learnings.
 - Set up postmortems and identify actions to avoid repeating problems.
 - Lead structured meetings that run to time and produce tangible outputs.
 - Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your own.
@@ -52,6 +52,6 @@ You share what you have learned with your peers, juniors, and our Engineering co
 - Be involved with our Engineering community by:
   - Bringing up important issues
   - Encouraging others
-- Ask “why” even in challenging situations, and recognize and call out assumptions and risks.
+- Ask "why" even in challenging situations, and recognize and call out assumptions and risks.
 - Begin to shape team culture by modeling the behaviors and standards you want to see: quality, curiosity, and accountability.
 - Begin participating in the hiring process by joining interview panels and providing feedback on candidates.

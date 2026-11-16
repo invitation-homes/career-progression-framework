@@ -15,7 +15,7 @@ At this point, you're an active agent of change and improvement.
 
 - Remain a hands-on engineer: write code, contribute to design, and ship alongside your team.
 - Use your domain expertise to architect solutions, especially for more ambiguous and challenging problems the team faces.
-- Shape the technical direction and vision for your team’s systems.
+- Shape the technical direction and vision for your team's systems.
 - Improve team efficiency and effectiveness by understanding pain points and working to resolve them through means such as:
   - Tackling tech debt
   - Automating toil
@@ -26,11 +26,11 @@ At this point, you're an active agent of change and improvement.
 
 ## Knowledge
 
-- Serve as an authority in your technical domain or on your team’s systems.
-- Balance current and future needs by understanding the bigger picture for your team and for others affected by your team’s work.
+- Serve as an authority in your technical domain or on your team's systems.
+- Balance current and future needs by understanding the bigger picture for your team and for others affected by your team's work.
 - Make sure your team understands the standard engineering practices and why they exist.
-  Refer them to decision records, Quick Reference Guides (QRGs), etc.
-  - Understand when work has evolved and these decisions are no longer applicable, and provide updates to documentation with new guidance.
+  Refer them to Decision Records, Quick Reference Guides (QRGs), etc.
+  - Understand when work has evolved and these decisions are no longer applicable, and update the documentation with new guidance.
 - Share your knowledge in Shared Interest Groups (SIGs) to improve the knowledge and skills of others across Engineering.
 
 ## Communication
