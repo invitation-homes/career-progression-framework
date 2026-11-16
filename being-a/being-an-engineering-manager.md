@@ -3,13 +3,14 @@ id: being-an-engineering-manager
 title: Being an Engineering Manager at IH
 ---
 
-Being… [a Software Engineer (SE I–III)](being-an-engineer) · [a Software Engineer IV / SPM](being-a-software-engineer-iv) · **an Engineering Manager** · [a Director of Engineering](being-a-director-of-engineering)
+Being… [a Software Engineer (SE I–III)](being-an-engineer) · [a Software Engineer IV / Salesforce Platform Manager](being-a-software-engineer-iv) · **an Engineering Manager** · [a Director of Engineering](being-a-director-of-engineering)
 
 Job Description: [Engineering Manager](../job-descriptions/engineering-manager)
 
 Progression Document: [Engineering Manager](../engineering-manager)
 
-You are a [player-coach](https://www.cultureamp.com/blog/support-player-coach): equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
+You are a [player-coach](https://www.cultureamp.com/blog/support-player-coach).
+You're equally invested in the technical work and in the people, culture, and conditions that let your team thrive.
 Your responsibilities span three broad areas: strategy and planning, people management, and building things.
 You're operating inside a large company, which means some structure and process.
 But the goal is always the same: clear the path for your team to do great work.
@@ -20,6 +21,8 @@ When we get it right, people feel it.
 
 ("Residents" are the people who live in our homes; "associates" are our employees.)
 
+Adam Waksman, writing on the Foursquare engineering blog, describes the shape of the job:
+
 > *"Much of the job of an effective engineering manager is non-technical in nature: prioritization, communication, risk-awareness, connecting silos, inspiring teams, growing new leaders, and so forth.
 > This makes success less visible, or at least less obvious, and pushes the day-to-day further from the world of instant gratification."*
 > — Adam Waksman, [*Good engineers can become good leaders*](https://foursquare.com/resources/blog/developer/good-engineers-can-become-good-leaders/)
@@ -27,6 +30,7 @@ When we get it right, people feel it.
 No two managers will look the same.
 The mix of responsibilities you carry will shift based on your own stage as a manager, the maturity of your pod (the cross-functional team you lead), and the clarity of your product direction.
 Pod maturity has a few dimensions: the experience of the individual team members, how long they've been working together, and where they fall on the [Tuckman stages](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) of group development.
+What stays constant: the goal of clearing the path for your team to do great work, and the care you put into the people doing it.
 
 ![Three examples of how the mix of responsibilities can vary across different manager situations](../assets/manager-shapes.png)
 *How the mix of responsibilities shifts depending on your team's situation*
@@ -37,7 +41,7 @@ Pod maturity has a few dimensions: the experience of the individual team members
 
 Your pod is led by a triad: you, your Product Owner, and your Product Designer.
 Our pods are intentionally small (typically 7 to 10 people), in the spirit of the [two-pizza rule](https://aws.amazon.com/executive-insights/content/amazon-two-pizza-team/): small enough to stay nimble, aligned, and well-coordinated.
-As the EM, you'll typically have 3–5 FTEs and 3–5 contractors as direct reports.
+As the Engineering Manager (EM), you'll typically have 3–5 full-time employees (FTEs) and 3–5 contractors as direct reports.
 Your FTE direct reports are on the full people management journey described in this document: 1:1s, performance reviews, career development, the works.
 Your relationship with contractors is different: you direct their work, give feedback, and set them up to succeed, but formal performance management runs through their agency or vendor.
 You are responsible for building a strong working relationship with your counterparts and leading the pod together.
@@ -77,14 +81,12 @@ You are also an ally and advocate for your team: representing their interests to
 
 ### Live Our Principles and Build Our Culture
 
-You are expected to live our [engineering principles](../engineering-principles), model them for your pod, and encourage the team to follow them (or at least aspire to).
+Live our [engineering principles](../engineering-principles), model them for your pod, and encourage the team to follow them (or at least aspire to).
 One principle worth calling out explicitly: speak up when you disagree.
 Your voice matters, and holding back a concern doesn't serve the team.
 But once a decision is made, commit fully so the team can succeed as one.
 Modeling that behavior as a leader sets the tone for how the whole pod operates.
-All of your work and interactions with the team should serve to build our culture and drive us toward our vision:
-
-*delight our residents and associates with innovative solutions built by happy teams.*
+All of your work and interactions with the team should build our culture and drive us toward our vision: to *delight our residents and associates with innovative solutions built by happy teams*.
 
 We mean the "happy teams" part.
 Engineers who feel trusted and invested in do better work, stay longer, and build better things.
@@ -145,7 +147,7 @@ We believe teams should own what they build, including running it in production.
 There is no separate operations team; your pod is responsible for the reliability, performance, and health of the systems it owns.
 That means on-call is part of the picture: your team will carry a rotation, and as EM you help set the culture around how that responsibility is shared and sustained without burning people out.
 This is also where our bias to action and drive to keep things shipping matter most: removing blockers, maintaining momentum, and continually delivering value are as central to your job as any technical contribution.
-You are also expected to stay technically engaged: participate meaningfully in solution architecture, guide technical decisions, and stay close to the code.
+You also stay technically engaged: participate meaningfully in solution architecture, guide technical decisions, and stay close to the code.
 We want the teams building things to have a large hand in designing them.
 Your technical voice in that process matters.
 How directly you contribute will vary.
@@ -155,7 +157,7 @@ AI coding assistants are increasingly making it easier for EMs to stay in the wo
 ### Documentation
 
 Use [Decision Records](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) to capture significant technical decisions, either in the relevant repository (for decisions scoped to that codebase) or in our shared technology decisions repository (for decisions with org-wide impact).
-Decision records exist so that future engineers, including future you, can understand not just what was decided, but why.
+Decision Records exist so that future engineers, including future you, can understand not just what was decided, but why.
 Without them, context lives in people's heads, and leaves when they do.
 
 Every repository your pod owns should also have a great README: one that tells a new engineer what the system does, how to get it running, and where to look next.

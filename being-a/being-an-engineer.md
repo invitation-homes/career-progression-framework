@@ -3,7 +3,7 @@ id: being-an-engineer
 title: Being a Software Engineer (SE I–III) at IH
 ---
 
-Being… **a Software Engineer (SE I–III)** · [a Software Engineer IV / SPM](being-a-software-engineer-iv) · [an Engineering Manager](being-an-engineering-manager) · [a Director of Engineering](being-a-director-of-engineering)
+Being… **a Software Engineer (SE I–III)** · [a Software Engineer IV / Salesforce Platform Manager](being-a-software-engineer-iv) · [an Engineering Manager](being-an-engineering-manager) · [a Director of Engineering](being-a-director-of-engineering)
 
 Job Descriptions: [SE I](../job-descriptions/software-engineer-i) · [SE II](../job-descriptions/software-engineer-ii) · [SE III](../job-descriptions/software-engineer-iii)
 
@@ -22,8 +22,13 @@ When we get it right, people feel it.
 
 David Thomas and Andrew Hunt open *The Pragmatic Programmer* with a question that applies at every level:
 
-> *"Care about your craft. Why spend your life developing software unless you care about doing it well?"*
+> *"Care about your craft.
+> Why spend your life developing software unless you care about doing it well?"*
 > — David Thomas and Andrew Hunt, *The Pragmatic Programmer*
+
+No two engineers will look the same.
+How you grow depends on your team, the systems you work in, and the problems in front of you, and you may move faster in some areas than others.
+What stays constant: the expectation that you care about your craft, keep learning, and make the people around you better.
 
 ## Craft and Delivery
 
@@ -71,7 +76,7 @@ You're giving feedback on others' code: clearly, kindly, and with the intent to 
 You're contributing to team discussions, writing documentation that others actually use, and advocating for the decisions and practices your team has agreed on.
 
 By SE3, communication is how you create leverage for the whole team.
-You're writing things down: decision records, diagrams, system documentation that the whole team can build on.
+You're writing things down: Decision Records, diagrams, system documentation that the whole team can build on.
 You're flagging technical risks before they become delivery problems, and asking whether you're building the right thing, not just building it right.
 Knowledge that lives in your head and nowhere else is a risk to the team.
 
@@ -86,7 +91,7 @@ Continuously improving our craft is one of our [engineering principles](../engin
 The growth between SE1 and SE3 is substantial, and it does not happen passively.
 
 Be curious.
-Treat every task as an opportunity to learn something: about the system, the domain, the tradeoffs, or the people around you.
+Treat every task as an opportunity to learn something: about the system, the domain, the trade-offs, or the people around you.
 Read and understand the architecture decisions your team has recorded, and the reasoning behind them.
 When a convention seems wrong or outdated, ask about it; that is how standards evolve.
 
@@ -122,6 +127,6 @@ Join interview panels and give feedback on candidates.
 The best SE3s are not just strong engineers.
 They are engineers SE1s and SE2s want to become.
 
-From here, the IC track continues to [SE4](being-a-software-engineer-iv) and beyond, or you may find yourself drawn toward the [Engineering Manager](being-an-engineering-manager) track if people leadership is where your energy goes.
+From here, the individual contributor (IC) track continues to [SE4](being-a-software-engineer-iv) and beyond, or you may find yourself drawn toward the [Engineering Manager](being-an-engineering-manager) track if people leadership is where your energy goes.
 What both paths require is a foundation of technical credibility, good judgment, and genuine investment in others.
 That foundation is built here.

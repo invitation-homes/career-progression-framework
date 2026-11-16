@@ -3,13 +3,14 @@ id: being-a-software-engineer-iv
 title: Being a Software Engineer IV or Salesforce Platform Manager at IH
 ---
 
-Being… [a Software Engineer (SE I–III)](being-an-engineer) · **a Software Engineer IV / SPM** · [an Engineering Manager](being-an-engineering-manager) · [a Director of Engineering](being-a-director-of-engineering)
+Being… [a Software Engineer (SE I–III)](being-an-engineer) · **a Software Engineer IV / Salesforce Platform Manager** · [an Engineering Manager](being-an-engineering-manager) · [a Director of Engineering](being-a-director-of-engineering)
 
 Job Descriptions: [Software Engineer IV](../job-descriptions/software-engineer-iv) · [Salesforce Platform Manager](../job-descriptions/salesforce-platform-manager)
 
 Progression Document: [Software Engineer IV / Salesforce Platform Manager](../software-engineer-iv)
 
-You are a technical leader and force multiplier: still a hands-on practitioner at heart, but with influence that extends well beyond your own work.
+You are a technical leader and force multiplier.
+You're still a hands-on practitioner at heart, but your influence extends well beyond your own work.
 Your responsibilities span three broad areas: technical leadership and decision-making, delivery and quality, and people, influence, and team health.
 As a practitioner, you'll spend the majority of your time building and shipping solutions alongside your team, whether through code or platform configuration.
 A meaningful portion of your energy goes into the people and practices around you.
@@ -27,7 +28,7 @@ When we get it right, people feel it.
 Tanya Reilly, author of *The Staff Engineer's Path*, coined the term "glue work" to describe exactly this kind of connective leadership (the mentorship, documentation, and coordination that holds a project together):
 
 > *"Glue work is the difference between a project that succeeds and one that fails."*
-> — [Tanya Reilly](https://www.noidea.dog/glue)
+> — Tanya Reilly, [*Being Glue*](https://www.noidea.dog/glue)
 
 No two people in this role will look the same.
 The exact mix shifts depending on the maturity of your pod (your cross-functional team), product clarity, and the complexity of the systems you own.
@@ -138,5 +139,5 @@ Build strong working relationships with your Product counterparts, and understan
 Your relationship with your EM works best as a partnership: complementary perspectives, shared accountability for outcomes, and mutual trust.
 Together with Product and Design, you form the extended leadership core of your pod: the people who own not just the work, but how the work gets done.
 
-From here, you'll have a clear path to Staff Engineer on the individual contributor (IC) track, or to [Engineering Manager](being-an-engineering-manager) if you're drawn toward people leadership.
+From here, you'll have a clear path to [Staff Engineer](../staff-engineer) on the individual contributor (IC) track, or to [Engineering Manager](being-an-engineering-manager) if you're drawn toward people leadership.
 Formal people management and org-wide technical strategy are out of scope at this level; those are the territory of the EM and Staff Engineer tracks respectively.
