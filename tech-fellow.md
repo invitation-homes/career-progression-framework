@@ -49,7 +49,7 @@ Internally, you are the definitive technical voice at the executive level and a 
 
 - Mentor and develop Sr. Principal and Principal Engineers, investing in the long-term growth of senior IC talent across the organization.
 - Help Invitation Homes attract and assess senior technical talent: interview for Principal and Sr. Principal roles, and use your industry reputation to bring strong engineers to the company.
-- Build reusable frameworks, reference implementations, and internal platforms (including automation tooling, evals, and the machine-readable standards agents consume) that raise the technical floor for teams across engineering.
+- Build reusable frameworks, reference implementations, and internal platforms (including automation tooling, evals (automated checks of AI behavior and output quality), and the machine-readable standards agents consume) that raise the technical floor for teams across engineering.
 - Establish and steward the company's technical governance, making sure the most consequential decisions are grounded in sound principles, well-documented, and durable.
   Accountability for what ships stays with people, whoever or whatever wrote it.
 - Model what it means to be a technical leader at the highest level: rigorous, humble, externally connected, and deeply invested in the success of others.

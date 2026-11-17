@@ -19,7 +19,7 @@ You influence not just engineering, but the broader organization's culture, prio
   Standards that agents consume (rules files, skills, Model Context Protocol servers) and automated gates enforce them, so they hold without a human reminder.
 - Manage organizational spend in alignment with strategic goals, including AI (artificial intelligence) spend such as tokens, which you treat as a budget.
 - Set your operating group's AI risk posture: policy for agent permissions, resident data handling, auditability, and change control (CAB, Change Approval Board) for agent-initiated changes.
-- Own the evaluation strategy for AI-assisted work in your operating group, so quality is measured by outcomes and evals (automated checks of AI behavior and output quality) rather than by volume.
+- Own the evaluation strategy for AI-assisted work in your operating group, so you measure quality by outcomes and evals (automated checks of AI behavior and output quality) rather than by volume.
 
 ## Reach
 

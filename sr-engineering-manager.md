@@ -50,10 +50,11 @@ You engage with leadership in Product, Design, and Delivery to shape how initiat
 
 - Build a healthy, collaborative, and high-performing culture across your organization.
 - Coach and develop engineering managers, helping them grow as leaders, make better decisions, and build healthier teams.
-- Coach managers to build AI fluency in their pods, watch for deskilling and overreliance, and keep the junior pipeline healthy across your organization.
+- Coach managers to build artificial intelligence (AI) fluency in their pods, watch for deskilling and overreliance, and keep the junior pipeline healthy across your organization.
 - Operate effectively through layers of leadership, giving managers ownership of outcomes while making sure their teams have the support and clarity they need.
 - Help set the bar for performance, accountability, and team ownership across your organization.
 - Hold managers accountable for their own growth, helping them recognize and address gaps in leadership, process, or team health.
+- Own the outcome when AI-assisted work fails in your organization: "the agent wrote it" is never an explanation to your Director, residents, or associates.
 - Lead talent strategy for your organization: recruiting (assessing judgment with AI tools allowed), retention, performance management, and building a strong leadership bench.
 - Hold managers to measuring people by outcomes and judgment, never by AI usage or output volume.
 - Maintain a bias to action across your organization: surface risks early, drive resolution proactively, and keep your managers and teams moving forward.

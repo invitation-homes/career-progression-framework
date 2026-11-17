@@ -53,7 +53,7 @@ From here, you'll have a clear path to Staff Engineer on the Professional Track,
 
 - Mentor engineers across your team and beyond, working with your manager to find the right opportunities.
   Build their AI fluency and make sure junior engineers understand what they submit.
-- Set your team's conventions for using agents: what to delegate, what to review closely, and what stays off limits, such as resident data and production access.
+- Set your pod's conventions for using agents: what to delegate, what to review closely, and what stays off limits, such as resident data and production access.
 - Advocate for a blameless culture grounded in empathy, psychological safety, and shared accountability.
 - Help improve engineering processes, especially in ways that benefit teams beyond your own.
 - Contribute to hiring by conducting technical interviews and helping evaluate candidates, with a focus on a strong candidate experience.

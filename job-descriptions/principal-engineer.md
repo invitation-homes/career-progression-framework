@@ -54,6 +54,7 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 - Take ownership of decisions on hard trade-offs, subjective designs, and complex cross-functional challenges: make the call, get the organization aligned, and model how to move forward decisively.
 - Mentor Staff Engineers and senior engineers, investing deliberately in the depth, judgment, and reach of those who will carry the organization's technical future.
 - Plan the department's AI risk and capability needs with your Director counterparts, and advise on change control for agent-initiated changes.
+- Stay accountable for what ships, whoever or whatever wrote it: "the agent wrote it" is never an explanation.
 - Maintain a bias to action at the organizational level: identify risks early, intervene proactively, and drive resolution before issues become critical.
 - Shape how engineering hires: define what strong looks like for senior technical roles, interview for them, and help calibrate decisions across the department.
 

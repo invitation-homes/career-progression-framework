@@ -48,9 +48,9 @@ You partner across the company and with external stakeholders so technology stra
 
 - Hire, develop, and retain a high-performing, diverse organization of engineering leaders and pods of humans and agents.
   Hire for judgment, and keep the junior pipeline healthy even as agents absorb the small tasks that once trained engineers.
+  Coach AI fluency, watch for overreliance and deskilling, and never measure people by AI usage or output volume.
 - Coach and grow Sr. Directors, Directors, and senior engineering leaders, building the next generation of engineering executives.
 - Build a culture of accountability, collaboration, curiosity, automation, and continuous improvement that is felt at every level of the engineering organization.
-  Coach AI fluency, watch for overreliance and deskilling, and never measure people by AI usage or output volume.
 - Model low-ego leadership with a bias to action: decisive when needed, collaborative by default, and always focused on enabling others to succeed.
 - Champion diversity and inclusion as a foundation for team strength and organizational resilience.
 - Build and steward Invitation Homes' reputation as a technology organization: externally through community and industry engagement, and internally through the standards and culture you set.

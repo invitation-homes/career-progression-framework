@@ -27,7 +27,7 @@ From here, you'll have a clear path to Tech Fellow, the highest individual contr
 - Serve as a key technical voice in build, buy, and partner decisions, including those for artificial intelligence (AI) platforms and models, providing the depth and rigor that informs choices at the executive level.
 - Define the cross-organization architecture and operating model for how humans and AI agents build and run our systems, so autonomy grows only as fast as verification and guardrails allow.
 - Identify systemic technical risks, gaps, and opportunities not visible from within any single team or domain; drive durable solutions.
-- Raise the technical ceiling of the engineering organization by establishing standards, patterns, and practices (including automation, evals, and machine-readable standards) that people and agents both build on, and make them enforceable automatically rather than only documented.
+- Raise the technical ceiling of the engineering organization by establishing standards, patterns, and practices (including automation, evals (automated checks of AI behavior and output quality), and machine-readable standards) that people and agents both build on, and make them enforceable automatically rather than only documented.
 
 **Knowledge & Standards**
 

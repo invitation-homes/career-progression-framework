@@ -25,7 +25,7 @@ Your influence shapes not only how technology evolves at Invitation Homes, but h
 - Establish governance frameworks, standards, and reference architectures that drive consistency, quality, and strategic alignment across the entire organization, and that cover how AI agents are permitted to act on our systems and resident data.
 - Serve as one of the senior-most technical authorities in the company, advising the executive team on opportunities, risks, and emerging trends across the technology landscape.
 - Partner with Engineering, Product, Data, Security, Legal, and Business leaders to drive high-impact technology adoption that is secure, scalable, and aligned with company values.
-- Build reusable frameworks, reference implementations, and internal platforms (including automation tooling, evals, and the machine-readable standards agents consume) that raise the technical floor for teams across engineering.
+- Build reusable frameworks, reference implementations, and internal platforms (including automation tooling, evals (automated checks of AI behavior and output quality), and the machine-readable standards agents consume) that raise the technical floor for teams across engineering.
 
 **Knowledge & Standards**
 

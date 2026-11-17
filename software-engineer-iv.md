@@ -33,9 +33,9 @@ At this point, you're an active agent of change and improvement.
 - Balance current and future needs by understanding the bigger picture for your team and for others affected by your team's work.
 - Make sure your team understands the standard engineering practices and why they exist.
   Refer them to Decision Records, Quick Reference Guides (QRGs), etc.
-  - Keep that written context current and specific enough for agents to act on as well as humans.
-  Context that lives in people's heads starves both.
   - Understand when work has evolved and these decisions are no longer applicable, and update the documentation with new guidance.
+  - Keep that written context current and specific enough for agents to act on as well as humans.
+    Context that lives in people's heads starves both.
 - Share your knowledge in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), and other cross-team forums to improve the knowledge and skills of others across engineering.
 
 ## Communication

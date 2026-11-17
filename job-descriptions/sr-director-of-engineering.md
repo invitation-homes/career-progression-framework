@@ -58,7 +58,7 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 - Partner with the VP of Engineering to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.
 - Serve as a steady, decisive leader in complex situations: resolve organizational conflicts, work through ambiguity, and enable teams to move forward with clarity and confidence.
 - Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.
-- Champion automation as a department-wide priority: invest in the platforms, agent guardrails, and evals that keep manual toil from accumulating as engineering scales.
+- Champion automation as a department-wide priority: invest in the platforms, agent guardrails, and evals (automated checks of AI behavior and output quality) that keep manual toil from accumulating as engineering scales.
   Verification is the bottleneck, so fund it.
 
 ## What You Bring

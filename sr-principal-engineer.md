@@ -18,7 +18,7 @@ You tackle the most complex, highest-stakes technical challenges, set the standa
 - Serve as a key technical voice in build, buy, and partner decisions, including those for artificial intelligence (AI) platforms and models, providing depth and rigor that inform executive choices.
 - Define the cross-organization architecture and operating model for how humans and AI agents build and run our systems, so autonomy grows only as fast as verification and guardrails allow.
 - Stay technically active in the most selective way: engage directly with the hardest problems where it matters most; your depth is your credibility, and it lets you judge agent-assisted work in the places where a mistake costs the most.
-- Raise the technical ceiling of the entire engineering organization by establishing standards, patterns, and practices (including automation, evals, and machine-readable standards) that people and agents both build on, and make them enforceable automatically rather than only documented.
+- Raise the technical ceiling of the entire engineering organization by establishing standards, patterns, and practices (including automation, evals (automated checks of AI behavior and output quality), and machine-readable standards) that people and agents both build on, and make them enforceable automatically rather than only documented.
 
 ## Reach
 

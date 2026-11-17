@@ -53,5 +53,6 @@ You build strong relationships with stakeholders across departments, helping the
 - Make the call on hard trade-offs, subjective designs, and complex cross-functional efforts.
 - Establish and enforce governance around architectural decisions, making sure they are recorded, discoverable, and aligned with organizational standards and strategy.
 - Plan the department's AI risk and capability needs with your Director counterparts, and advise on change control for agent-initiated changes.
+- Stay accountable for what ships, whoever or whatever wrote it: "the agent wrote it" is never an explanation.
 - Maintain a bias to action at the department level: identify risks early, intervene proactively, and drive resolution before issues become critical.
 - Shape how engineering hires: define what strong looks like for senior technical roles, interview for them, and help calibrate decisions across the department.

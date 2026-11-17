@@ -20,7 +20,7 @@ The work is further from the code than ever; the leverage is too.
 
 Our systems touch residents in hundreds of thousands of homes: the app they use to pay rent, the portal for maintenance requests, the tools associates depend on every day.
 At this level, decisions about people, structure, technical direction, and how much autonomy agents get shape what those systems look like for years.
-When AI-assisted work touches resident data, payments, or homes, the stakes are residents' trust.
+When artificial intelligence (AI)-assisted work touches resident data, payments, or homes, the stake is residents' trust.
 When we get it right, people feel it.
 
 ("Residents" are the people who live in our homes; "associates" are our employees.)

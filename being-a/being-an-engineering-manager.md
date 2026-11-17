@@ -104,7 +104,7 @@ It also means knowing when to take the keyboard back.
 Watch for two failure modes.
 The first is overreliance: an engineer ships what they can't explain.
 The second is deskilling: the skills that make someone a good reviewer fade because agents do the typing.
-Expect SE I and SE II engineers to understand and explain everything they submit, and to use agents as tutors, not substitutes.
+Expect SE I and SE II to understand and explain everything they submit, and to use agents as tutors, not substitutes.
 
 Protect the junior pipeline.
 Agents now absorb many of the small tasks that used to teach new engineers.
@@ -256,4 +256,4 @@ Direct technical contribution is part of it, but so is everything else that does
 This will vary based on your pod's maturity and the type of work it does.
 
 From here, you'll have a clear path to [Director of Engineering](being-a-director-of-engineering) as your scope expands from a single pod to an operating group and the managers who run it.
-That means owning policy and risk posture for AI across the group, not just for one pod.
+You'll move from owning risk posture for AI in one pod to owning it across the operating group.
