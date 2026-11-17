@@ -30,12 +30,16 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Identify and manage organizational technical risk: systemic gaps, architectural drift, and capability shortfalls that span teams or threaten delivery.
 - Guide vendor relationships and system integrations so technology partnerships deliver high value and appropriate risk assurance.
 - Establish and maintain technical governance across your operating group: standards, decision frameworks, and accountability structures that outlast any individual initiative.
+  Make standards enforceable by automation and consumable by coding agents (rules files, skills, Model Context Protocol servers), not just documented.
+- Set your operating group's AI (artificial intelligence) risk posture: policy for agent permissions, resident data handling, auditability, and change control (CAB, Change Approval Board) for agent-initiated changes.
+- Own the evaluation strategy for AI-assisted work, so quality rests on outcomes and evals (automated checks of AI behavior and output quality), not on output volume.
 
 **Knowledge & Standards**
 
 - Maintain technical credibility across your operating group's technology landscape: enough depth to evaluate trade-offs, guide architectural decisions, and earn trust from your engineering leaders.
 - Apply principles of organizational design to structure teams effectively for growth, scalability, and sustained delivery.
-- Understand the financial dimensions of engineering: budget management, headcount planning, and aligning organizational spend with strategic priorities.
+- Understand the financial dimensions of engineering: budget management, headcount planning, and aligning organizational spend with strategic priorities, including AI spend such as tokens.
+- Understand how agents change delivery: verification, not typing, limits throughput, and the risks of autonomy grow with every workflow you delegate.
 - Develop a strong understanding of how engineering investments connect to business outcomes, resident experience, and competitive position.
 
 **Communication & Collaboration**
@@ -45,7 +49,8 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Build and maintain trust with leaders across Product, Design, Finance, Business Operations, and Vendor Management through consistent, well-reasoned communication.
 - Represent engineering's perspective in company-level conversations, helping the broader organization understand and value the work of your teams.
 - Speak up when you disagree, and once a decision is made, commit fully and create alignment behind it across your operating group.
-- Partner with Principal Engineers, your counterparts on the Professional Track, to set technical strategy and governance for your operating group.
+- Partner with Principal Engineers, your counterparts on the Professional Track, to set technical strategy and governance for your operating group, including platform direction for agents.
+- Own the outcome when AI-assisted work fails: "the agent wrote it" is never an explanation.
 
 **Leadership & Culture**
 
@@ -53,11 +58,13 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Build a generative, inclusive, high-performing culture, felt at every level of your organization, where individuals and teams have the autonomy and support to innovate and deliver.
 - Make organizational design decisions that set your teams up for growth, resilience, and high performance.
 - Maintain accountability across your organization for delivery, quality, culture, and the development of your leaders.
-- Champion automation and operational efficiency as organizational priorities: the teams that scale best are the ones that eliminate manual toil before it accumulates.
+- Champion automation and operational efficiency as organizational priorities: the pods that scale best eliminate manual toil before it accumulates, including by delegating to agents with verification built in.
 - Maintain a bias to action at the operating group level: anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
 - Serve as a steady decision-maker: bring the right voices into consequential decisions, make the call, and create alignment behind it.
 - Model strategic thinking, empathy, curiosity, and continuous improvement at every level of engagement.
 - Own talent strategy for your operating group: hiring plans, recruiting partnerships, and the pipeline of future Engineering Managers.
+  Hire for judgment, with AI tools allowed, and keep the junior pipeline healthy as agents absorb the small tasks that once trained new engineers.
+- Coach your Engineering Managers to run pods of humans and agents: build AI fluency, watch for deskilling and overreliance, and never measure people by AI usage or output volume.
 
 ## What You Bring
 
@@ -67,6 +74,7 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Demonstrated ability to partner with senior business, product, and design stakeholders to align technology and organizational strategy.
 - Clear, effective communication skills (written and verbal) with the ability to influence and build trust at the executive level.
 - Experience managing organizational budget, headcount, and vendor relationships in alignment with strategic goals.
+- Sound judgment about the risks and cost of AI-assisted delivery, and a record of setting policy that lets engineers use coding agents safely.
 - A builder's mindset: you measure your success by the health and growth of the people, teams, and engineering culture in your care.
 - Hands-on experience with cloud platforms, CI/CD practices, and modern iterative software delivery.
 - A degree in Computer Science, Computer Engineering, or equivalent practical experience.

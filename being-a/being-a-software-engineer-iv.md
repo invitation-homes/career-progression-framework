@@ -13,6 +13,8 @@ You are a technical leader and force multiplier.
 You're still a hands-on practitioner at heart, but your influence extends well beyond your own work.
 Your responsibilities span three broad areas: technical leadership and decision-making, delivery and quality, and people, influence, and team health.
 As a practitioner, you'll spend the majority of your time building and shipping solutions alongside your team, whether through code or platform configuration.
+Most of that work now runs through artificial intelligence (AI) coding agents.
+You direct them, and you read what they produce with a skeptical eye.
 A meaningful portion of your energy goes into the people and practices around you.
 
 Much like an Engineering Manager's, your impact is often indirect and non-obvious: quality decisions, mentorship, risk reduction, and the connective work that keeps teams running well.
@@ -20,7 +22,7 @@ Success here isn't measured by ticket output.
 It shows up in the quality of your team's decisions, the engineers who grow around you, and the systems that hold up in production.
 
 Our systems touch residents in hundreds of thousands of homes: the app they use to pay rent, the portal for maintenance requests, the tools associates depend on every day.
-Technical decisions at this level have real stakes.
+Technical decisions at this level have real stakes, and an agent can ship a mistake to those homes faster than any person could.
 When we get it right, people feel it.
 
 ("Residents" are the people who live in our homes; "associates" are our employees.)
@@ -54,12 +56,20 @@ You'll have significant autonomy.
 The expectation is that you use it well and own the results.
 Take responsibility for outcomes, not just the tasks assigned to you, and use those moments to create clarity for the team.
 
+You own a system or domain end to end, and that includes how agents work inside it.
+Decide which tasks agents take, where they run, what they can touch, and what context they need.
+Write that down as rules files, skills, and conventions your pod can use and improve.
+Code is cheap now; judgment is scarce.
+Your value shows up in framing the problem, specifying intent, and deciding what ships.
+
 ### Pod and Cross-Team Influence
 
 Within your pod, you are a technical anchor.
 Lead or coordinate solution design and architecture discussions, and partner closely with your EM.
 One mark of a strong technical leader is enabling *other* engineers to present solutions and own decisions, not being the sole technical voice in every room.
 Create space for junior engineers to stretch and own decisions, not just execute them.
+Agents now absorb many of the small tasks that once taught juniors the codebase.
+Create those learning opportunities on purpose.
 
 Across teams, show up in solution architecture discussions, Shared Interest Groups (SIGs), and cross-team reviews.
 Understand how your pod's changes ripple outward, and serve as a representative of your pod's technical reality when it matters.
@@ -71,17 +81,21 @@ Ambiguous ownership is a technical risk: step in to resolve it rather than letti
 ### Execution and Delivery
 
 You help make sure work is delivered predictably and correctly.
-That includes refining stories and acceptance criteria, participating in estimation and scope discussions, surfacing risks early and helping course-correct when needed, and unblocking delivery issues: failed deploys, unclear ownership, or coordination gaps.
+That includes writing specs and acceptance criteria clear enough for an agent to build from and a test to check, participating in estimation and scope discussions, surfacing risks early and helping course-correct when needed, and unblocking delivery issues: failed deploys, unclear ownership, or coordination gaps.
 The goal is to be the practitioner who makes the whole sprint go more smoothly, not just the one who closes the hardest tickets.
 Maintain momentum and a bias to action: ship working software rather than debate it.
-AI tools (coding assistants, admin copilots, and the rest) are part of the modern toolkit.
-Use them, and help your team develop good judgment about when and how they add value.
+Agents let one engineer deliver what a larger group delivered before, so expect more scope and more independence.
+They also move the bottleneck.
+Review capacity, not typing speed, now limits delivery, so favor smaller batches and stronger automated gates.
+If your pod can generate changes faster than it can verify them, slow generation down.
 
 ### Code and Quality Stewardship
 
 You own the quality bar for the pod.
 Set expectations for pull request (PR) quality, test coverage, and maintainability.
-Hold to them.
+Hold to them, for agent-written changes as much as human ones.
+The author owns every line, so "the agent wrote it" never explains a defect.
+Treat tests, and evals (automated checks of AI behavior and output quality) where AI is part of the product, as primary artifacts, because they steer agents and prove the work.
 Make sure issues are addressed before merge, and keep an eye on compounding technical debt: what looks like a small shortcut today often becomes a larger problem later.
 
 Your pod maintains a **KLO** (Keep the Lights On) backlog, the work that keeps the codebase healthy: addressing technical debt, improving developer experience, increasing automated test coverage, and reducing toil.
@@ -93,6 +107,8 @@ The target is roughly 10% of each sprint's capacity, and partnering with your EM
 ### Production Ownership
 
 Your accountability doesn't end at merge.
+Resident data, payments, and homes need extra care when AI-assisted work touches them.
+Set clear boundaries for what agents can read, change, or run, and watch for prompt injection and runaway token costs.
 Participate in on-call and production support rotations, and support on-call engineers even when you're not the primary on-call.
 We take on-call seriously: rotations are designed to be sustainable, and you help set the culture around how that responsibility is shared across the team.
 Maintain awareness of system health and operational risks, and bring production learnings back into design and planning.
@@ -109,6 +125,8 @@ The mentorship, communication, and culture you model are how that part of the vi
 
 Mentorship is a core responsibility at this level, not a side activity.
 Pair with junior engineers, guide their decision-making rather than just providing answers, and create opportunities for them to take ownership, with safety nets.
+Expect SE I through III to understand and explain everything they submit.
+Coach them to use agents as tutors, not substitutes, and to catch overreliance before it becomes a habit.
 Provide direct, specific feedback through PRs, pairing sessions, and one-on-one conversations.
 
 You'll know it's working when junior engineers grow in confidence and autonomy, the team requires less direct intervention over time, and your impact shows up in others' success.
@@ -124,8 +142,10 @@ Lead design discussions with clarity and inclusion: be able to explain what the 
 
 Encourage and model decision documentation.
 Help make sure architectural and system knowledge is written down and accessible, not locked in someone's head.
-Preventing knowledge silos pays long-term dividends for your pod's health.
-Every repository your pod owns should have a great README: one that tells a new team member what the system does, how to get it running, and where to look next.
+That context now serves people and agents alike.
+A knowledge silo starves both.
+Preventing silos pays long-term dividends for your pod's health.
+Every repository your pod owns should have a great README: one that tells a new team member (or an agent) what the system does, how to get it running, and where to look next.
 
 ### Working with Your EM and Product Counterparts
 

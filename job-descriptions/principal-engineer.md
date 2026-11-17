@@ -24,7 +24,8 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 - Stay technically active: contribute to architectural decisions, engage with the highest-stakes designs, and write code where it matters most; your credibility is grounded in doing the work.
 - Take responsibility for the hardest architectural decisions and complex cross-functional challenges: the ones without clear right answers.
 - Maintain broad visibility across projects and initiatives; identify high-risk scenarios early and intervene proactively before they become critical.
-- Evaluate vendor offerings and integration strategies to mitigate risk and align technology direction with business goals.
+- Evaluate vendor offerings (including artificial intelligence, or AI, tools and models) and integration strategies to mitigate risk and align technology direction with business goals.
+- Set the evaluation strategy and platform direction for agent-assisted engineering across the department: shared patterns, guardrails, and evals (automated checks of the behavior and output quality of AI tools) that make agent work trustworthy at scale.
 - Establish and enforce governance around architectural decisions: make sure they are recorded, discoverable, and aligned with organizational strategy.
 - Champion an engineering culture where teams build and evolve autonomously: identify gaps in processes, security posture, and architectural alignment, and address them with durable improvements (including automation) that span teams.
 
@@ -33,14 +34,14 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 - Demonstrate mastery across multiple technical domains, technologies, and architectural patterns.
 - Shape the strategic direction of the technical stack, tools, and engineering approach, balancing pragmatism today with long-term value.
 - Maintain an active presence in technical communities; bring back ideas and standards that keep the organization current and competitive.
-- Understand critical non-functional requirements (performance, scalability, reliability, security, and maintainability) and use them to guide teams toward resilient, long-lived systems.
+- Understand critical non-functional requirements (performance, scalability, reliability, security, and maintainability) and the risks agents add (prompt injection, agent permissions, resident data privacy, auditability, and token cost), and use them to guide teams toward resilient, long-lived systems.
 - Maintain a comprehensive, high-level understanding of the organization's technical landscape: serve as the go-to expert on how systems fit together, even across domains you don't own directly.
 
 **Communication & Collaboration**
 
 - Distill complex technical topics into clear, actionable communication that helps teams and leadership anticipate change and adapt with confidence.
 - Facilitate key forums (architecture guilds, executive reviews, cross-team design sessions) with clarity, confidence, and empathy.
-- Build and maintain an evergreen knowledge base of architectural patterns and reference implementations that promotes long-term technical clarity across the organization.
+- Build and maintain an evergreen knowledge base of architectural patterns and reference implementations, in forms both people and agents can consume, that promotes long-term technical clarity across the organization.
 - Establish shared language and frameworks that help teams consistently reason about and discuss technical problems.
 - Build strong relationships with stakeholders across departments: bridge the gap between engineering and the broader business.
 - Advocate strongly in department-wide technical decisions, then commit fully and help the organization align behind the outcome.
@@ -52,6 +53,7 @@ From here, you'll have a clear path to Sr. Principal Engineer, where you'll take
 - Raise the bar for the engineering organization through modeling, targeted mentorship, and a visible standard of technical excellence.
 - Take ownership of decisions on hard trade-offs, subjective designs, and complex cross-functional challenges: make the call, get the organization aligned, and model how to move forward decisively.
 - Mentor Staff Engineers and senior engineers, investing deliberately in the depth, judgment, and reach of those who will carry the organization's technical future.
+- Plan the department's AI risk and capability needs with your Director counterparts, and advise on change control for agent-initiated changes.
 - Maintain a bias to action at the organizational level: identify risks early, intervene proactively, and drive resolution before issues become critical.
 - Shape how engineering hires: define what strong looks like for senior technical roles, interview for them, and help calibrate decisions across the department.
 

@@ -12,7 +12,7 @@ When we ship, people feel it.
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
 This role maps to what many organizations call a mid-level Software Engineer: you've moved beyond close supervision and are ready to own meaningful work independently, while still learning and growing with support from the team.
-You'll spend nearly all of your time as a hands-on practitioner, with an increasing awareness of the people and practices around you.
+You'll spend nearly all of your time as a hands-on practitioner, directing AI (artificial intelligence) coding agents and verifying what they produce, with an increasing awareness of the people and practices around you.
 
 From here, you'll have a clear path to Software Engineer III, where you'll step into technical leadership and begin investing more deliberately in the engineers around you.
 
@@ -20,8 +20,10 @@ From here, you'll have a clear path to Software Engineer III, where you'll step 
 
 **Technical Leadership**
 
-- Write code, contribute to design, and ship; nearly all of your work is hands-on.
+- Contribute to design and ship; nearly all of your work is hands-on, with coding agents doing much of the drafting.
 - Work independently on well-scoped features, tasks, and bugs to help your team achieve its goals.
+- Write a short spec for each feature, with intent and acceptance criteria, then direct agents with it and own the result.
+- Verify your own work, and be ready to explain every line you submit.
 - Assist in planning and design phases by asking questions and suggesting improvements.
 - Improve the flow of work for your team: check in with teammates, review pull requests (PRs) promptly, and help keep things moving.
 - Share input on Decision Records, documentation, and processes that affect you and your team.
@@ -31,14 +33,16 @@ From here, you'll have a clear path to Software Engineer III, where you'll step 
 
 - Execute your work with growing comfort and confidence in your team's tools and technologies.
 - Approach unfamiliar problems with curiosity before defaulting to familiar solutions.
-- Understand how to test and validate your work thoroughly.
+- Understand how to test and validate your work thoroughly, including work an agent drafted.
+- Know what agents may and may not touch: keep resident data, credentials, and production access out of their reach.
+- Use agents to learn, and stay able to build and debug without them.
 - Understand our incident management and change management processes.
 - Protect data integrity and security by understanding how different environments (dev, QA, production) are used within your area.
 - Understand where your project fits in the broader business context.
 
 **Communication & Collaboration**
 
-- Review the work of other engineers using agreed-upon processes, such as pull request reviews.
+- Review the work of other engineers, and of agents, using agreed-upon processes, such as pull request reviews.
 - Give feedback that is clear, kind, and actionable.
 - Write and explain technical documentation in ways that are easy to understand.
 - Contribute to team discussions and encourage others to do the same.
@@ -48,7 +52,8 @@ From here, you'll have a clear path to Software Engineer III, where you'll step 
 **Leadership & Culture**
 
 - Be a model engineer for those who are newer to the role or looking up to you.
-- Take time to help others, especially more junior engineers.
+- Take time to help others, especially more junior engineers, including helping them use agents to learn.
+- Keep the written context agents rely on (rules files, conventions, runbooks) accurate.
 - Participate in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), and other engineering community forums, and encourage others to do the same.
 - Champion agreed-upon decisions and best practices, even when a different approach might feel tempting.
 - Maintain a bias to action: keep things moving, remove small blockers yourself where you can, and avoid letting work stall waiting on others.
@@ -57,6 +62,7 @@ From here, you'll have a clear path to Software Engineer III, where you'll step 
 
 - 2+ years of professional software development experience.
 - Demonstrated ability to work independently on well-scoped features from design through delivery.
+- Experience directing AI coding tools on real work, and the judgment to verify what they produce.
 - Solid understanding of software testing, validation, and debugging.
 - Familiarity with incident management, change management, and environment hygiene (dev, QA, production).
 - Clear, effective communication skills (written and verbal) with the ability to engage both technical and non-technical audiences.

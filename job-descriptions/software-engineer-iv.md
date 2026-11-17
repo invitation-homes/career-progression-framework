@@ -11,7 +11,7 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-We're looking for a Software Engineer IV who is a hands-on engineer at heart: writing code, making hard technical calls, and shipping.
+We're looking for a Software Engineer IV who is a hands-on engineer at heart: directing coding agents, reading their work skeptically, making hard technical calls, and shipping.
 You'll also help define what excellent looks like for the team.
 This role maps to what many organizations call a tech lead or lead engineer: the point where deep technical ownership and team leadership come together.
 You'll spend the majority of your time as a practitioner, with a meaningful portion invested in the people and practices around you.
@@ -22,7 +22,9 @@ From here, you'll have a clear path to Staff Engineer on the Professional Track,
 
 **Technical Leadership**
 
-- Remain a hands-on engineer: write code, contribute to design, and ship alongside your team.
+- Remain a hands-on engineer: direct coding agents, review their output as skeptically as a teammate's, contribute to design, and ship alongside your team.
+- Own a system or domain end to end, including its agent workflows, guardrails, and the context agents need to work in it.
+  You own what ships, whoever or whatever wrote it.
 - Architect solutions for your team's most ambiguous and challenging problems, drawing on deep domain expertise.
 - Shape the technical direction and vision for your team's systems.
 - Improve team efficiency by identifying pain points and resolving them through automation, less toil, and paying down tech debt.
@@ -35,6 +37,7 @@ From here, you'll have a clear path to Staff Engineer on the Professional Track,
 - Serve as an authority in your technical domain or on your team's systems.
 - Balance current delivery needs against longer-term implications, keeping the impact on other teams in mind.
 - Make sure your team understands engineering standards and why they exist; update guidance when those standards evolve.
+- Write specs, acceptance criteria, and tests clear enough to steer an agent or onboard a new teammate, plus evals (automated checks of the behavior and output quality of artificial intelligence, or AI, tools) where AI is part of the product.
 - Build a culture of writing things down: distributed knowledge and clear documentation are force multipliers for the whole team.
 - Share your expertise through Shared Interest Groups (SIGs) and other cross-team forums.
 
@@ -49,6 +52,8 @@ From here, you'll have a clear path to Staff Engineer on the Professional Track,
 **Leadership & Culture**
 
 - Mentor engineers across your team and beyond, working with your manager to find the right opportunities.
+  Build their AI fluency and make sure junior engineers understand what they submit.
+- Set your team's conventions for using agents: what to delegate, what to review closely, and what stays off limits, such as resident data and production access.
 - Advocate for a blameless culture grounded in empathy, psychological safety, and shared accountability.
 - Help improve engineering processes, especially in ways that benefit teams beyond your own.
 - Contribute to hiring by conducting technical interviews and helping evaluate candidates, with a focus on a strong candidate experience.
@@ -65,6 +70,7 @@ From here, you'll have a clear path to Staff Engineer on the Professional Track,
 - Strong communication skills (written and verbal) with the ability to engage both technical and non-technical audiences.
 - Experience collaborating across teams and working through technical disagreements constructively.
 - Hands-on experience with cloud platforms, CI/CD practices, and modern iterative software delivery.
+- Experience delivering with AI coding tools, with sound judgment about when to trust their output and how to verify it.
 - A degree in Computer Science, Computer Engineering, or equivalent practical experience.
 
 ## Our Stack

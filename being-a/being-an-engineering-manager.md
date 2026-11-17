@@ -16,7 +16,8 @@ You're operating inside a large company, which means some structure and process.
 But the goal is always the same: clear the path for your team to do great work.
 
 Our systems touch residents in hundreds of thousands of homes: the app they use to pay rent, the portal for maintenance requests, the tools associates depend on every day.
-The teams you build and lead build those systems.
+The pods you build and lead, humans and agents together, build those systems.
+Work done with artificial intelligence (AI) tools that touches resident data, payments, or homes needs extra care, and you set the standard for it.
 When we get it right, people feel it.
 
 ("Residents" are the people who live in our homes; "associates" are our employees.)
@@ -42,6 +43,8 @@ What stays constant: the goal of clearing the path for your team to do great wor
 Your pod is led by a triad: you, your Product Owner, and your Product Designer.
 Our pods are intentionally small (typically 7 to 10 people), in the spirit of the [two-pizza rule](https://aws.amazon.com/executive-insights/content/amazon-two-pizza-team/): small enough to stay nimble, aligned, and well-coordinated.
 As the Engineering Manager (EM), you'll typically have 2–4 full-time employees (FTEs) and 2–3 contractors as direct reports.
+Your pod also includes agents: AI tools that write code and run multi-step tasks.
+You don't manage them like people, but you own their outcomes, quality, and cost.
 Your FTE direct reports are on the full people management journey described in this document: one-on-ones, performance reviews, career development, the works.
 Your relationship with contractors is different: you direct their work, give feedback, and set them up to succeed, but formal performance management runs through their agency or vendor.
 You are responsible for building a strong working relationship with your counterparts and leading the pod together.
@@ -91,6 +94,26 @@ All of your work and interactions with the team should build our culture and dri
 We mean the "happy teams" part.
 Engineers who feel trusted and invested in do better work, stay longer, and build better things.
 
+### Coach AI Fluency
+
+Every engineer on your pod uses agents every day.
+Your job is to coach them to use agents well.
+That means writing clear specs, decomposing work, and reading output with a skeptical eye.
+It also means knowing when to take the keyboard back.
+
+Watch for two failure modes.
+The first is overreliance: an engineer ships what they can't explain.
+The second is deskilling: the skills that make someone a good reviewer fade because agents do the typing.
+Expect SE I and SE II engineers to understand and explain everything they submit, and to use agents as tutors, not substitutes.
+
+Protect the junior pipeline.
+Agents now absorb many of the small tasks that used to teach new engineers.
+Create learning opportunities on purpose: pair them with senior engineers, give them real scope, and ask them to explain the design.
+
+Do not measure people by AI usage or output volume.
+Volume says nothing about judgment.
+Judge outcomes, quality, and the decisions someone makes.
+
 ### Recognition and Feedback
 
 Recognition and feedback are two of the greatest gifts you can give as a manager.
@@ -126,6 +149,8 @@ You might be actively recruiting within your first few months, or it may be a ye
 Either way, familiarize yourself with the process before you need it, and reach out to your manager if you want a walkthrough.
 
 When you are hiring, lead end-to-end: own the pipeline, represent Invitation Homes well to every candidate, and deliver a great candidate and new hire experience.
+Assess judgment, not recall.
+Candidates may use AI tools, so look at how they frame problems, verify results, and decide what to ship.
 
 ### Metrics
 
@@ -135,6 +160,11 @@ The **Tableau Agile Metrics Reports** surface your agile delivery data: sprint v
 [**DX**](https://getdx.com) provides a complementary picture: quarterly developer experience surveys that capture how engineers feel about their work, alongside continuous engineering metrics covering deployment frequency, lead time, and change failure rate.
 Together, they tell you not just how fast your team is moving, but whether the conditions for sustainable, high-quality work are in place.
 Use them to understand what's working, where friction is building, and where to focus your attention.
+
+Watch cost and quality alongside speed.
+Tokens are a budget, so know what your pod's agents spend and what that spend buys.
+Watch review load and change failure rate too: when generation gets cheap, verification becomes the bottleneck.
+Never turn these into targets for individuals.
 
 ## Building Things
 
@@ -152,7 +182,18 @@ We want the teams building things to have a large hand in designing them.
 Your technical voice in that process matters.
 How directly you contribute will vary.
 A well-established team in execution mode calls for a different kind of hands-on involvement than a team you're just spinning up.
-AI coding assistants are increasingly making it easier for EMs to stay in the work even as management responsibilities grow; we encourage you to lean into them.
+Agents make it easier for EMs to stay in the work even as management responsibilities grow.
+Use them, and hold yourself to the same verification standard as everyone else.
+
+Code is cheap now; judgment is scarce.
+A working first draft costs little, so your pod's value lies in framing the problem, specifying intent, decomposing work, verifying results, and deciding what to ship.
+Specs, tests, and evals (automated checks of AI behavior and output quality) are the primary artifacts that steer agents.
+Expect smaller batches, stronger automated gates, and more review.
+You own what your pod ships, whoever or whatever wrote it.
+
+Set the guardrails with your pod.
+Agree on what agents may touch, what permissions they hold, and where a human must review before merge.
+Treat prompt injection, data privacy for resident data, and security as standing concerns.
 
 ### Documentation
 
@@ -162,6 +203,10 @@ Without them, context lives in people's heads, and leaves when they do.
 
 Every repository your pod owns should also have a great README: one that tells a new engineer what the system does, how to get it running, and where to look next.
 A great README pays off immediately in onboarding and long-term maintainability.
+
+Written context now serves humans and agents alike: Decision Records, runbooks, conventions, rules files, and skills (reusable instructions agents load).
+If it lives only in someone's head, agents can't use it either.
+Keep these artifacts current, and work with your Staff Engineers to turn standards into checks that run automatically.
 
 Treat documentation more broadly as a first-class citizen alongside source code: create Jira stories for documentation work, include documentation in your definition of done, and make sure your pod's Confluence space has up-to-date architectural diagrams and object model representations.
 Writing things down is how we avoid knowledge silos, one of the failure modes we work hardest to prevent.
@@ -175,6 +220,7 @@ It's a lightweight but valuable cross-team touchpoint.
 Familiarize yourself with our Change Management process in Confluence.
 You'll also receive daily emails summarizing recent deployments and upcoming changes over the next seven days.
 Read them, and flag anything that could affect your pod's systems or work.
+Agent-initiated changes go through the same change control as any other, with an audit trail of who approved what.
 
 ### Postmortems
 
@@ -210,3 +256,4 @@ Direct technical contribution is part of it, but so is everything else that does
 This will vary based on your pod's maturity and the type of work it does.
 
 From here, you'll have a clear path to [Director of Engineering](being-a-director-of-engineering) as your scope expands from a single pod to an operating group and the managers who run it.
+That means owning policy and risk posture for AI across the group, not just for one pod.

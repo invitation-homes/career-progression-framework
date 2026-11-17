@@ -11,14 +11,16 @@ Progression Document: [Director of Engineering](../director-of-engineering)
 
 You lead the leaders.
 Your direct reports are [Engineering Managers](being-an-engineering-manager) (EMs).
-The lever has shifted from writing code to building the organizational conditions (the structure, culture, and leadership capacity) that let multiple teams operate well at once.
+The lever has shifted from writing code to building the organizational conditions (the structure, culture, and leadership capacity) that let multiple pods operate well at once.
+Agents now write much of the code, so those conditions include the guardrails and habits that keep humans and agents working well together.
 
 The scope is an operating group, not a pod.
 Success shows up in the quality of your managers, the alignment between engineering and business strategy, and the health of the organization beneath you.
 The work is further from the code than ever; the leverage is too.
 
 Our systems touch residents in hundreds of thousands of homes: the app they use to pay rent, the portal for maintenance requests, the tools associates depend on every day.
-At this level, decisions about people, structure, and technical direction shape what those systems look like for years.
+At this level, decisions about people, structure, technical direction, and how much autonomy agents get shape what those systems look like for years.
+When AI-assisted work touches resident data, payments, or homes, the stakes are residents' trust.
 When we get it right, people feel it.
 
 ("Residents" are the people who live in our homes; "associates" are our employees.)
@@ -72,10 +74,23 @@ One-way decisions cannot.
 The board's most important work happens around the one-way doors, the choices that are hardest to undo and most worth getting right before the path closes.
 
 When a significant decision affects more than one team, document it as a Decision Record.
-Context that lives in people's heads leaves when they do.
+Context that lives in people's heads leaves when they do, and it never reaches the agents your pods rely on.
+Written context (Decision Records, runbooks, conventions, rules files, skills) now serves humans and agents alike.
 
 You also own the quality bar for your operating group.
 Your managers hold it day to day; your job is to make sure they know what good looks like and feel that standard in the culture you build around them.
+With agents, verification is the bottleneck: review capacity, not typing speed, limits what your pods can ship.
+Fund it, expect smaller batches and stronger automated gates, and push for evals (automated checks of AI behavior and output quality) that hold the bar without a human in every loop.
+Own the outcome too: "the agent wrote it" is never an explanation for an incident or a defect.
+
+### Risk Posture for Agents
+
+Autonomy brings risk, and risk posture is yours to set for the operating group.
+Define what agents may touch: permissions, access to resident data, exposure to prompt injection, and auditability of what they did.
+Agree with your Principal Engineers how change control (CAB, Change Approval Board) applies to agent-initiated changes.
+Treat tokens as a budget, and watch cost the way you watch headcount.
+Scale the care to the stakes: more for payments and resident data, less for an internal tool.
+Set the policy, then trust your managers to run within it.
 
 ### Alignment with the Business
 
@@ -101,6 +116,8 @@ It is built deliberately, through the managers you develop and the norms you mod
 
 Developing your [Engineering Managers](being-an-engineering-manager) is the work that shapes the organization's future.
 Coach them on the things that are hardest to learn alone: working through ambiguity, giving difficult feedback, building trust with their teams, and thinking beyond their own pods.
+Their pods are now humans plus agents.
+Help them build AI fluency, spot deskilling and overreliance, and judge engineers on outcomes and judgment, never on AI usage or output volume.
 Build the next generation of leaders who can step into larger roles as the organization scales.
 
 Skip-level conversations are essential at this level.
@@ -117,6 +134,9 @@ The way teams are shaped affects how they communicate, what they can own, and ho
 Make organizational design decisions with growth, resilience, and delivery in mind.
 
 Work with HR and recruiting to build diverse, capable pipelines.
+Hire for judgment, with AI tools allowed.
+Agents absorb the small tasks that once trained junior engineers, so keep the junior pipeline healthy on purpose.
+Ask each EM how their pod creates learning opportunities.
 The best time to address an organizational gap is before you feel it.
 
 You own the budget for your operating group.
@@ -138,8 +158,11 @@ The weekly Senior Leadership meeting includes an operational review of each oper
 Come prepared to speak to the signals emerging from your teams: what the metrics show, what is behind them, and what you are doing about it.
 That visibility is how leadership stays calibrated and how you build trust at the table.
 
-AI coding assistants are changing what engineers can do and how fast.
-Stay close enough to the work to understand what your teams are adopting, set expectations around responsible use, and make sure the productivity gains are real and not just noise in the metrics.
+Coding agents are routine now, and every engineer uses them daily.
+Stay close enough to the work to understand how your pods use them, set expectations for responsible use, and check that the gains are real and not just noise in the metrics.
+Watch what the numbers reward.
+Volume of output is easy to inflate; quality, review load, and incident rates are harder to fake.
+Plan operating group capability the same way you plan headcount: which skills you need, which your managers have, and where agents change the answer.
 
 ### Bias to Action
 

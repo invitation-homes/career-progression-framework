@@ -27,11 +27,14 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 - Identify and address systemic risks, process gaps, and capability shortfalls before they constrain delivery or culture.
 - Represent engineering in cross-functional executive partnerships, making sure technology is understood, valued, and treated as a strategic enabler across the organization.
 - Own organizational design decisions that improve how engineering teams are structured, staffed, and operated at scale.
-- Own the engineering budget across the department, and advocate for investment in headcount, vendors, tooling, and technology platforms aligned with company strategy.
+- Make build, buy, and partner decisions on AI (artificial intelligence) across the department, and weigh them against cost, risk, and lock-in.
+- Own governance for AI in engineering: security, resident data privacy, prompt-injection and agent-permission boundaries, auditability, and change control (CAB, Change Approval Board) for agent-initiated changes.
+- Own the engineering budget across the department, including AI spend such as tokens, and advocate for investment in headcount, vendors, tooling, and technology platforms aligned with company strategy.
 
 **Knowledge & Standards**
 
 - Maintain deep technical credibility: understand architectural trade-offs, evaluate emerging technology trends, and apply them strategically against the specific context and constraints of Invitation Homes.
+- Understand how human-agent work changes organizational design: pod composition, review capacity, and the cost and risk of autonomy at scale.
 - Develop and apply expertise in organizational design, talent strategy, and team dynamics to build structures that scale effectively.
 - Understand the business deeply enough to translate company goals into engineering strategy, and engineering constraints into language executives can act on.
 - Stay connected to the external engineering community and industry trends to keep the organization competitive and informed.
@@ -43,22 +46,26 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 - Create alignment across leadership and engineering through transparent, consistent, and timely communication.
 - Champion a communication culture within engineering that cascades clarity from strategy to execution at every level.
 - Bring dissenting views into executive decisions when engineering's perspective calls for it, then commit fully and lead the department in carrying them out.
-- Partner with Sr. Principal Engineers, your counterparts on the Professional Track, so organizational decisions and technical strategy reinforce each other.
+- Partner with Sr. Principal Engineers, your counterparts on the Professional Track, so organizational decisions and technical strategy reinforce each other, including the operating model for AI across engineering.
+- Own the outcome when AI-assisted work fails: "the agent wrote it" is never an explanation.
 
 **Leadership & Culture**
 
 - Coach and develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across engineering.
 - Own the talent strategy for engineering: hiring, developing, and retaining high-performing leaders and teams at scale.
+  Hire for judgment, protect the junior pipeline as agents automate entry-level work, and never measure people by AI usage or output volume.
 - Set the cultural tone for engineering at the company level: model strategic thinking, accountability, empathy, curiosity, and continuous improvement.
 - Partner with the VP of Engineering to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.
 - Serve as a steady, decisive leader in complex situations: resolve organizational conflicts, work through ambiguity, and enable teams to move forward with clarity and confidence.
 - Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.
-- Champion automation as a department-wide priority: invest in the platforms and practices that keep manual toil from accumulating as engineering scales.
+- Champion automation as a department-wide priority: invest in the platforms, agent guardrails, and evals that keep manual toil from accumulating as engineering scales.
+  Verification is the bottleneck, so fund it.
 
 ## What You Bring
 
 - 12+ years of professional software development experience, including significant experience leading engineering organizations at the department level or above.
 - A demonstrated track record of setting technical strategy and organizational direction that delivers results at company scale.
+- A track record of setting governance and operating models for new technology, such as AI coding agents, that balance speed with risk.
 - Proven ability to partner with executives across engineering, product, finance, and business operations to align technology investments with company strategy.
 - A demonstrated track record of developing engineering directors and senior leaders, and growing a strong pipeline of technical and organizational leadership across a large organization.
 - Clear, effective communication skills (written and verbal) with the ability to operate as a trusted voice at the executive level.

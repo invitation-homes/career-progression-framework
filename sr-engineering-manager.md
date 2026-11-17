@@ -16,7 +16,8 @@ You are accountable for both what your organization delivers and how it grows.
 - Accelerate delivery of high-impact, cross-team initiatives.
 - Surface high-impact project opportunities and make sure risks and scope are well understood and managed.
 - Ground delivery and quality decisions in data, using metrics and team health signals to drive continuous improvement.
-- Champion automation and sustainable engineering practices across your teams: don't let manual toil accumulate unchecked.
+- Champion automation, including verified delegation to agents, and sustainable engineering practices across your teams: don't let manual toil accumulate unchecked.
+- Own outcomes, quality, and cost across pods of humans and agents, and set the expectation that review and verification scale with delivery.
 
 ## Reach
 
@@ -33,8 +34,9 @@ You engage with leadership in Product, Design, and Delivery to shape how initiat
 
 - Maintain a strong understanding of architecture, system design, and current technologies across your teams.
 - Understand areas of risk, trade-offs, scalability, and maintainability, and how they affect delivery and team health.
-- Develop awareness of how engineering investments connect to business outcomes, including resource planning and headcount decisions.
-- Build knowledge of organizational dynamics, team health indicators, and what it takes to develop effective engineering managers.
+- Develop awareness of how engineering investments connect to business outcomes, including resource planning, headcount decisions, and the token budgets agents consume.
+- Understand the risks that grow with agent autonomy (security, resident data, prompt injection, agent permissions, auditability) and how they apply across your pods.
+- Build knowledge of organizational dynamics, team health indicators, and what it takes to develop effective engineering managers, including managers who lead pods of humans and agents.
 
 ## Communication
 
@@ -48,8 +50,10 @@ You engage with leadership in Product, Design, and Delivery to shape how initiat
 
 - Build a healthy, collaborative, and high-performing culture across your organization.
 - Coach and develop engineering managers, helping them grow as leaders, make better decisions, and build healthier teams.
+- Coach managers to build AI fluency in their pods, watch for deskilling and overreliance, and keep the junior pipeline healthy across your organization.
 - Operate effectively through layers of leadership, giving managers ownership of outcomes while making sure their teams have the support and clarity they need.
 - Help set the bar for performance, accountability, and team ownership across your organization.
 - Hold managers accountable for their own growth, helping them recognize and address gaps in leadership, process, or team health.
-- Lead talent strategy for your organization: recruiting, retention, performance management, and building a strong leadership bench.
+- Lead talent strategy for your organization: recruiting (assessing judgment with AI tools allowed), retention, performance management, and building a strong leadership bench.
+- Hold managers to measuring people by outcomes and judgment, never by AI usage or output volume.
 - Maintain a bias to action across your organization: surface risks early, drive resolution proactively, and keep your managers and teams moving forward.

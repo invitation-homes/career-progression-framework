@@ -22,11 +22,12 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 **Technical Leadership**
 
 - Remain a hands-on engineer: write code, contribute to architectural decisions, and ship; your technical credibility is the foundation of your influence.
-- Embed with teams as a focused technical resource: accelerate delivery, address deep technical challenges, mentor engineers, and transition out once the team is unblocked and self-sufficient.
+- Embed with teams as a focused technical resource: accelerate delivery, address deep technical challenges, mentor engineers, spread effective agent practices, and transition out once the team is unblocked and self-sufficient.
 - Take ownership of the hardest technical decisions facing the teams you support; provide the clarity and decisiveness that enable teams to move forward.
-- Leave behind clear artifacts (documentation, diagrams, utilities, or design patterns) that continue to support the team after you move on.
+- Leave behind clear artifacts (documentation, diagrams, utilities, design patterns, rules files, or skills) that continue to support the team and its coding agents after you move on.
 - Identify patterns and shared needs across teams; proactively create tools, frameworks, automations, and guidance that solve common problems at scale.
-- Set and drive engineering standards that elevate code quality, reliability, and maintainability across your operating group.
+- Set and drive engineering standards that elevate code quality, reliability, and maintainability across your operating group, and make them enforceable automatically rather than only documented.
+- Build shared agent infrastructure for your operating group: guardrails, evals (automated checks of the behavior and output quality of artificial intelligence, or AI, tools), and context such as Model Context Protocol (MCP) servers.
 
 **Knowledge & Standards**
 
@@ -49,6 +50,7 @@ From here, you'll have a clear path to Principal Engineer, where your impact exp
 
 - Act as a multiplier for the engineering organization: raise the bar through mentorship, coaching, and influence across teams.
 - Facilitate cross-team learning: architecture guilds, postmortems, engineering summits, or regular knowledge-sharing sessions.
+- Protect the learning path for junior engineers as agents take on small tasks, and hold teams accountable for what they ship, whoever or whatever wrote it.
 - Own and improve engineering processes, standards, and tools that support a healthy and effective engineering organization.
 - Mentor engineers at multiple levels, helping them grow in technical depth and expand their reach.
 - Maintain a bias to action across the teams you support: keep work moving, surface and resolve blockers, and build momentum without creating dependency.
