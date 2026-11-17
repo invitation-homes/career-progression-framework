@@ -48,7 +48,7 @@ You lead through influence and expertise, not just authority.
 
 ## Leadership
 
-- Remain a hands-on engineer throughout, including reading and reviewing code with a skeptical eye; verification is the bottleneck, not typing.
+- Remain a hands-on engineer throughout, including reading and reviewing code with a skeptical eye; verification carries more weight than typing.
 - Model engineering excellence and act as a multiplier, raising the bar across your operating group through mentorship, coaching, and influence.
 - Model intellectual humility, curiosity, and high standards; the culture you carry shapes the culture of the teams you touch.
 - Keep the learning path open: when agents absorb the small tasks, help teams create deliberate ways for junior engineers to build real understanding.

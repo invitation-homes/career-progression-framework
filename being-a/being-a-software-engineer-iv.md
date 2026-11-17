@@ -59,7 +59,7 @@ Take responsibility for outcomes, not just the tasks assigned to you, and use th
 You own a system or domain end to end, and that includes how agents work inside it.
 Decide which tasks agents take, where they run, what they can touch, and what context they need.
 Write that down as rules files, skills, and conventions your pod can use and improve.
-Code is cheap now; judgment is scarce.
+Drafting code is cheaper now; judgment is scarce.
 Your value shows up in framing the problem, specifying intent, and deciding what ships.
 
 ### Pod and Cross-Team Influence
@@ -84,10 +84,10 @@ You help make sure work is delivered predictably and correctly.
 That includes writing specs and acceptance criteria clear enough for an agent to build from and a test to check, participating in estimation and scope discussions, surfacing risks early and helping course-correct when needed, and unblocking delivery issues: failed deploys, unclear ownership, or coordination gaps.
 The goal is to be the practitioner who makes the whole sprint go more smoothly, not just the one who closes the hardest tickets.
 Maintain momentum and a bias to action: ship working software rather than debate it.
-Agents raise how fast one engineer can deliver, not what an SE IV owns.
-Expect higher throughput and a higher bar for verification.
-They also move the bottleneck.
-Review capacity, not typing speed, now limits delivery, so favor smaller batches and stronger automated gates.
+Agents change how an SE IV works, not what an SE IV owns.
+Gains in delivery speed have been modest so far, so don't plan around a step change.
+They also shift weight toward review.
+Review capacity increasingly limits delivery, so favor smaller batches and stronger automated gates.
 If your pod can generate changes faster than it can verify them, slow generation down.
 
 ### Code and Quality Stewardship

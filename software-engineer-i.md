@@ -42,7 +42,7 @@ This role is a learning platform: a place to build the skills and knowledge you'
 - Ask for help early and often when running into issues.
 - Listen well and ask clarifying questions to clear up ambiguity.
 - Read over team pull requests (PRs) and ask questions or pair up to walk through them.
-  Reviewing is how you learn what good looks like, and review capacity is what limits how fast we ship.
+  Reviewing is how you learn what good looks like, and review capacity increasingly limits how much we ship.
 - Write clear PR descriptions in your own words and follow our PR guideline document.
   "The agent wrote it" is never an answer to a reviewer's question.
 - Contribute to documentation.

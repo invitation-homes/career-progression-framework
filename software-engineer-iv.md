@@ -56,7 +56,7 @@ At this point, you're an active agent of change and improvement.
 - Work with your manager to find mentoring opportunities that will allow you to help other engineers perform and grow, including building their judgment about when to trust agent output.
 - Delegate low-risk technical decisions and own high-risk technical decisions.
 - Set your pod's conventions for agent use: what to delegate, what to review closely, and what stays off limits (resident data, credentials, production access).
-  Keep review capacity, not typing speed, in view when you size work and batches.
+  Keep review capacity in view when you size work and batches.
 - Protect learning on your team.
   Make sure SE I through III can explain everything they submit, and create the small, real tasks that agents now absorb.
 - Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias to action: ship working software rather than debate it.

@@ -59,7 +59,7 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 - Serve as a steady, decisive leader in complex situations: resolve organizational conflicts, work through ambiguity, and enable teams to move forward with clarity and confidence.
 - Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.
 - Champion automation as a department-wide priority: invest in the platforms, agent guardrails, and evals (automated checks of AI behavior and output quality) that keep manual toil from accumulating as engineering scales.
-  Verification is the bottleneck, so fund it.
+  Verification carries more weight as agents do more of the drafting, so fund it.
 
 ## What You Bring
 

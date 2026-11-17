@@ -38,7 +38,7 @@ You partner closely with leadership across Product, Design, Business Operations,
 - Understand relationships and internal dynamics to align engineering initiatives with strategic priorities.
 - Maintain a strong understanding of business functions and their roles in driving outcomes.
 - Understand principles of organizational design to structure teams effectively for growth, scalability, and delivery.
-- Understand how agents change delivery: verification, not typing, limits throughput, and the risks of autonomy (prompt injection, over-broad permissions, unreviewed changes) grow with every workflow you delegate.
+- Understand how agents change delivery: verification increasingly limits throughput, and the risks of autonomy (prompt injection, over-broad permissions, unreviewed changes) grow with every workflow you delegate.
 - Understand the financial dimensions of engineering: budget management, headcount planning, and aligning organizational spend with strategic priorities.
 
 ## Communication

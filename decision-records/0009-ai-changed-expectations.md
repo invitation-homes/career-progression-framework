@@ -23,11 +23,14 @@ The framework treats AI as a change in what the work is, not as a separate skill
 The levels, Reach vocabulary, years of experience, and track equivalence (see [ADR-0004](0004-reach-vocabulary.md) and [ADR-0008](0008-track-equivalence.md)) do not change.
 The expectations inside each level do, guided by these hypotheses:
 
-1. **Code is cheap; judgment is scarce.** Framing problems, specifying intent, decomposing work, verifying results, and deciding what ships carry the value.
+1. **Drafting code is cheaper; judgment is scarce.** Framing problems, specifying intent, decomposing work, verifying results, and deciding what ships carry the value.
 2. **Accountability stays human.** You own what you ship, whoever or whatever wrote it.
 3. **Specs, tests, and evals are the primary artifacts.** Written context serves humans and agents alike, so the knowledge-silos anti-pattern now starves agents too.
-4. **Verification is the bottleneck.** Review capacity, not typing speed, limits delivery.
-5. **Speed rises; scope does not.** Agents raise throughput and the expected standard of verification at every level. What each level owns (ownership, ambiguity, influence, accountability) stays defined as it is today.
+4. **Verification carries more weight.** As generation gets cheaper, review capacity increasingly limits what ships.
+5. **Speed gains are modest; scope does not change.**
+   Research and our own numbers show only a modest increase in delivery speed so far, so the framework does not assume a step change in throughput.
+   What each level owns (ownership, ambiguity, influence, accountability) stays defined as it is today.
+   The change is where effort goes: more specifying and verifying, less typing.
 6. **Learning must be protected.** Junior engineers understand and can explain everything they submit; senior engineers create learning opportunities that automation has removed.
 7. **Senior individual contributor work becomes platform and guardrail work.** Standards must be machine-readable and automatically enforced.
 8. **Management shifts to human-agent work systems.** Managers own the outcomes, quality, and cost of pods that include agents, and they do not measure people by AI usage.
@@ -40,7 +43,7 @@ Their application shifts: Passionate about Automation now includes delegating to
 
 - Rewriting expectations in place keeps one framework instead of two parallel ones that drift apart.
 - Keeping levels, Reach, and experience minimums fixed isolates the question under discussion: what the work looks like, not how the ladder is shaped.
-  Treating AI as a speed change, not a scope change, avoids level inflation, where an engineer does next-level work at the same title and pay.
+  Treating AI as a change in how the work is done, not in how much or how big, avoids level inflation, where an engineer is expected to do next-level work at the same title and pay.
 - Naming accountability and verification explicitly guards against the failure modes of agent-assisted work: shipped code nobody understands and a junior pipeline that never learns.
 
 ## Consequences

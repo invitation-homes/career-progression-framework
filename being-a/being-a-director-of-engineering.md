@@ -79,7 +79,7 @@ Written context (Decision Records, runbooks, conventions, rules files, skills) n
 
 You also own the quality bar for your operating group.
 Your managers hold it day to day; your job is to make sure they know what good looks like and feel that standard in the culture you build around them.
-With agents, verification is the bottleneck: review capacity, not typing speed, limits what your pods can ship.
+With agents, verification carries more weight: review capacity increasingly limits what your pods can ship.
 Fund it, expect smaller batches and stronger automated gates, and push for evals (automated checks of AI behavior and output quality) that hold the bar without a human in every loop.
 Own the outcome too: "the agent wrote it" is never an explanation for an incident or a defect.
 

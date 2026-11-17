@@ -61,4 +61,4 @@ You build trust and alignment with senior leaders across Product, Design, Financ
 - Serve as a steady, decisive leader in complex situations, resolving organizational conflicts, working through ambiguity, and enabling teams to move forward with clarity and confidence.
 - Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.
 - Champion automation as a department-wide priority: invest in the platforms, agent guardrails, and evals (automated checks of AI behavior and output quality) that keep manual toil from accumulating as engineering scales.
-  Verification is the bottleneck, so fund it.
+  Verification carries more weight as agents do more of the drafting, so fund it.

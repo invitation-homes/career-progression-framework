@@ -35,7 +35,7 @@ What stays constant: the expectation that you care about your craft, keep learni
 ## Craft and Delivery
 
 The core of this job is building software: framing the problem, specifying what you want, verifying what comes back, shipping changes, and then doing it again.
-Code is cheap now.
+Drafting code is cheaper now.
 Judgment is not.
 
 Early on, your work is smaller and well-defined.
@@ -50,8 +50,8 @@ Understanding why the code works matters as much as getting it to work.
 
 As you grow into SE II and SE III, the scope expands.
 You take on larger features with less definition, contribute to design and estimation, and move toward owning implementations end-to-end.
-With agents doing the drafting, expect to move faster at every level.
-The scope of each level does not change, but the standard for verifying your work rises with your speed.
+With agents doing some of the drafting, the scope of each level does not change.
+What changes is where your effort goes: more on specifying and verifying, less on typing.
 At SE II, you write the spec and own verifying your own work.
 By SE III, you're not just executing work: you're leading it, decomposing it into small batches for people and agents, owning the design and the evals (automated checks of AI behavior and output quality), and driving it through to delivery.
 
@@ -60,7 +60,7 @@ Follow the conventions your team has agreed on.
 Write code that the next engineer (including future you) can understand and extend.
 Test your work.
 Review others' pull requests (PRs) carefully and promptly, and review agent-written changes the same way.
-Review capacity, not typing speed, limits how fast we ship, so keep your batches small.
+Review capacity increasingly limits how much we ship, so keep your batches small.
 Accountability stays human: "the agent wrote it" is never an explanation for a defect or an incident.
 A good solution delivered is worth more than a perfect solution in progress.
 

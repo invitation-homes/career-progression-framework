@@ -163,7 +163,7 @@ Use them to understand what's working, where friction is building, and where to 
 
 Watch cost and quality alongside speed.
 Tokens are a budget, so know what your pod's agents spend and what that spend buys.
-Watch review load and change failure rate too: when generation gets cheap, verification becomes the bottleneck.
+Watch review load and change failure rate too: as generation gets cheaper, verification carries more weight.
 Never turn these into targets for individuals.
 
 ## Building Things
@@ -185,7 +185,7 @@ A well-established team in execution mode calls for a different kind of hands-on
 Agents make it easier for EMs to stay in the work even as management responsibilities grow.
 Use them, and hold yourself to the same verification standard as everyone else.
 
-Code is cheap now; judgment is scarce.
+Drafting code is cheaper now; judgment is scarce.
 A working first draft costs little, so your pod's value lies in framing the problem, specifying intent, decomposing work, verifying results, and deciding what to ship.
 Specs, tests, and evals (automated checks of AI behavior and output quality) are the primary artifacts that steer agents.
 Expect smaller batches, stronger automated gates, and more review.

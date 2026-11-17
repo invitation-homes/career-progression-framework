@@ -39,7 +39,7 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Maintain technical credibility across your operating group's technology landscape: enough depth to evaluate trade-offs, guide architectural decisions, and earn trust from your engineering leaders.
 - Apply principles of organizational design to structure teams effectively for growth, scalability, and sustained delivery.
 - Understand the financial dimensions of engineering: budget management, headcount planning, and aligning organizational spend with strategic priorities, including AI spend such as tokens.
-- Understand how agents change delivery: verification, not typing, limits throughput, and the risks of autonomy grow with every workflow you delegate.
+- Understand how agents change delivery: verification increasingly limits throughput, and the risks of autonomy grow with every workflow you delegate.
 - Develop a strong understanding of how engineering investments connect to business outcomes, resident experience, and competitive position.
 
 **Communication & Collaboration**

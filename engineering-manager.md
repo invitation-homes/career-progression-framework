@@ -18,7 +18,7 @@ Think of yourself as a player-coach: equally invested in the technical work and 
 - Facilitate the team's execution by identifying and removing obstacles and by improving processes, collaboration, and prioritization.
 - Own the health of your team's systems: advocate for reliability, maintainability, and automation alongside delivery.
 - Run your pod as a system of humans and agents: own its outcomes, quality, and cost, and decide where agents take work and where humans stay in the loop.
-- Keep verification ahead of generation: review capacity, not typing speed, limits delivery, so push for smaller batches and stronger automated gates.
+- Keep verification ahead of generation: review capacity increasingly limits delivery, so push for smaller batches and stronger automated gates.
 - Evaluate technical risk, including the risks agents add (security, resident data, permissions, cost), and help your team make sound decisions even when the path forward isn't clear.
 
 ## Reach
