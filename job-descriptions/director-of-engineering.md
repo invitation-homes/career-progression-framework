@@ -17,7 +17,7 @@ You partner with senior leaders across Product, Design, and Business Operations 
 
 You've moved beyond developing individual managers to building the organizational structures, leadership practices, and culture that allow engineering to scale.
 Your leadership reach spans your operating group; your technical reach extends across the engineering department.
-You shape the architectural direction and technology strategy for your operating group and help set it for engineering as a whole.
+You set technical strategy for your operating group and help shape it for engineering as a whole.
 
 From here, you'll have a clear path to Sr. Director of Engineering as your strategic influence and organizational scope expand.
 

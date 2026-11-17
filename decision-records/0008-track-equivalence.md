@@ -23,15 +23,15 @@ The Management Track has one more level than the Professional Track above SE IV,
 
 These levels are equivalent grades:
 
-| Grade | Professional Track | Management Track |
-| --- | --- | --- |
-| A | Staff Engineer | Engineering Manager |
-| A+ | none | Sr. Engineering Manager |
-| B | Principal Engineer | Director of Engineering |
-| C | Sr. Principal Engineer | Sr. Director of Engineering |
-| D | Tech Fellow | VP of Engineering |
+| Professional Track | Management Track |
+| --- | --- |
+| Staff Engineer | Engineering Manager |
+| none | Sr. Engineering Manager |
+| Principal Engineer | Director of Engineering |
+| Sr. Principal Engineer | Sr. Director of Engineering |
+| Tech Fellow | VP of Engineering |
 
-Sr. Engineering Manager is a Management Track step between grades A and B.
+Sr. Engineering Manager is a Management Track step between Engineering Manager and Director of Engineering.
 It has no Professional Track equivalent.
 
 At each equivalent grade:

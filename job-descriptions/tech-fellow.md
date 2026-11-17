@@ -40,13 +40,14 @@ Your influence shapes not only how technology evolves at Invitation Homes, but h
 - Represent Invitation Homes externally through thought leadership, conference participation, community engagement, and industry relationships.
 - Set the standard for how technical vision, strategy, and governance are communicated across the organization.
 - Bring clarity to the most ambiguous and consequential technical decisions, making it easier for the whole organization to understand, align, and act.
-- Challenge the prevailing direction at any level when the evidence warrants it, then commit fully once a decision is made, and model that combination for the whole company.
+- Challenge the prevailing direction at any level when the evidence warrants it, then commit fully once a decision is made, and show the whole company how to do both.
 - Partner with the VP of Engineering, your counterpart on the Management Track, to shape the company's technical vision and investment priorities.
 
 **Leadership & Culture**
 
 - Model what it means to be a technical leader at the highest level: rigorous, humble, curious, externally connected, and deeply invested in the success of others.
 - Mentor and develop Sr. Principal and Principal Engineers, investing in the long-term growth of senior IC talent across the organization.
+- Help Invitation Homes attract and assess senior technical talent: interview for Principal and Sr. Principal roles, and use your industry reputation to bring strong engineers to the company.
 - Establish and steward the company's technical governance, making sure the most consequential decisions are grounded in sound principles, well-documented, and built to last.
 - Champion a culture of intellectual honesty, high standards, and shared ownership of outcomes: the foundation of engineering at its best.
 - Maintain a bias to action at the industry level: act early on consequential shifts, prototype and test new approaches before they are proven elsewhere, and position Invitation Homes to lead rather than follow.

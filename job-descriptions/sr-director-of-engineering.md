@@ -11,7 +11,7 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-This role sits at the intersection of engineering leadership and executive strategy, where your scope shifts from leading an operating group to leading across the engineering department and shaping engineering at the company level.
+Your scope shifts from leading an operating group to leading across the engineering department and shaping engineering at the company level.
 You set strategic direction for the engineering organization and tie technology and organizational decisions closely to long-term business outcomes.
 You're also a senior executive partner to the VP of Engineering.
 Your focus is on designing the structures, people strategies, and technology investments that allow engineering to scale and thrive, not just today but for years to come.
@@ -27,7 +27,7 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 - Identify and address systemic risks, process gaps, and capability shortfalls before they constrain delivery or culture.
 - Represent engineering in cross-functional executive partnerships, making sure technology is understood, valued, and treated as a strategic enabler across the organization.
 - Own organizational design decisions that improve how engineering teams are structured, staffed, and operated at scale.
-- Own the engineering budget across the department, and advocate for investment in headcount, vendors, tooling, and technology platforms in alignment with company strategy.
+- Own the engineering budget across the department, and advocate for investment in headcount, vendors, tooling, and technology platforms aligned with company strategy.
 
 **Knowledge & Standards**
 
@@ -47,7 +47,7 @@ From here, you'll have a clear path to VP of Engineering as your executive influ
 
 **Leadership & Culture**
 
-- Coach and develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across the company.
+- Coach and develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across engineering.
 - Own the talent strategy for engineering: hiring, developing, and retaining high-performing leaders and teams at scale.
 - Set the cultural tone for engineering at the company level: model strategic thinking, accountability, empathy, curiosity, and continuous improvement.
 - Partner with the VP of Engineering to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.

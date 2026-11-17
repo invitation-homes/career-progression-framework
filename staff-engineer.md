@@ -14,7 +14,7 @@ You shape architectural direction and mentor others, helping teams deliver scala
   Transition out once the team is unblocked and self-sufficient.
 - Leave behind clear, valuable artifacts such as documentation, diagrams, utilities, or design patterns that continue to support the team after you've moved on.
 - Identify patterns and common needs across multiple teams, and proactively create scalable tools, frameworks, automations, or guidance that help solve shared problems efficiently.
-- Set and drive engineering standards that elevate code quality, reliability, and maintainability across systems.
+- Set and drive engineering standards that elevate code quality, reliability, and maintainability across your operating group.
 
 ## Reach
 
@@ -43,8 +43,8 @@ You lead through influence and expertise, not just authority.
 
 ## Leadership
 
-- Remain a hands-on engineer throughout; your reach extends across your operating group, not a single team.
-- Model engineering excellence and act as a multiplier, raising the bar for the entire engineering organization through mentorship, coaching, and influence.
+- Remain a hands-on engineer throughout.
+- Model engineering excellence and act as a multiplier, raising the bar across your operating group through mentorship, coaching, and influence.
 - Model intellectual humility, curiosity, and high standards; the culture you carry shapes the culture of the teams you touch.
 - Facilitate learning across teams through initiatives such as architecture guilds, postmortems, or engineering summits.
 - Own and improve engineering processes, standards, and tools that support a healthy, inclusive, and effective engineering culture.
