@@ -84,7 +84,8 @@ You help make sure work is delivered predictably and correctly.
 That includes writing specs and acceptance criteria clear enough for an agent to build from and a test to check, participating in estimation and scope discussions, surfacing risks early and helping course-correct when needed, and unblocking delivery issues: failed deploys, unclear ownership, or coordination gaps.
 The goal is to be the practitioner who makes the whole sprint go more smoothly, not just the one who closes the hardest tickets.
 Maintain momentum and a bias to action: ship working software rather than debate it.
-Agents let one engineer deliver what a larger group delivered before, so expect more scope and more independence.
+Agents raise how fast one engineer can deliver, not what an SE IV owns.
+Expect higher throughput and a higher bar for verification.
 They also move the bottleneck.
 Review capacity, not typing speed, now limits delivery, so favor smaller batches and stronger automated gates.
 If your pod can generate changes faster than it can verify them, slow generation down.

@@ -7,7 +7,7 @@ title: Software Engineer II
 
 As a Software Engineer II, you have the foundational knowledge and skills of your craft, and the confidence to take on more responsibility and independent work.
 You seek out opportunities to broaden and deepen both your technical and non-technical skills to fill the gaps in your knowledge.
-You'll direct AI (artificial intelligence) coding agents on well-defined features, and you'll take on the scope that an SE III once carried.
+You'll direct AI (artificial intelligence) coding agents on well-defined features, and you'll be expected to deliver them faster and to a higher standard of verification.
 You'll take part in larger scopes of work in well-defined projects to contribute value to your team.
 You'll still need some support and supervision from others on the team.
 
