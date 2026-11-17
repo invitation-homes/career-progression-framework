@@ -14,6 +14,7 @@ Engineers who are supported, growing, and proud of what they ship build great so
 This role represents a meaningful shift on the Management Track: from leading a single engineering team to leading an organization of teams through a layer of engineering managers.
 You are accountable not just for what your teams deliver, but for how your managers lead.
 You translate company and department strategy into clear direction for your organization, and you build the leadership capability and operational health that make sustained high performance possible.
+Your pods are humans and agents (artificial intelligence, or AI, tools that write code and run multi-step tasks), and you own the outcomes, quality, and cost of that whole system.
 
 Your focus moves from the growth of individual engineers to the growth of the managers who grow those engineers.
 Your leadership reach spans your organization of teams; your technical reach extends across your operating group.
@@ -29,7 +30,8 @@ From here, you'll have a clear path to Director of Engineering as your organizat
 - Identify systemic technical risks, gaps, and dependencies across your organization, and drive resolution before they constrain delivery or culture.
 - Partner with Staff and Principal Engineers to keep your teams aligned on technical direction and building toward long-term health.
 - Set the standard for technical decision-making across your organization (governance, documentation, and accountability), modeled through your managers.
-- Champion automation and sustainable engineering practices across your teams: don't let manual toil accumulate unchecked.
+- Champion automation, including verified delegation to agents, and sustainable engineering practices across your teams: don't let manual toil accumulate unchecked.
+- Watch the risks that grow with agent autonomy (security, resident data, agent permissions, auditability, and cost) and make sure your managers handle them well.
 
 **Knowledge & Standards**
 
@@ -49,10 +51,12 @@ From here, you'll have a clear path to Director of Engineering as your organizat
 **Leadership & Culture**
 
 - Coach and develop your engineering managers: help them grow as leaders, make better decisions, and build healthier teams.
+- Coach managers to build AI fluency, watch for deskilling and overreliance, and keep the junior pipeline healthy.
 - Build a healthy, collaborative, and high-performing culture across your full organization, not just within individual teams.
 - Operate effectively through layers: hold your managers accountable for their teams' outcomes while making sure those teams have the clarity and support they need.
-- Lead talent strategy for your organization: recruiting, retention, performance management, and building a strong leadership bench.
-- Set the bar for accountability and team ownership, and help managers recognize and address gaps in leadership, process, or team health.
+- Lead talent strategy for your organization: recruiting (assessing judgment with AI tools allowed), retention, performance management, and building a strong leadership bench.
+- Set the bar for accountability and team ownership, including owning what agents produce, and help managers recognize and address gaps in leadership, process, or team health.
+- Hold managers to measuring people by outcomes and judgment, never by AI usage or output volume.
 - Maintain a bias to action across your organization: surface risks early, drive resolution proactively, and keep your managers and teams moving forward.
 - Model the leadership behaviors you want to see in your managers: strategic thinking, humility, curiosity, and a genuine investment in others.
 
@@ -61,6 +65,7 @@ From here, you'll have a clear path to Director of Engineering as your organizat
 - 9+ years of professional software development experience, including experience managing engineering teams.
 - A demonstrated track record of developing engineers and building high-performing teams.
 - Experience managing or developing engineering managers, or demonstrated readiness to lead through a layer of management.
+- Practical experience leading engineers who work with AI coding agents, with sound judgment about verification, risk, and cost.
 - Strong organizational instincts: you think across teams, not just within them, and understand how structure, culture, and process affect delivery.
 - Clear, effective communication skills (written and verbal) with the ability to influence and build trust at senior levels.
 - A genuine commitment to developing leaders: you find meaning in growing managers as much as in growing engineers.

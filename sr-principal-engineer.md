@@ -15,9 +15,10 @@ You tackle the most complex, highest-stakes technical challenges, set the standa
 - Define and drive the company-wide technical vision, and align our architecture and technology investments with long-term business strategy.
 - Take ownership of the most complex, ambiguous, and high-consequence technical problems: those that span teams, systems, and organizational boundaries.
 - Identify systemic technical risks, gaps, and opportunities that are not visible from within any single team or domain, and drive durable solutions.
-- Serve as a key technical voice in build, buy, and partner decisions, providing depth and rigor that inform executive choices.
-- Stay technically active in the most selective way: engage directly with the hardest problems where it matters most; your depth is your credibility.
-- Raise the technical ceiling of the entire engineering organization by establishing standards, patterns, and practices (including automation) that others build on.
+- Serve as a key technical voice in build, buy, and partner decisions, including those for artificial intelligence (AI) platforms and models, providing depth and rigor that inform executive choices.
+- Define the cross-organization architecture and operating model for how humans and AI agents build and run our systems, so autonomy grows only as fast as verification and guardrails allow.
+- Stay technically active in the most selective way: engage directly with the hardest problems where it matters most; your depth is your credibility, and it lets you judge agent-assisted work in the places where a mistake costs the most.
+- Raise the technical ceiling of the entire engineering organization by establishing standards, patterns, and practices (including automation, evals (automated checks of AI behavior and output quality), and machine-readable standards) that people and agents both build on, and make them enforceable automatically rather than only documented.
 
 ## Reach
 
@@ -30,7 +31,7 @@ You lead through expertise and relationships, not authority.
 ## Knowledge
 
 - Possess mastery across multiple technical domains and architectural styles, with the ability to credibly engage at any level of depth across the stack.
-- Shape the company's long-term technology strategy by evaluating emerging trends, tools, and paradigms against the specific context and constraints of Invitation Homes.
+- Shape the company's long-term technology strategy by evaluating emerging trends, tools, and paradigms (including what AI agents do well and where they fail) against the specific context and constraints of Invitation Homes.
 - Maintain a deep enough understanding of the business to connect technical decisions directly to strategic outcomes, and translate constraints in both directions.
 - Actively engage with the external engineering community to keep the organization informed, competitive, and connected to industry direction.
 
@@ -38,7 +39,7 @@ You lead through expertise and relationships, not authority.
 
 - Advise and partner with executive leadership as a technical peer, communicating with the clarity, confidence, and strategic framing that decisions at that level require.
 - Distill the most complex technical challenges into language that is actionable for both engineering teams and non-technical leaders.
-- Set the standard for technical discourse across the company: how architectural decisions are made, documented, and communicated.
+- Set the standard for technical discourse across the company: how architectural decisions are made, documented, and communicated, in written form that engineers and agents can both act on.
 - Influence without authority: your ability to bring people along through reasoning, credibility, and empathy is your primary tool.
 - Disagree openly with engineering and executive leadership when the technical case calls for it, then commit fully once a decision is made and help others do the same.
 - Partner with Sr. Directors of Engineering, your counterparts on the Management Track, on company-level technical and organizational decisions.
@@ -46,8 +47,11 @@ You lead through expertise and relationships, not authority.
 ## Leadership
 
 - Mentor and develop engineers across the Professional Track, with a particular focus on Staff and Principal Engineers and the growth of the next generation of senior IC leaders.
+  Teach judgment, because agents now supply the drafts, and create deliberate opportunities for engineers to build depth.
 - Act as the cultural standard-bearer for technical excellence, modeling the rigor, humility, and curiosity that define great engineering at scale.
 - Own the most consequential architectural decisions, providing the clarity and conviction needed when the path forward is genuinely hard.
 - Govern the company's technical direction in partnership with engineering leadership, making sure decisions are coherent, well-reasoned, and built to last.
+- Hold the technical line on risk as autonomy grows: security, resident data privacy, agent permission boundaries, auditability, and cost.
+- Stay accountable for what ships, whoever or whatever wrote it.
 - Maintain a bias to action at the company level: anticipate systemic risks before they surface, intervene decisively, and keep long-term technical bets on track.
 - Help attract and assess senior technical talent: interview for Staff and Principal roles, and shape how the company evaluates technical leadership.

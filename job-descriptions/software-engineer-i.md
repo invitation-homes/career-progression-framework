@@ -12,7 +12,8 @@ When we ship, people feel it.
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
 This is where your engineering career begins: what many organizations call a junior or entry-level Software Engineer.
-You'll spend all of your time as a hands-on practitioner and learner, building skills and confidence working directly alongside your team.
+You'll spend all of your time as a hands-on practitioner and learner, building skills and confidence working directly alongside your team and AI (artificial intelligence) coding agents.
+You'll use those agents as a tutor, not a substitute.
 
 From here, you'll have a clear path to Software Engineer II, where you'll move beyond close supervision and take on meaningful work with increasing independence.
 
@@ -20,7 +21,9 @@ From here, you'll have a clear path to Software Engineer II, where you'll move b
 
 **Technical Leadership**
 
-- Write code, fix bugs, and ship well-defined tasks that contribute to your team's goals.
+- Fix bugs and ship well-defined tasks that contribute to your team's goals, with coding agents helping you draft and explore.
+- Understand and explain every line you submit, and write the tests that prove it works.
+  You own what you ship.
 - Work on small, well-scoped problems with known solutions, building confidence and consistency as you go.
 - Follow established patterns, conventions, and decisions; ask when you're unsure why they exist.
 - Participate actively in team rituals: standups, sprint planning, and retrospectives.
@@ -29,6 +32,8 @@ From here, you'll have a clear path to Software Engineer II, where you'll move b
 
 - Learn your team's core tools and technologies: what they are, why they're used, and how to use them effectively.
 - Be curious: treat every task and interaction as an opportunity to learn.
+- Use agents to explain code and concepts, then check what you learned against the code and your teammates.
+- Protect resident data: keep it and secrets out of prompts, and treat content you did not write as untrusted.
 - Follow recorded decisions and agreed-upon styles and conventions across your team's codebase.
 - Join the Technical Architecture Guild (TAG), Shared Interest Groups (SIGs), and other community forums as a learner to broaden your understanding of engineering at Invitation Homes.
 - Begin connecting your work to the broader goals of your team and product.
@@ -38,7 +43,8 @@ From here, you'll have a clear path to Software Engineer II, where you'll move b
 - Ask for help early and often; it's expected and encouraged at this level.
 - Listen well and ask clarifying questions to clear up ambiguity before diving in.
 - Read through your team's pull requests and use them as a learning opportunity; ask questions and pair up when you can.
-- Write clear pull request descriptions and follow your team's guidelines.
+- Review agent-written changes as skeptically as a teammate's.
+- Write clear pull request descriptions in your own words and follow your team's guidelines.
 - Actively seek out feedback from teammates and your manager, and use it to improve.
 - Speak up when you disagree or don't understand something, and once the team decides, commit to the decision fully.
 
@@ -52,6 +58,7 @@ From here, you'll have a clear path to Software Engineer II, where you'll move b
 
 - A recent graduate, bootcamp alum, or early-career engineer ready to begin your professional journey in software development.
 - Foundational programming knowledge in at least one language; you're actively building on it.
+- Experience using AI coding tools to learn, and the discipline to understand the code they produce.
 - A genuine eagerness to learn: you approach every task and interaction with curiosity and openness.
 - The ability to listen well, ask good questions, and engage openly with feedback.
 - A degree in Computer Science, Computer Engineering, or equivalent practical experience.

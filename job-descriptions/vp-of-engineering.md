@@ -21,15 +21,17 @@ You partner across the company and with external stakeholders so technology stra
 **Technical Leadership**
 
 - Own the technical vision for the organization: define how engineering investments translate into product and business outcomes for residents, associates, and investors.
+- Set the enterprise strategy for artificial intelligence (AI) in engineering, and stay accountable for its outcomes, risk, and cost.
 - Make or directly inform the highest-stakes build, buy, and partner decisions so the company develops and maintains the right technology capabilities.
-- Set the standard for engineering execution across the full organization: quality, delivery, operational excellence, and automation as a first-class discipline.
-- Drive accountability for engineering outcomes at the executive level, including delivery, budget, and organizational design.
+- Set the standard for engineering execution across the full organization: quality, delivery, operational excellence, and automation (including delegation to agents, with verification) as a first-class discipline.
+- Drive accountability for engineering outcomes at the executive level, including delivery, budget (with tokens treated as a budget line), and organizational design.
+- Set the risk posture for autonomous work: security, resident data privacy, agent permission boundaries, auditability, and change control for agent-initiated changes.
 - Select and negotiate with strategic vendors so technology partnerships deliver high business value and appropriate risk assurance.
 
 **Knowledge & Standards**
 
 - Maintain the technical depth to engage credibly in architecture, code quality, and design decisions, and to know when to lead and when to step back.
-- Stay ahead of emerging trends across cloud architecture, security, and the technology landscape, and apply them strategically to keep the organization competitive.
+- Stay ahead of emerging trends across AI and its changing economics, cloud architecture, security, and the technology landscape, and apply them strategically to keep the organization competitive.
 - Understand the financial dimensions of engineering at the company level: forecasting, resource planning, and managing a budget in alignment with business outcomes.
 - Develop a broad command of the vendor and partner landscape: the trade-offs between building, buying, and partnering at scale.
 
@@ -44,7 +46,9 @@ You partner across the company and with external stakeholders so technology stra
 
 **Leadership & Culture**
 
-- Hire, develop, and retain a high-performing, diverse organization of engineering leaders and teams.
+- Hire, develop, and retain a high-performing, diverse organization of engineering leaders and pods of humans and agents.
+  Hire for judgment, and keep the junior pipeline healthy even as agents absorb the small tasks that once trained engineers.
+  Coach AI fluency, watch for overreliance and deskilling, and never measure people by AI usage or output volume.
 - Coach and grow Sr. Directors, Directors, and senior engineering leaders, building the next generation of engineering executives.
 - Build a culture of accountability, collaboration, curiosity, automation, and continuous improvement that is felt at every level of the engineering organization.
 - Model low-ego leadership with a bias to action: decisive when needed, collaborative by default, and always focused on enabling others to succeed.
@@ -59,7 +63,7 @@ You partner across the company and with external stakeholders so technology stra
 - A demonstrated track record of developing senior engineering leaders and building a high-performing, diverse organization.
 - Clear, effective communication skills (written and verbal) with the ability to represent engineering credibly at the executive level and externally in the industry.
 - An owner's orientation: you hold yourself accountable for engineering's outcomes, culture, and reputation as a company-wide capability.
-- Hands-on experience with cloud platforms, CI/CD practices, and modern iterative software delivery.
+- Hands-on experience with cloud platforms, CI/CD practices, and modern iterative software delivery, and a clear view of how AI coding agents change both.
 - A degree in Computer Science, Computer Engineering, or equivalent practical experience.
 
 ## Our Stack
