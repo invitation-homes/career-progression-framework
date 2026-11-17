@@ -16,7 +16,7 @@ You shape architectural direction and mentor others, helping teams deliver scala
 - Leave behind clear, valuable artifacts such as documentation, diagrams, utilities, design patterns, rules files, or skills that continue to support the team (and its coding agents) after you've moved on.
 - Identify patterns and common needs across multiple teams, and proactively create scalable tools, frameworks, automations, or guidance that help solve shared problems efficiently.
 - Set and drive engineering standards that elevate code quality, reliability, and maintainability across your operating group.
-  Make them enforceable automatically (through linters, tests, evals, and pipeline gates), not just documented, so they bind agents and humans alike.
+  Make them enforceable automatically (through linters, tests, automated evaluations, and pipeline gates), not just documented, so they bind agents and humans alike.
 - Build shared agent infrastructure for your operating group: guardrails, evaluations (evals, automated checks of the behavior and output quality of artificial intelligence, or AI, tools), and the context agents need, such as Model Context Protocol (MCP) servers.
 
 ## Reach
