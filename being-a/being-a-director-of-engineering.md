@@ -3,10 +3,14 @@ id: being-a-director-of-engineering
 title: Being a Director of Engineering at IH
 ---
 
-[Job Description](../job-descriptions/director-of-engineering) · [Progression Document](../director-of-engineering)
+Being… [a Software Engineer (SE I–III)](being-an-engineer) · [a Software Engineer IV / Salesforce Platform Manager](being-a-software-engineer-iv) · [an Engineering Manager](being-an-engineering-manager) · **a Director of Engineering**
+
+Job Description: [Director of Engineering](../job-descriptions/director-of-engineering)
+
+Progression Document: [Director of Engineering](../director-of-engineering)
 
 You lead the leaders.
-Your direct reports are [Engineering Managers](being-an-engineering-manager).
+Your direct reports are [Engineering Managers](being-an-engineering-manager) (EMs).
 The lever has shifted from writing code to building the organizational conditions (the structure, culture, and leadership capacity) that let multiple teams operate well at once.
 
 The scope is an operating group, not a pod.
@@ -33,7 +37,8 @@ What stays constant: the expectation that you hold the long view on both people 
 ### Operating Group Leadership
 
 Your operating group is led by a quad: you, your Product leader, your Design leader, and your Project Manager.
-Together, this group is the Strategy Tier, responsible for the 1–2 year outlook for the operating group: where it is going, what it will take to get there, and whether the organization is built to deliver it.
+Together, this group is the Strategy Tier.
+It's responsible for the 1–2 year outlook for the operating group: where it is going, what it will take to get there, and whether the organization is built to deliver it.
 Unlike at the pod level, where project management is often shared between the EM and Product Owner, the operating group has a dedicated Project Manager whose focus is coordinating delivery across pods, managing timelines and dependencies, and keeping cross-pod initiatives on track.
 
 Each role has a distinct focus:
@@ -54,8 +59,8 @@ You own the technical direction for your operating group.
 That means shaping architectural strategy, maintaining consistency of technical decisions across teams, and making sure what engineering builds today does not create expensive problems tomorrow.
 
 Your technical credibility matters here.
-Not because you are reviewing every PR, but because you need enough depth to evaluate trade-offs, earn the trust of your engineering leaders, and ask the right questions in architectural discussions.
-Participate in Solution Architecture sessions, guide the curation of decision records, and make sure your teams' technical choices align with the broader architectural direction.
+Not because you are reviewing every pull request, but because you need enough depth to evaluate trade-offs, earn the trust of your engineering leaders, and ask the right questions in architectural discussions.
+Participate in Solution Architecture sessions, curate Decision Records, and make sure your teams' technical choices align with the broader architectural direction.
 
 You serve on the Architecture Advisory Board, the group that engages early on work that is particularly novel, complex, or cross-team.
 When a team is doing something for the first time, adopting a new technology, or building something that spans multiple systems, they bring it to the board before decisions solidify.
@@ -82,24 +87,25 @@ Drive your EMs to surface unknowns early and turn them into knowns before they b
 Be a voice at the leadership table: able to present and discuss your work at all levels, including with executives.
 
 Own the technology goals for your operating group.
-Set them clearly enough that your EMs can drive toward them, and hold the operating group accountable to results at the end of the year.
+Set them clearly enough that your EMs can drive toward them, and hold the operating group accountable for results at the end of the year.
 
 ## People and Organization
 
 Our vision is to *delight our residents and associates with innovative solutions built by happy teams*.
 At the Director level, you carry more responsibility for the "happy teams" part than anyone else in the organization.
-You are expected to live our [engineering principles](../engineering-principles) and build a culture where they are felt across your operating group, not just declared.
-Culture at scale does not emerge on its own. It is built deliberately, through the managers you develop and the norms you model.
+Live our [engineering principles](../engineering-principles) and build a culture where they are felt across your operating group, not just declared.
+Culture at scale does not emerge on its own.
+It is built deliberately, through the managers you develop and the norms you model.
 
 ### Building the Leadership Bench
 
 Developing your [Engineering Managers](being-an-engineering-manager) is the work that shapes the organization's future.
-Coach them on the things that are hardest to learn alone: navigating ambiguity, giving difficult feedback, building trust with their teams, and thinking beyond their own pods.
+Coach them on the things that are hardest to learn alone: working through ambiguity, giving difficult feedback, building trust with their teams, and thinking beyond their own pods.
 Build the next generation of leaders who can step into larger roles as the organization scales.
 
 Skip-level conversations are essential at this level.
 They are your signal on what your managers' teams are actually experiencing, not just what surfaces in weekly updates.
-Use them to stay close to what the work is actually like.
+Use them to stay close to what the work is like day to day.
 
 ### Organizational Design and Staffing
 
@@ -125,7 +131,8 @@ Watch for divergence in solution choices, technical direction, and engineering p
 When you find it, create the conversations that produce alignment.
 
 Use the Tableau Agile Metrics Reports for delivery signals and the [DX](https://getdx.com) platform for the complementary picture: how engineers feel about their work and how the organization's DORA metrics are trending.
-The goal is not to manage by numbers. It is to understand what they are telling you and act before small problems compound.
+The goal is not to manage by numbers.
+It is to understand what they are telling you and act before small problems compound.
 
 The weekly Senior Leadership meeting includes an operational review of each operating group.
 Come prepared to speak to the signals emerging from your teams: what the metrics show, what is behind them, and what you are doing about it.
@@ -138,7 +145,8 @@ Stay close enough to the work to understand what your teams are adopting, set ex
 
 Keep the organization moving.
 Anticipate risks before they surface, make the call when clarity is needed, and resolve ambiguity quickly.
-Confusion at your level multiplies downward. The faster you create clarity, the more momentum you preserve across the organization.
+Confusion at your level multiplies downward.
+The faster you create clarity, the more momentum you preserve across the organization.
 
 ## Communication and Influence
 
@@ -155,4 +163,4 @@ Your voice matters at this level, and holding back a concern can affect the whol
 Once a decision is made, commit fully and create alignment behind it.
 That combination of honest advocacy and full commitment is how organizations operate with integrity and speed.
 
-From here, you'll have a clear path to Sr. Director of Engineering as your strategic influence and organizational scope grow.
+From here, you'll have a clear path to [Sr. Director of Engineering](../sr-director-of-engineering) as your strategic influence and organizational scope grow.

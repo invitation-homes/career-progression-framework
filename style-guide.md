@@ -12,7 +12,7 @@ Where the two overlap, ADRs govern structure; this guide governs everything else
 ## Voice and Tone
 
 Write directly to the person holding the role, in second person.
-"You lead the leaders" — not "The Director of Engineering is responsible for leading."
+"You lead the leaders," not "The Director of Engineering is responsible for leading."
 Contractions are welcome.
 The writing should feel like a smart colleague explaining the job, not a policy document.
 
@@ -30,13 +30,14 @@ It does not patronize junior roles or over-formalize senior ones.
 
 The being-a pages follow a consistent shape:
 
-1. A short, declarative opener naming the essence of the role
-2. The "Our systems touch residents in hundreds of thousands of homes" paragraph, grounding the work in real impact
-3. The residents/associates footnote: `("Residents" are the people who live in our homes; "associates" are our employees.)`
-4. A blockquoted external attribution from a relevant author
-5. A "No two X will look the same" paragraph acknowledging the range of the role and naming what stays constant
-6. Thematic sections (H2) with subsections (H3)
-7. A "From here" closing paragraph linking to the next level
+1. A series nav line listing every being-a page in ladder order, with the current page in bold and unlinked, followed by `Job Description` and `Progression Document` link lines
+2. A short, declarative opener naming the essence of the role
+3. The "Our systems touch residents in hundreds of thousands of homes" paragraph, grounding the work in real impact
+4. The residents/associates footnote: `("Residents" are the people who live in our homes; "associates" are our employees.)`
+5. A blockquoted external attribution from a relevant author
+6. A "No two X will look the same" paragraph acknowledging the range of the role and naming what stays constant
+7. Thematic sections (H2) with subsections (H3)
+8. A "From here" closing paragraph linking to the next level
 
 Narrative context always comes before lists and structure.
 The reader should understand the *feel* of the role before its formal shape.
@@ -44,7 +45,7 @@ The reader should understand the *feel* of the role before its formal shape.
 ### Progression documents
 
 Five sections in order: **Impact**, **Reach**, **Knowledge**, **Communication**, **Leadership**.
-See [ADR-0004](decision-records/0004-reach-vocabulary) for Reach vocabulary and the IC vs. management track distinctions.
+See [ADR-0004](decision-records/0004-reach-vocabulary) for Reach vocabulary and the Professional vs. Management Track distinctions.
 
 ### Job descriptions
 
@@ -66,7 +67,7 @@ Never run three long sentences in a row without a short one to break them up.
 **Works:**
 > You lead the leaders.
 > Your direct reports are Engineering Managers.
-> The lever has shifted from writing code to building the organizational conditions — the structure, culture, and leadership capacity — that let multiple teams operate well at once.
+> The lever has shifted from writing code to building the organizational conditions (the structure, culture, and leadership capacity) that let multiple teams operate well at once.
 
 **Does not work:**
 > As a Director of Engineering, you are responsible for the strategic technical vision of your operating group, including the management of engineering managers, the alignment of technical decisions with business strategy, and the cultivation of a high-performance culture across multiple cross-functional teams.
@@ -105,7 +106,7 @@ Turn noun-heavy phrases back into verbs.
 ## Signature Moves
 
 These are patterns the framework uses well.
-Use them — but don't force them.
+Use them, but don't force them.
 
 **The declarative opener.**
 Every being-a page opens with a short, definitional sentence.
@@ -120,7 +121,8 @@ The paragraph ends with a level-specific sentence about stakes, then: "When we g
 Do not vary that final sentence.
 
 **The disagree-and-commit pair.**
-Speak up when you disagree — commit fully once a decision is made.
+Speak up when you disagree.
+Commit fully once a decision is made.
 This appears across all levels, scoped to each role.
 The closing line is always a variant of: "That combination of honest advocacy and full commitment is how [X] operate with integrity and speed."
 
@@ -156,7 +158,7 @@ If you cannot confirm a quote is accurate, find an alternative.
 | foster | Corporate warmth | "build," "create," "encourage" |
 | leverage (verb) | Jargon | "use," "draw on," "build on" |
 | navigate (metaphorical) | Overused | "work through," "handle," "manage" |
-| pivotal / crucial / critical | Inflation | Cut, or restate with specifics |
+| pivotal / crucial / critical | Inflation | Cut, or restate with specifics. "Critical" is fine when literal: a problem that becomes urgent, or a fixed term like "critical non-functional requirements." |
 | streamline | Jargon | Say what actually changes |
 | utilize | Bureaucratic | "use" |
 | robust | Vague positive | Say what specifically makes it strong |
@@ -170,7 +172,8 @@ If you cannot confirm a quote is accurate, find an alternative.
 ### Em-dashes
 
 Do not use em-dashes in prose.
-Use a colon, a period, or a semicolon instead — they force more precise thinking about the relationship between clauses.
+Use a colon, a period, or a semicolon instead.
+They force more precise thinking about the relationship between clauses.
 
 The one exception: attribution lines in blockquotes (`— Author Name, *Source*`).
 
@@ -194,7 +197,8 @@ Introducing synonyms creates noise.
 | Term | Form | Notes |
 | --- | --- | --- |
 | pod | lowercase | The cross-functional team. Not "team," "squad," or "group." |
-| operating group | lowercase | The Director's scope. Not "department" — that refers to the full engineering org. |
+| engineering | lowercase | The function and the organization: "the engineering organization," "across engineering." Capitalize only in role titles ("Director of Engineering"), proper names ("the Engineering space in Confluence"), and lists of department names ("Engineering, Product, and Finance"). |
+| operating group | lowercase | The Director's scope. Not "department," which refers to the full engineering org. |
 | EM | abbreviation | Define as "Engineering Manager" at first use; abbreviate thereafter. |
 | IC | abbreviation | Define as "Individual Contributor" at first use. |
 | KLO | abbreviation | Define as "Keep the Lights On" at first use. |
@@ -214,8 +218,8 @@ Introducing synonyms creates noise.
 Run this before considering a draft done.
 
 - [ ] No em-dashes in prose (exceptions: attribution lines; "Engineering — that's you —" in triad/quad tables)
-- [ ] None of these words: "ensure," "foster," "leverage" (verb), "navigate" (metaphorical), "pivotal," "crucial," "streamline," "utilize," "robust," "seamlessly," "empower"
-- [ ] Active voice — the subject does the thing
+- [ ] None of the words in [AI tells to remove on sight](#ai-tells-to-remove-on-sight), in any form (e.g., "ensuring," "empowered," "navigating")
+- [ ] Active voice: the subject does the thing
 - [ ] Every paragraph has at least one short sentence (under ~15 words)
 - [ ] No three consecutive sentences starting with the same word
 - [ ] All abbreviations defined at first use

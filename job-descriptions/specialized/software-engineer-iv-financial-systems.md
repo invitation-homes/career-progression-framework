@@ -19,10 +19,10 @@ We've built an engineering culture that takes that responsibility seriously: col
 Engineers who are supported, growing, and proud of what they ship build great software.
 We're looking for a Software Engineer IV who is still a hands-on engineer at heart: writing code, making hard technical calls, and shipping.
 You'll also help define what excellent looks like for the team.
-This role maps to what many organizations call a tech lead or senior engineer: the point where deep technical ownership and team leadership come together.
+This role maps to what many organizations call a tech lead or lead engineer: the point where deep technical ownership and team leadership come together.
 You'll spend the majority of your time as a practitioner, with a meaningful portion invested in the people and practices around you.
 
-From here, you'll have a clear path to Staff Engineer on the individual contributor track, or Engineering Manager if you're drawn to people leadership.
+From here, you'll have a clear path to Staff Engineer on the Professional Track, or Engineering Manager if you're drawn to people leadership.
 
 ## What You'll Do
 
@@ -46,7 +46,7 @@ From here, you'll have a clear path to Staff Engineer on the individual contribu
 - Balance current delivery needs against longer-term implications, keeping the impact on other teams and on financial reporting in mind.
 - Make sure your team understands engineering standards and why they exist; update guidance when those standards evolve.
 - Build a culture of writing things down: in a domain this sensitive, distributed knowledge and clear documentation protect the business as much as they help the team.
-- Share your expertise through Special Interest Groups (SIGs) and other cross-team forums.
+- Share your expertise through Shared Interest Groups (SIGs) and other cross-team forums.
 
 **Communication & Collaboration**
 

@@ -5,19 +5,19 @@ title: Sr. Principal Engineer
 
 [Job Description](job-descriptions/sr-principal-engineer)
 
-As a Sr. Principal Engineer, you operate at the company level as one of the most senior technical individual contributors.
+As a Sr. Principal Engineer, you operate at the company level as one of the most senior technical individual contributors (ICs).
 You are a peer to executive engineering leadership, shaping the company's long-term technical trajectory.
 Your influence is earned entirely through expertise, judgment, and the trust you've built across the organization.
-You tackle the most complex, highest-stakes technical challenges, set the standard for how engineering thinks and works at scale, and ensure that our technology decisions serve the company's ambitions for years to come.
+You tackle the most complex, highest-stakes technical challenges, set the standard for how engineering thinks and works at scale, and make sure our technology decisions serve the company's ambitions for years to come.
 
 ## Impact
 
-- Define and drive the company-wide technical vision, ensuring our architecture and technology investments are aligned with long-term business strategy.
+- Define and drive the company-wide technical vision, and align our architecture and technology investments with long-term business strategy.
 - Take ownership of the most complex, ambiguous, and high-consequence technical problems: those that span teams, systems, and organizational boundaries.
 - Identify systemic technical risks, gaps, and opportunities that are not visible from within any single team or domain, and drive durable solutions.
-- Serve as a key technical voice in build, buy, and partner decisions, providing depth and rigor that informs executive choices.
-- Stay technically active in the most selective way: engage directly with the hardest problems where it matters most — your depth is your credibility.
-- Raise the technical ceiling of the entire engineering organization by establishing standards, patterns, and practices — including automation — that others build on.
+- Serve as a key technical voice in build, buy, and partner decisions, providing depth and rigor that inform executive choices.
+- Stay technically active in the most selective way: engage directly with the hardest problems where it matters most; your depth is your credibility.
+- Raise the technical ceiling of the entire engineering organization by establishing standards, patterns, and practices (including automation) that others build on.
 
 ## Reach
 
@@ -43,7 +43,7 @@ You lead through expertise and relationships, not authority.
 
 ## Leadership
 
-- Mentor and develop engineers across the IC track, with a particular focus on Staff and Principal Engineers and the growth of the next generation of senior IC leaders.
+- Mentor and develop engineers across the Professional Track, with a particular focus on Staff and Principal Engineers and the growth of the next generation of senior IC leaders.
 - Act as the cultural standard-bearer for technical excellence, modeling the rigor, humility, and curiosity that define great engineering at scale.
 - Own the most consequential architectural decisions, providing the clarity and conviction needed when the path forward is genuinely hard.
-- Govern the company's technical direction in partnership with engineering leadership, ensuring decisions are coherent, well-reasoned, and built to last.
+- Govern the company's technical direction in partnership with engineering leadership, making sure decisions are coherent, well-reasoned, and built to last.

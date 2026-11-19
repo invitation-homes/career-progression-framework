@@ -6,24 +6,25 @@ title: Tech Fellow
 [Job Description](job-descriptions/tech-fellow)
 
 As a Tech Fellow, you represent the highest level of technical distinction at Invitation Homes.
-You are an executive-level individual contributor whose expertise and influence extend beyond the company into the broader industry.
-You combine the strategic perspective of an executive with the technical depth of the organization's foremost practitioner, working directly with executive leadership to define technical vision and investment priorities while embedding with teams to design and deliver the company's most critical and complex initiatives.
+You are an executive-level individual contributor (IC) whose expertise and influence extend beyond the company into the broader industry.
+You combine the strategic perspective of an executive with the technical depth of the organization's foremost practitioner.
+You work directly with executive leadership to define technical vision and investment priorities while embedding with teams to design and deliver the company's most consequential and complex initiatives.
 You are a force multiplier at the highest level, shaping how technology evolves at Invitation Homes and how Invitation Homes is perceived as a technology organization in the world.
 
 ## Impact
 
 - Define Invitation Homes' enterprise technical strategy, aligning technology investments with business priorities and long-term growth objectives.
 - Serve as one of the senior-most technical authorities in the company, advising the executive team on opportunities, risks, and emerging trends across the technology landscape.
-- Partner with Engineering, Product, Data, Security, Legal, and Business leaders to ensure high-impact technology adoption that is secure, scalable, and aligned with company values.
-- Establish governance frameworks, standards, and reference architectures that ensure consistency, quality, and strategic alignment across the entire organization.
-- Provide direct, hands-on technical leadership for the company's most critical and complex initiatives, from design and prototyping through to delivery.
+- Partner with Engineering, Product, Data, Security, Legal, and Business leaders to drive high-impact technology adoption that is secure, scalable, and aligned with company values.
+- Establish governance frameworks, standards, and reference architectures that drive consistency, quality, and strategic alignment across the entire organization.
+- Provide direct, hands-on technical leadership for the company's most consequential and complex initiatives, from design and prototyping through to delivery.
 
 ## Reach
 
 - Industry
 
 Your influence extends beyond Invitation Homes into the broader industry.
-You are a recognized technical leader both within the single-family home rental space and the wider software engineering community.
+You are a recognized technical leader both within the single-family home rental space and in the wider software engineering community.
 Internally, you are the definitive technical voice at the executive level and a trusted advisor across every corner of the organization.
 
 ## Knowledge
@@ -43,8 +44,8 @@ Internally, you are the definitive technical voice at the executive level and a 
 ## Leadership
 
 - Mentor and develop Sr. Principal and Principal Engineers, investing in the long-term growth of senior IC talent across the organization.
-- Build reusable frameworks, reference implementations, and internal platforms — including automation tooling — that raise the technical floor for teams across engineering.
-- Establish and steward the company's technical governance, ensuring the most consequential decisions are grounded in sound principles, well-documented, and durable.
+- Build reusable frameworks, reference implementations, and internal platforms (including automation tooling) that raise the technical floor for teams across engineering.
+- Establish and steward the company's technical governance, making sure the most consequential decisions are grounded in sound principles, well-documented, and durable.
 - Model what it means to be a technical leader at the highest level: rigorous, humble, externally connected, and deeply invested in the success of others.
 - Champion a culture where intellectual honesty, high standards, and shared ownership of outcomes are the foundation of how engineering operates.
-- Maintain a bias to action at the industry level — stay ahead of the technological horizon, identify consequential shifts before they arrive, and position Invitation Homes to lead rather than follow.
+- Maintain a bias to action at the industry level: stay ahead of the technological horizon, identify consequential shifts before they arrive, and position Invitation Homes to lead rather than follow.

@@ -13,10 +13,10 @@ We've built an engineering culture that takes that responsibility seriously: col
 Engineers who are supported, growing, and proud of what they ship build great software.
 We're looking for a Software Engineer IV who is still a hands-on engineer at heart: writing code, making hard technical calls, and shipping.
 You'll also help define what excellent looks like for the team.
-This role maps to what many organizations call a tech lead or senior engineer: the point where deep technical ownership and team leadership come together.
+This role maps to what many organizations call a tech lead or lead engineer: the point where deep technical ownership and team leadership come together.
 You'll spend the majority of your time as a practitioner, with a meaningful portion invested in the people and practices around you.
 
-From here, you'll have a clear path to Staff Engineer on the individual contributor track, or Engineering Manager if you're drawn to people leadership.
+From here, you'll have a clear path to Staff Engineer on the Professional Track, or Engineering Manager if you're drawn to people leadership.
 
 ## What You'll Do
 
@@ -36,7 +36,7 @@ From here, you'll have a clear path to Staff Engineer on the individual contribu
 - Balance current delivery needs against longer-term implications, keeping the impact on other teams in mind.
 - Make sure your team understands engineering standards and why they exist; update guidance when those standards evolve.
 - Build a culture of writing things down: distributed knowledge and clear documentation are force multipliers for the whole team.
-- Share your expertise through Special Interest Groups (SIGs) and other cross-team forums.
+- Share your expertise through Shared Interest Groups (SIGs) and other cross-team forums.
 
 **Communication & Collaboration**
 
@@ -52,7 +52,7 @@ From here, you'll have a clear path to Staff Engineer on the individual contribu
 - Advocate for a blameless culture grounded in empathy, psychological safety, and shared accountability.
 - Help improve engineering processes, especially in ways that benefit teams beyond your own.
 - Contribute to hiring by conducting technical interviews and helping evaluate candidates, with a focus on a strong candidate experience.
-- Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias toward shipping working software.
+- Hold yourself and the team to a high standard of delivery, maintaining momentum and a bias to action: ship working software rather than debate it.
 - Be a culture carrier: your attitude and energy set the tone for those around you.
   Show up with the curiosity, positivity, and high standards you want to see in the team.
 
@@ -77,4 +77,3 @@ Experience with these is a strong plus, though we care more about depth of think
 ---
 
 [Progression Document](../software-engineer-iv)
-

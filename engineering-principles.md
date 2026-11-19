@@ -16,7 +16,7 @@ Our engineering vision and mission support the company's purpose and values, kee
 
 ## Principles
 
-Our Engineering Principles are a reflection of the culture we aspire to build and the behaviors we want to reinforce across our teams.
+Our engineering principles are a reflection of the culture we aspire to build and the behaviors we want to reinforce across our teams.
 They serve as a north star for how we operate, make decisions, and grow as engineers.
 
 The principles are designed to:
@@ -39,10 +39,10 @@ These principles align with Invitation Homes' core values framework, Genuine CAR
 | **Biased to Action** | We are biased to action and prefer things that move us forward; everything we do should be in the service of getting something done. |
 | **Curious** | We are curious and encourage exploration, but always with an eye toward pragmatic implementation. |
 | **Passionate about Automation** | We are passionate about automation and don't sleep well at night if there are things we're doing manually that can be done automatically. |
-| **Shipping It!** | We are always shipping it, continually delivering value, tackling blockers and challenges, and fostering a strong culture of momentum. |
+| **Shipping It!** | We are always shipping it, continually delivering value, tackling blockers and challenges, and building a strong culture of momentum. |
 
 As with all things, these sometimes exist in tension with each other.
-Commitment to Quality and Shipping It! can sometimes feel like opposing forces, but they must always be balanced appropriately.
+Committed to Quality and Shipping It! can feel like opposing forces, but we balance them deliberately.
 
 ### How We Use Our Principles
 
@@ -53,7 +53,8 @@ Here are some ways we integrate them into our daily work:
   They are especially helpful in moments of ambiguity or disagreement, offering a shared language and framework to move forward with clarity and unity.
 - **Recognition:** Recognize and celebrate when someone embodies a principle.
 - **Performance Conversations:** Use the principles as a lens to reflect on growth, impact, and areas for improvement.
-- **Career Development:** The expectations in our [Career Progression Framework](./index) reflect these principles in action. Use them as a lens when reviewing your own growth across roles.
+- **Career Development:** The expectations in our [Career Progression Framework](./index) reflect these principles in action.
+  Use them as a lens when reviewing your own growth across roles.
 
 ## Anti-Patterns
 
@@ -62,10 +63,10 @@ Projects should not require long hours from a hero who fixes everything at the l
 All of our projects are team efforts.
 
 **Knowledge silos:** We try to avoid knowledge silos.
-We have a culture of writing things down to help empower others with information.
+We have a culture of writing things down so others have the information they need.
 
 **"Well, actually...":** Being pedantic or attempting to shame team members on technicalities is never a good idea.
 
-**Best Practices:** What's best for others isn't always best for us.
+**Best practices:** What's best for others isn't always best for us.
 We live in a complex world of trade-offs, and we will inform our decisions with what others have done, but not be constrained by those "best practices."
 This doesn't mean we can't learn from what works well for others; we just shouldn't automatically accept it as gospel.

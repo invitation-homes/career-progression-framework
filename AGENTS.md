@@ -4,15 +4,15 @@ This file provides guidance to Coding Agents when working with code in this repo
 
 ## Overview
 
-This is a pure content repository — no build tooling, no dependencies, no tests.
+This is a pure content repository: no build tooling, no dependencies, no tests.
 The content represents Invitation Homes' career progression framework for software engineering.
 
 ## Structure
 
 When adding or removing a role, three things must be updated:
 
-- [_config.yml](_config.yml) — sidebar navigation
-- [index.md](index.md) — Mermaid diagram nodes and `click` directives
+- [_config.yml](_config.yml): sidebar navigation
+- [index.md](index.md): Mermaid diagram nodes and `click` directives
 - Two files per role: a progression document at the root (`<role>.md`) and a job description in `job-descriptions/<role>.md`
 
 See [ADR-0002](decision-records/0002-one-file-per-role.md), [ADR-0003](decision-records/0003-mermaid-career-ladder.md), and [ADR-0005](decision-records/0005-dual-document-structure.md).
@@ -24,7 +24,7 @@ See [ADR-0007](decision-records/0007-specialized-job-descriptions.md).
 ## Content Conventions
 
 Each role document covers five sections in order: **Impact**, **Reach**, **Knowledge**, **Communication**, **Leadership**.
-Reach uses a fixed vocabulary and differs between the IC and management tracks.
+Reach uses a fixed vocabulary and differs between the Professional and Management Tracks.
 See [ADR-0004](decision-records/0004-reach-vocabulary.md).
 
 Job descriptions use a four-section structure and follow specific formatting conventions.
@@ -58,6 +58,8 @@ See [ADR-0001](decision-records/0001-semantic-line-breaks.md).
 
 Some roles have a narrative companion in `being-a/`.
 These are not required for every role.
+Each being-a page opens with a series nav line linking to every other being-a page; when adding or removing one, update that line on all of them.
+Also link a new being-a page from the header line of each progression document it covers.
 See [style-guide.md](style-guide.md) for their structure and conventions.
 
 ### Voice, tone, and word choice
@@ -76,4 +78,5 @@ bin/export-jd all                 # all job descriptions
 
 The script strips Jekyll front matter and the trailing `[Progression Document]` back-link from the generated Word output.
 Both are present in the source `.md` files for Jekyll rendering purposes but have no meaning in a standalone Word document.
-Do not remove the trailing `---` separator from JD files — the export script uses it as a marker for where the exportable body ends.
+Do not remove the trailing `---` separator from JD files.
+The export script uses it as a marker for where the exportable body ends.

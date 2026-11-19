@@ -51,7 +51,7 @@ The goal is to leave with real experience, real relationships, and a clear sense
 - A rising senior pursuing a bachelor's degree at an accredited four-year university in Computer Science, Computer Engineering, or a related field.
 - An expected graduation date between December and May following the internship.
 - Foundational programming knowledge in at least one language, with a desire to build on it.
-- Eagerness to learn, and openness to feedback.
+- Eagerness to learn and openness to feedback.
 - The ability to work as a self-starter and to prioritize your work with a sense of urgency.
 - A willingness to collaborate with teammates and ask good questions.
 

@@ -5,12 +5,12 @@ title: VP of Infrastructure
 
 ## About the Role
 
-Invitation Homes set out to solve a real problem: home leasing options were limited and the experience for residents was inconsistent.
-Today we're the nation's largest single-family home rental company, with 100,000+ homes.
-Our teams build the technology at the center of that solution: personalized resident experiences, service tools, and the operational systems that residents and associates depend on every day.
+Invitation Homes set out to solve a real problem: home leasing options were limited and the experience for renters was inconsistent.
+Today, as the nation's largest single-family home rental company, our engineering teams build the technology at the center of that solution: personalized resident experiences, service tools, and the operational systems that residents and associates depend on every day.
 When we ship, people feel it.
 
-Our technology organization takes that responsibility seriously. That means collaborative teams, high standards, and real investment in the people around you.
+We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
+Engineers who are supported, growing, and proud of what they ship build great software.
 Every one of those teams depends on the infrastructure underneath it, and so does every associate who opens a laptop in one of our field offices.
 When it breaks, nothing else works.
 You are accountable for all of it.
@@ -47,7 +47,7 @@ Moving those workloads to automated, reproducible, managed infrastructure is a l
 **Knowledge & Standards**
 
 - Maintain the hands-on depth to review a Terraform module, question an architecture diagram, and spot a one-off server in a design proposal.
-- Set clear, written standards for infrastructure, and record the decisions that matter in architecture decision records (ADRs) so the reasoning outlives the people who made it.
+- Set clear, written standards for infrastructure, and record the decisions that matter in architecture Decision Records (ADRs) so the reasoning outlives the people who made it.
 - Know the data protection laws that apply to us, such as the California Consumer Privacy Act (CCPA), and build their requirements into how our systems store and handle data.
 
 **Communication & Collaboration**

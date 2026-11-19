@@ -1,22 +1,22 @@
 ---
-id: senior-engineering-manager
-title: Senior Engineering Manager
+id: sr-engineering-manager
+title: Sr. Engineering Manager
 ---
 
 [Job Description](job-descriptions/sr-engineering-manager)
 
-As a Senior Engineering Manager, you lead a multi-team organization through a layer of engineering managers.
-You translate company and department strategy into clear direction for your teams, while building the leadership capability, culture, and operational health that enables sustained high performance.
+As a Sr. Engineering Manager, you lead a multi-team organization through a layer of engineering managers.
+You translate company and department strategy into clear direction for your teams, while building the leadership capability, culture, and operational health that enable sustained high performance.
 You are accountable for both what your organization delivers and how it grows.
 
 ## Impact
 
-- Influence relationships, culture, recruiting, and operating models across Engineering pods.
-- Align roadmaps with company priorities and ensure timely, quality outcomes.
+- Influence relationships, culture, recruiting, and operating models across pods.
+- Align roadmaps with company priorities and deliver timely, quality outcomes.
 - Accelerate delivery of high-impact, cross-team initiatives.
-- Surface high-impact project opportunities and ensure risks and scope are well understood and managed.
+- Surface high-impact project opportunities and make sure risks and scope are well understood and managed.
 - Ground delivery and quality decisions in data, using metrics and team health signals to drive continuous improvement.
-- Champion automation and sustainable engineering practices across your teams — ensure that manual toil doesn't accumulate unchecked.
+- Champion automation and sustainable engineering practices across your teams: don't let manual toil accumulate unchecked.
 
 ## Reach
 
@@ -26,8 +26,8 @@ You are accountable for both what your organization delivers and how it grows.
 - Technical Reach
   - Department
 
-Influence spans multiple engineering teams and touches on broad areas of the company’s technical ecosystem.
-Engage with leadership in Product, Design, and Delivery to shape how initiatives are defined and executed.
+Your influence spans multiple engineering teams and touches on broad areas of the company's technical ecosystem.
+You engage with leadership in Product, Design, and Delivery to shape how initiatives are defined and executed.
 
 ## Knowledge
 
@@ -41,15 +41,13 @@ Engage with leadership in Product, Design, and Delivery to shape how initiatives
 - Distill complex ideas for both technical and non-technical audiences.
 - Proactively share context and clarity with your teams, write effectively, and create alignment through transparent updates and thoughtful documentation.
 - Proactively communicate questions, status, risks, outcomes, metrics, and team health to leadership.
-- Facilitate conversations that empower managers and teams to create solutions and alignment, guiding rather than dictating outcomes.
+- Facilitate conversations that help managers and teams create solutions and alignment, guiding rather than dictating outcomes.
 
 ## Leadership
 
-- Foster a healthy, collaborative, and high-performing culture across your organization.
+- Build a healthy, collaborative, and high-performing culture across your organization.
 - Coach and develop engineering managers, helping them grow as leaders, make better decisions, and build healthier teams.
-- Operate effectively through layers of leadership, empowering managers to own outcomes while ensuring their teams have the support and clarity they need.
+- Operate effectively through layers of leadership, giving managers ownership of outcomes while making sure their teams have the support and clarity they need.
 - Help set the bar for performance, accountability, and team ownership across your organization.
-- Hold managers accountable to their own growth, helping them recognize and address gaps in leadership, process, or team health.
-- Lead talent strategy for your organization — recruiting, retention, performance management, and building a strong leadership bench.
-
-
+- Hold managers accountable for their own growth, helping them recognize and address gaps in leadership, process, or team health.
+- Lead talent strategy for your organization: recruiting, retention, performance management, and building a strong leadership bench.
