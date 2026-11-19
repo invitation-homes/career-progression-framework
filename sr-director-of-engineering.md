@@ -8,7 +8,8 @@ title: Sr. Director of Engineering
 As a Sr. Director of Engineering, you set the strategic direction for engineering at the company level.
 You tie technology and organizational decisions closely to long-term business outcomes.
 You are a senior leader who partners with the VP of Engineering and executive stakeholders to shape the culture, capability, and trajectory of the engineering organization.
-Your focus shifts from managing within a department to influencing the company by designing the systems, structures, and people strategies that allow engineering to scale and thrive.
+Your focus shifts from leading an operating group to leading across the engineering department.
+You influence the company by designing the systems, structures, and people strategies that allow engineering to scale and thrive.
 
 ## Impact
 
@@ -16,17 +17,17 @@ Your focus shifts from managing within a department to influencing the company b
 - Own organizational design decisions that improve how engineering teams are structured, staffed, and operated at scale.
 - Identify and address systemic risks, process gaps, and capability shortfalls before they constrain delivery or culture.
 - Represent engineering in cross-functional executive partnerships, making sure technology is a strategic enabler across the organization.
-- Manage and advocate for engineering's investment in vendors, tooling, and technology platforms in alignment with company strategy.
+- Own the engineering budget across the department, and advocate for investment in headcount, vendors, tooling, and technology platforms aligned with company strategy.
 
 ## Reach
 
 - Leadership Reach
-  - Company
+  - Department
 
 - Technical Reach
   - Company
 
-Your influence extends across the entire company.
+Your leadership spans the engineering department, and your influence extends across the entire company.
 You shape how engineering is perceived, prioritized, and resourced at the executive level.
 You build trust and alignment with senior leaders across Product, Design, Finance, Business Operations, and beyond, so engineering is a valued and visible partner in company-wide decisions.
 
@@ -43,11 +44,15 @@ You build trust and alignment with senior leaders across Product, Design, Financ
 - Connect technical decisions to business impact in ways that build credibility and earn organizational trust.
 - Create alignment across leadership and engineering through transparent, consistent, and timely communication.
 - Champion a communication culture within engineering that cascades clarity from strategy to execution at every level.
+- Bring dissenting views into executive decisions when engineering's perspective calls for it, then commit fully and lead the department in carrying them out.
+- Partner with Sr. Principal Engineers, your counterparts on the Professional Track, so organizational decisions and technical strategy reinforce each other.
 
 ## Leadership
 
-- Develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across the company.
+- Coach and develop Directors and senior engineering leaders, building a strong bench of technical and organizational leadership across engineering.
 - Own the talent strategy for engineering, including hiring, developing, and retaining high-performing leaders and teams at scale.
 - Set the cultural tone for engineering at the company level, modeling strategic thinking, accountability, empathy, curiosity, and continuous improvement.
 - Partner with the VP of Engineering and CIO to shape the long-term vision for engineering and contribute to the broader technology leadership agenda.
 - Serve as a steady, decisive leader in complex situations, resolving organizational conflicts, working through ambiguity, and enabling teams to move forward with clarity and confidence.
+- Maintain a bias to action at the department level: make timely calls on structure, investment, and direction, and keep engineering moving while longer-term strategy takes shape.
+- Champion automation as a department-wide priority: invest in the platforms and practices that keep manual toil from accumulating as engineering scales.

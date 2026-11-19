@@ -42,6 +42,7 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 - Translate technical context for non-technical partners, and business context for your engineers.
 - Give feedback (to your team and upward) that is clear, specific, and actionable.
 - Resolve ambiguity and conflict constructively; create space for healthy disagreement and clear, committed action.
+- Partner with the Staff Engineers who support your team, your counterparts on the Professional Track, to align technical direction with delivery and team growth.
 
 **Leadership & Culture**
 
@@ -54,7 +55,7 @@ From here, you'll have a clear path to Sr. Engineering Manager as your leadershi
 
 ## What You Bring
 
-- 7+ years of professional software development experience, including experience leading technical work within or across teams.
+- 8+ years of professional software development experience, including experience leading technical work within or across teams.
 - Demonstrated technical credibility: you can engage meaningfully in design decisions and understand the systems your team owns.
 - Experience managing or mentoring engineers, with a track record of helping others grow.
 - Clear, effective communication skills (written and verbal) with the ability to build trust across technical and non-technical audiences.

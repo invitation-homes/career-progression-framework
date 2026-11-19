@@ -16,7 +16,7 @@ You are accountable not just for what your teams deliver, but for how your manag
 You translate company and department strategy into clear direction for your organization, and you build the leadership capability and operational health that make sustained high performance possible.
 
 Your focus moves from the growth of individual engineers to the growth of the managers who grow those engineers.
-Your leadership reach spans your organization of teams; your technical reach extends across the department.
+Your leadership reach spans your organization of teams; your technical reach extends across your operating group.
 You engage on cross-team architecture, platform strategy, and systemic risk while your managers own day-to-day execution.
 
 From here, you'll have a clear path to Director of Engineering as your organizational scope and strategic influence grow.
@@ -44,6 +44,7 @@ From here, you'll have a clear path to Director of Engineering as your organizat
 - Proactively share context, risks, and outcomes with engineering leadership: bring the right information to the right people before they have to ask.
 - Facilitate conversations that help your managers create alignment and own solutions; guide rather than dictate.
 - Build strong relationships with Product, Design, and Delivery partners at the program and department level.
+- Advocate for your organization's perspective in leadership decisions, then commit fully and help your managers carry the decision forward.
 
 **Leadership & Culture**
 
@@ -57,7 +58,7 @@ From here, you'll have a clear path to Director of Engineering as your organizat
 
 ## What You Bring
 
-- 8+ years of professional software development experience, including experience managing engineering teams.
+- 9+ years of professional software development experience, including experience managing engineering teams.
 - A demonstrated track record of developing engineers and building high-performing teams.
 - Experience managing or developing engineering managers, or demonstrated readiness to lead through a layer of management.
 - Strong organizational instincts: you think across teams, not just within them, and understand how structure, culture, and process affect delivery.

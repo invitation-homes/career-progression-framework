@@ -40,6 +40,8 @@ You lead through expertise and relationships, not authority.
 - Distill the most complex technical challenges into language that is actionable for both engineering teams and non-technical leaders.
 - Set the standard for technical discourse across the company: how architectural decisions are made, documented, and communicated.
 - Influence without authority: your ability to bring people along through reasoning, credibility, and empathy is your primary tool.
+- Disagree openly with engineering and executive leadership when the technical case calls for it, then commit fully once a decision is made and help others do the same.
+- Partner with Sr. Directors of Engineering, your counterparts on the Management Track, on company-level technical and organizational decisions.
 
 ## Leadership
 
@@ -47,3 +49,5 @@ You lead through expertise and relationships, not authority.
 - Act as the cultural standard-bearer for technical excellence, modeling the rigor, humility, and curiosity that define great engineering at scale.
 - Own the most consequential architectural decisions, providing the clarity and conviction needed when the path forward is genuinely hard.
 - Govern the company's technical direction in partnership with engineering leadership, making sure decisions are coherent, well-reasoned, and built to last.
+- Maintain a bias to action at the company level: anticipate systemic risks before they surface, intervene decisively, and keep long-term technical bets on track.
+- Help attract and assess senior technical talent: interview for Staff and Principal roles, and shape how the company evaluates technical leadership.

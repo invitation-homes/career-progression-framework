@@ -14,13 +14,13 @@ You shape architectural direction and mentor others, helping teams deliver scala
   Transition out once the team is unblocked and self-sufficient.
 - Leave behind clear, valuable artifacts such as documentation, diagrams, utilities, or design patterns that continue to support the team after you've moved on.
 - Identify patterns and common needs across multiple teams, and proactively create scalable tools, frameworks, automations, or guidance that help solve shared problems efficiently.
-- Set and drive engineering standards that elevate code quality, reliability, and maintainability across systems.
+- Set and drive engineering standards that elevate code quality, reliability, and maintainability across your operating group.
 
 ## Reach
 
-- Department
+- Operating Group
 
-Your work consistently impacts teams across the engineering department, informing technical decisions and standards broadly.
+Your work consistently affects teams across your operating group, informing technical decisions and standards broadly.
 You lead through influence and expertise, not just authority.
 
 ## Knowledge
@@ -38,12 +38,15 @@ You lead through influence and expertise, not just authority.
 - Coach others in how to document, diagram, and communicate their own thinking effectively.
 - Translate abstract or technical risk into understandable trade-offs.
 - Drive conversations toward clarity by reducing complexity and identifying actionable next steps.
+- Advocate strongly for your position in cross-team decisions, then commit fully once a direction is set, and help the teams you support do the same.
+- Partner with the Engineering Managers in your operating group, your counterparts on the Management Track, to align technical direction with delivery and team health.
 
 ## Leadership
 
-- Remain a hands-on engineer throughout; your reach extends to the whole department, not a single team.
-- Model engineering excellence and act as a multiplier, raising the bar for the entire engineering organization through mentorship, coaching, and influence.
+- Remain a hands-on engineer throughout.
+- Model engineering excellence and act as a multiplier, raising the bar across your operating group through mentorship, coaching, and influence.
 - Model intellectual humility, curiosity, and high standards; the culture you carry shapes the culture of the teams you touch.
 - Facilitate learning across teams through initiatives such as architecture guilds, postmortems, or engineering summits.
 - Own and improve engineering processes, standards, and tools that support a healthy, inclusive, and effective engineering culture.
 - Maintain a bias to action across the teams you support: keep work moving, surface and resolve blockers, and build momentum without creating dependency.
+- Raise the hiring bar: interview candidates, calibrate technical assessments across teams, and help new senior engineers ramp up quickly.

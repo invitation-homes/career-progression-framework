@@ -93,6 +93,10 @@ flowchart TD
 </div>
 {% endraw %}
 
+Levels on the same row are equivalent grades: Staff Engineer = Engineering Manager; Principal Engineer = Director of Engineering; Sr. Principal Engineer = Sr. Director of Engineering; Tech Fellow = VP of Engineering.
+Moving between tracks at the same grade is a lateral move, not a promotion.
+Sr. Engineering Manager is a Management Track step between Engineering Manager and Director of Engineering.
+
 # Our Expectations
 
 Our roles have five areas of focus: Impact, Reach, Knowledge, Communication, and Leadership.
@@ -118,6 +122,7 @@ Each level includes the ones before it: `Team` encompasses both `Individual` and
 - Individual
 - Team
 - Cross-Team
+- Operating Group
 - Department
 - Company
 - Industry

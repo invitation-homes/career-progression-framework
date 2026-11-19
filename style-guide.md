@@ -198,7 +198,7 @@ Introducing synonyms creates noise.
 | --- | --- | --- |
 | pod | lowercase | The cross-functional team. Not "team," "squad," or "group." |
 | engineering | lowercase | The function and the organization: "the engineering organization," "across engineering." Capitalize only in role titles ("Director of Engineering"), proper names ("the Engineering space in Confluence"), and lists of department names ("Engineering, Product, and Finance"). |
-| operating group | lowercase | The Director's scope. Not "department," which refers to the full engineering org. |
+| operating group | lowercase | The Director's scope: the set of pods a Director leads. Not "department," which refers to the full engineering org. As a Reach value, title case: "Operating Group." |
 | EM | abbreviation | Define as "Engineering Manager" at first use; abbreviate thereafter. |
 | IC | abbreviation | Define as "Individual Contributor" at first use. |
 | KLO | abbreviation | Define as "Keep the Lights On" at first use. |

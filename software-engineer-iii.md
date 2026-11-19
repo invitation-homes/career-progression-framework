@@ -40,7 +40,6 @@ You share what you have learned with your peers, juniors, and our engineering co
 - Share what you've learned in Shared Interest Groups (SIGs), the Technical Architecture Guild (TAG), or our Monthly Learnings.
 - Set up postmortems and identify actions to avoid repeating problems.
 - Lead structured meetings that run to time and produce tangible outputs.
-- Show empathy and kindness toward your peers and try to understand the views of others before attempting to defend your own.
 - Voice disagreement clearly and early.
   Once a decision is made, commit to it fully.
 
@@ -55,3 +54,4 @@ You share what you have learned with your peers, juniors, and our engineering co
 - Ask "why" even in challenging situations, and recognize and call out assumptions and risks.
 - Begin to shape team culture by modeling the behaviors and standards you want to see: quality, curiosity, and accountability.
 - Begin participating in the hiring process by joining interview panels and providing feedback on candidates.
+- Maintain a bias to action: keep work moving, model momentum for your team, and help address blockers before they stall delivery.

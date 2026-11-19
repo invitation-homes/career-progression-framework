@@ -38,6 +38,7 @@ This role is a learning platform: a place to build the skills and knowledge you'
 - Write clear PR descriptions and follow our PR guideline document.
 - Contribute to documentation.
 - Seek out feedback from those you work with, as well as your manager.
+- Speak up when you disagree or don't understand something, and once the team decides, commit to the decision fully.
 
 ## Leadership
 
@@ -45,5 +46,4 @@ This role is a learning platform: a place to build the skills and knowledge you'
 - Aim high!
   This is just the beginning.
 
-
-**Everyone progresses at their own pace, but we'd expect Engineers to be showing signs that they're ready for a promotion to the Software Engineer II role within 1 to 2 years.**
+**Everyone progresses at their own pace, but most engineers show they're ready for promotion to Software Engineer II within 1 to 2 years.**

@@ -11,7 +11,7 @@ When we ship, people feel it.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-We're looking for a Salesforce Platform Manager who is still hands-on at heart: configuring, extending, and architecting platform solutions.
+We're looking for a Salesforce Platform Manager who is hands-on at heart: configuring, extending, and architecting platform solutions.
 You'll also help define what excellent looks like for the team.
 This role is the platform equivalent of a tech lead: the point where deep Salesforce expertise and technical leadership come together.
 You'll spend the majority of your time as a practitioner, with a meaningful portion invested in the people and practices around you.

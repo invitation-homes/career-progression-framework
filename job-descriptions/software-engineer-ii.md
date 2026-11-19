@@ -43,6 +43,7 @@ From here, you'll have a clear path to Software Engineer III, where you'll step 
 - Write and explain technical documentation in ways that are easy to understand.
 - Contribute to team discussions and encourage others to do the same.
 - Escalate issues in a timely manner when you need help with deliverables or priorities.
+- Share your perspective when you disagree, then commit fully once the team makes a decision.
 
 **Leadership & Culture**
 

@@ -24,9 +24,9 @@ You are accountable for both what your organization delivers and how it grows.
   - Cross-Team
 
 - Technical Reach
-  - Department
+  - Operating Group
 
-Your influence spans multiple engineering teams and touches on broad areas of the company's technical ecosystem.
+Your influence spans multiple engineering teams and touches broad areas of your operating group's technical ecosystem.
 You engage with leadership in Product, Design, and Delivery to shape how initiatives are defined and executed.
 
 ## Knowledge
@@ -42,6 +42,7 @@ You engage with leadership in Product, Design, and Delivery to shape how initiat
 - Proactively share context and clarity with your teams, write effectively, and create alignment through transparent updates and thoughtful documentation.
 - Proactively communicate questions, status, risks, outcomes, metrics, and team health to leadership.
 - Facilitate conversations that help managers and teams create solutions and alignment, guiding rather than dictating outcomes.
+- Advocate for your organization's perspective in leadership decisions, then commit fully and help your managers carry the decision forward.
 
 ## Leadership
 
@@ -51,3 +52,4 @@ You engage with leadership in Product, Design, and Delivery to shape how initiat
 - Help set the bar for performance, accountability, and team ownership across your organization.
 - Hold managers accountable for their own growth, helping them recognize and address gaps in leadership, process, or team health.
 - Lead talent strategy for your organization: recruiting, retention, performance management, and building a strong leadership bench.
+- Maintain a bias to action across your organization: surface risks early, drive resolution proactively, and keep your managers and teams moving forward.

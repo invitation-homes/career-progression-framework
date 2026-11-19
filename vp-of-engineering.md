@@ -43,12 +43,14 @@ Internally, you are a trusted executive partner across Product, Finance, and Bus
 - Communicate the engineering vision and strategy with clarity and confidence at the executive level, translating technical complexity into business impact.
 - Bring engineering, business, and external partners into alignment through high emotional intelligence and strong interpersonal skills.
 - Represent engineering externally, contributing to the company's reputation in the industry through thought leadership, recruiting presence, and community engagement.
+- Invite disagreement from your leaders and peers, make the call, and commit fully; model the norm that honest advocacy and full commitment go together.
+- Partner with the Tech Fellow, your counterpart on the Professional Track, to set the company's technical vision and investment priorities.
 
 ## Leadership
 
 - Hire, develop, and retain a high-performing, diverse organization of engineering leaders and teams.
 - Coach and grow Directors and senior leaders, building the next generation of engineering executives.
 - Build a culture of accountability, collaboration, and continuous improvement that is felt at every level of the engineering organization.
-- Model low-ego, action-oriented leadership: decisive when needed, collaborative by default, and always focused on enabling others to succeed.
+- Model low-ego leadership with a bias to action: decisive when needed, collaborative by default, and always focused on enabling others to succeed.
 - Champion diversity and inclusion as a foundation for team culture and organizational strength.
 - Build and steward Invitation Homes' reputation as a technology organization: externally through community and industry engagement, and internally through the standards and culture you set.

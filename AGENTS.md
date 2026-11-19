@@ -27,6 +27,10 @@ Each role document covers five sections in order: **Impact**, **Reach**, **Knowl
 Reach uses a fixed vocabulary and differs between the Professional and Management Tracks.
 See [ADR-0004](decision-records/0004-reach-vocabulary.md).
 
+Each Professional Track level above SE IV has an equivalent Management Track grade (Staff = EM, Principal = Director, Sr. Principal = Sr. Director, Tech Fellow = VP).
+When changing a role, check it against its equivalent as well as its neighbors on the same track.
+See [ADR-0008](decision-records/0008-track-equivalence.md).
+
 Job descriptions use a four-section structure and follow specific formatting conventions.
 See [ADR-0006](decision-records/0006-job-description-format.md).
 

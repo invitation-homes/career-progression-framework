@@ -15,18 +15,18 @@ You influence not just engineering, but the broader organization's culture, prio
 - Surface and manage organizational risks: systemic gaps, architectural drift, and capability shortfalls that span teams or threaten delivery.
 - Establish an organization-wide culture of engineering excellence.
 - Guide vendor relationships and system integrations so technology partnerships deliver high value and appropriate risk assurance.
-- Establish and maintain technical governance across your department: standards, decision frameworks, and accountability structures that outlast any individual initiative.
+- Establish and maintain technical governance across your operating group: standards, decision frameworks, and accountability structures that outlast any individual initiative.
 - Manage organizational spend in alignment with strategic goals.
 
 ## Reach
 
 - Leadership Reach
-  - Department
+  - Operating Group
 
 - Technical Reach
-  - Company
+  - Department
 
-Your influence spans multiple engineering teams, touching wide areas of the technical and business ecosystem.
+You lead an operating group, and your technical influence extends across the engineering department.
 You partner closely with leadership across Product, Design, Business Operations, and Vendor Management so technology and strategy are deeply integrated.
 
 ## Knowledge
@@ -43,6 +43,8 @@ You partner closely with leadership across Product, Design, Business Operations,
 - Communicate priorities, trade-offs, progress, risks, and results across the organization.
 - Build and maintain trust with executive and cross-functional leadership through consistent, well-reasoned communication.
 - Represent engineering's perspective in company-level conversations, helping the broader organization understand and value the work of your teams.
+- Speak up when you disagree, and once a decision is made, commit fully and create alignment behind it across your operating group.
+- Partner with Principal Engineers, your counterparts on the Professional Track, to set technical strategy and governance for your operating group.
 
 ## Leadership
 
@@ -51,6 +53,7 @@ You partner closely with leadership across Product, Design, Business Operations,
 - Build and nurture cross-functional collaboration.
 - Maintain accountability across the organization.
 - Champion automation and operational efficiency as organizational priorities: the teams that scale best are the ones that eliminate manual toil before it accumulates.
-- Maintain a bias to action at the department level: anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
+- Maintain a bias to action at the operating group level: anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
 - Model strategic thinking, empathy, and continuous improvement at every level of engagement.
 - Serve as a steady decision-maker and mediator, providing clarity, resolving conflicts, and enabling teams to move forward with confidence and focus.
+- Own talent strategy for your operating group: hiring plans, recruiting partnerships, and the pipeline of future Engineering Managers.

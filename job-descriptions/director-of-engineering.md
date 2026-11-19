@@ -16,7 +16,8 @@ You shape how engineering operates as a function: not just what gets built, but 
 You partner with senior leaders across Product, Design, and Business Operations so technology and strategy are deeply integrated at every level.
 
 You've moved beyond developing individual managers to building the organizational structures, leadership practices, and culture that allow engineering to scale.
-Your leadership reach spans the department; your technical reach extends company-wide: you shape the architectural direction and technology strategy that affects the entire organization.
+Your leadership reach spans your operating group; your technical reach extends across the engineering department.
+You set technical strategy for your operating group and help shape it for engineering as a whole.
 
 From here, you'll have a clear path to Sr. Director of Engineering as your strategic influence and organizational scope expand.
 
@@ -24,15 +25,15 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 
 **Technical Leadership**
 
-- Shape the architectural direction and technical strategy for your department, and align it with company priorities and long-term business goals.
+- Shape the architectural direction and technical strategy for your operating group, and align it with company priorities and long-term business goals.
 - Serve as a key voice in build, buy, and partner decisions, providing the organizational context and technical depth needed to make sound choices at scale.
 - Identify and manage organizational technical risk: systemic gaps, architectural drift, and capability shortfalls that span teams or threaten delivery.
 - Guide vendor relationships and system integrations so technology partnerships deliver high value and appropriate risk assurance.
-- Establish and maintain technical governance across your department: standards, decision frameworks, and accountability structures that outlast any individual initiative.
+- Establish and maintain technical governance across your operating group: standards, decision frameworks, and accountability structures that outlast any individual initiative.
 
 **Knowledge & Standards**
 
-- Maintain technical credibility across your department's technology landscape: enough depth to evaluate trade-offs, guide architectural decisions, and earn trust from your engineering leaders.
+- Maintain technical credibility across your operating group's technology landscape: enough depth to evaluate trade-offs, guide architectural decisions, and earn trust from your engineering leaders.
 - Apply principles of organizational design to structure teams effectively for growth, scalability, and sustained delivery.
 - Understand the financial dimensions of engineering: budget management, headcount planning, and aligning organizational spend with strategic priorities.
 - Develop a strong understanding of how engineering investments connect to business outcomes, resident experience, and competitive position.
@@ -43,6 +44,8 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Communicate priorities, trade-offs, progress, risks, and results across the organization, including to executive leadership.
 - Build and maintain trust with leaders across Product, Design, Finance, Business Operations, and Vendor Management through consistent, well-reasoned communication.
 - Represent engineering's perspective in company-level conversations, helping the broader organization understand and value the work of your teams.
+- Speak up when you disagree, and once a decision is made, commit fully and create alignment behind it across your operating group.
+- Partner with Principal Engineers, your counterparts on the Professional Track, to set technical strategy and governance for your operating group.
 
 **Leadership & Culture**
 
@@ -51,9 +54,10 @@ From here, you'll have a clear path to Sr. Director of Engineering as your strat
 - Make organizational design decisions that set your teams up for growth, resilience, and high performance.
 - Maintain accountability across your organization for delivery, quality, culture, and the development of your leaders.
 - Champion automation and operational efficiency as organizational priorities: the teams that scale best are the ones that eliminate manual toil before it accumulates.
-- Maintain a bias to action at the department level: anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
+- Maintain a bias to action at the operating group level: anticipate organizational risks before they surface and keep engineering moving with clarity and momentum.
 - Serve as a steady decision-maker: bring the right voices into consequential decisions, make the call, and create alignment behind it.
 - Model strategic thinking, empathy, curiosity, and continuous improvement at every level of engagement.
+- Own talent strategy for your operating group: hiring plans, recruiting partnerships, and the pipeline of future Engineering Managers.
 
 ## What You Bring
 

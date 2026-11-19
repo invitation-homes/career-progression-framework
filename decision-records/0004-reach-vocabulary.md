@@ -26,9 +26,10 @@ Each role selects from the same set of values, making progression explicit and c
 
 Reach uses a fixed, ordered vocabulary:
 
-**Self → Individual → Team → Cross-Team → Department → Company → Industry**
+**Self → Individual → Team → Cross-Team → Operating Group → Department → Company → Industry**
 
 Each level is inclusive of the levels that precede it.
+**Operating Group** is the set of pods led by a Director of Engineering; **Department** is the full engineering organization.
 
 The framework has two career tracks:
 
@@ -50,3 +51,9 @@ The framework has two career tracks:
 - Professional Track roles declare a single Reach value; Management Track roles declare both a Leadership Reach and a Technical Reach.
 - When creating or reviewing a role, the Reach value should be compared against adjacent roles in the progression to ensure it represents a meaningful step.
 - The Professional Track tops out at **Industry** (Tech Fellow); the Management Track tops out at **Industry** for technical reach and **Company** for leadership reach (VP of Engineering).
+- At equivalent grades across the two tracks, the Professional Track role's Reach equals the Management Track role's Technical Reach (see [ADR-0008](0008-track-equivalence.md)).
+
+## Amendment (2026-11-16)
+
+**Operating Group** was added between Cross-Team and Department.
+Without it, Staff Engineer and Principal Engineer shared the same Reach (Department), Sr. Director of Engineering and VP of Engineering shared the same Leadership Reach (Company), and the Director's scope (an operating group) had no matching value.

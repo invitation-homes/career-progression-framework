@@ -37,10 +37,10 @@ You'll still need some support and supervision from others on the team.
 ## Communication
 
 - Review the work of other engineers using agreed-upon processes (e.g., reviewing a pull request).
-- Give feedback that is clear, kind, and actionable.
 - Write and explain technical documentation in ways that are easy to understand.
 - Contribute to team discussions and encourage others to do the same.
 - Escalate issues in a timely manner when help is needed with deliverables or priorities.
+- Share your perspective when you disagree, then commit fully once the team makes a decision.
 
 ## Leadership
 

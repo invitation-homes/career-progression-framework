@@ -40,6 +40,8 @@ You build strong relationships with stakeholders across departments, helping the
 - Facilitate key communication forums, such as architecture guilds or executive reviews, with clarity, confidence, and empathy.
 - Build and maintain an evergreen knowledge base of architectural patterns and reference implementations to promote long-term technical clarity across the organization.
 - Establish shared language and frameworks that help teams across the department discuss and reason about technical problems consistently.
+- Advocate strongly in department-wide technical decisions, then commit fully and help the organization align behind the outcome.
+- Partner with Directors of Engineering, your counterparts on the Management Track, to keep technical strategy and organizational priorities aligned.
 
 ## Leadership
 
@@ -48,3 +50,5 @@ You build strong relationships with stakeholders across departments, helping the
 - Raise the bar for engineers in technical excellence, judgment, communication, and self-awareness by modeling high standards and providing thoughtful, targeted mentorship.
 - Make the call on hard trade-offs, subjective designs, and complex cross-functional efforts.
 - Establish and enforce governance around architectural decisions, making sure they are recorded, discoverable, and aligned with organizational standards and strategy.
+- Maintain a bias to action at the department level: identify risks early, intervene proactively, and drive resolution before issues become critical.
+- Shape how engineering hires: define what strong looks like for senior technical roles, interview for them, and help calibrate decisions across the department.

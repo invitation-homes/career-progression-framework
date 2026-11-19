@@ -17,7 +17,7 @@ A defect can mean a resident is charged incorrectly or the books don't close.
 
 We've built an engineering culture that takes that responsibility seriously: collaborative teams, high standards, and a genuine investment in the people around you.
 Engineers who are supported, growing, and proud of what they ship build great software.
-We're looking for a Software Engineer IV who is still a hands-on engineer at heart: writing code, making hard technical calls, and shipping.
+We're looking for a Software Engineer IV who is a hands-on engineer at heart: writing code, making hard technical calls, and shipping.
 You'll also help define what excellent looks like for the team.
 This role maps to what many organizations call a tech lead or lead engineer: the point where deep technical ownership and team leadership come together.
 You'll spend the majority of your time as a practitioner, with a meaningful portion invested in the people and practices around you.
